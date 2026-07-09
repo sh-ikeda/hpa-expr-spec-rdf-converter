@@ -3,7 +3,7 @@
 BEGIN {
     FS = "\t"
     if(!col) {
-        print "ERROR: Specify column number.\n -v col=20 for tissues\n -v col=24 for cells" > "/dev/stderr"
+        print "ERROR: Specify column number.\n -v col=19 for tissues\n -v col=23 for cells" > "/dev/stderr"
         exit 1
     }
     print "@prefix ensembl: <http://identifiers.org/ensembl/> ."
@@ -19,7 +19,7 @@ FNR==NR {
 }
 
 FNR>=2 {
-    ### use $20 for tissues, $24 for cells
+    ### use $19 for tissues, $23 for cells
     split(gensub("\"", "", "g", $col), tissues, ";")
     print "ensembl:" $3 " a refexo:HPA_ts_evaluated_gene ."
     for(t in tissues) {
