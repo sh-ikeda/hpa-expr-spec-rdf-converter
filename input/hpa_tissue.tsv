@@ -1,16 +1,18 @@
+RNA tissue specific nTPM
 adipose tissue
 adrenal gland
-blood
+blood vessel
 bone marrow
 brain
 breast
-cervix, uterine
-ductus deferens
+cervix
+choroid plexus
 endometrium 1
 epididymis
 esophagus
 fallopian tube
 gallbladder
+heart muscle
 intestine
 kidney
 liver
@@ -27,11 +29,10 @@ salivary gland
 seminal vesicle
 skeletal muscle
 skin 1
+smooth muscle
 stomach 1
 testis
 thyroid gland
 tongue
 urinary bladder
 vagina
-heart muscle
-smooth muscle
