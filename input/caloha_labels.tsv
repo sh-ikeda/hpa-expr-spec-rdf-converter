@@ -1,0 +1,3968 @@
+TS-0001	name	Abdomen
+TS-0002	name	Abdominal adipose tissue
+TS-0002	synonym	Abdominal Fat
+TS-0002	synonym	Adipose tissue of abdominal region
+TS-0012	name	Adipocyte
+TS-0012	synonym	Adipocytes
+TS-0012	synonym	Fat cell
+TS-0012	synonym	Lipocyte
+TS-0013	name	Adipose tissue
+TS-0013	synonym	Adipose
+TS-0013	synonym	Fat
+TS-0013	synonym	Fat tissue
+TS-0015	name	Adrenal cortex
+TS-0015	synonym	Adrenal gland cortex
+TS-0015	synonym	Adrenal gland cortex cell
+TS-0015	synonym	Adrenocortical
+TS-0015	synonym	Cortex of adrenal gland
+TS-0015	synonym	Cortex of suprarenal gland
+TS-0015	synonym	Suprarenal cortex
+TS-0016	name	Adrenal gland
+TS-0016	synonym	Adrenal
+TS-0016	synonym	Suprarenal gland
+TS-0017	name	Adrenal glomerulosa
+TS-0017	synonym	Zona glomerulosa
+TS-0017	synonym	Zona glomerulosa of adrenal gland
+TS-0017	synonym	Zona glomerulosa of suprarenal gland
+TS-0017	synonym	Adrenal gland cells in zona glomerulosa
+TS-0018	name	Adrenal medulla
+TS-0018	synonym	Adrenal gland medulla
+TS-0018	synonym	Medulla of adrenal gland
+TS-0018	synonym	Medulla of suprarenal gland
+TS-0018	synonym	Suprarenal medulla
+TS-0018	synonym	Adrenal gland medullary cells
+TS-0023	name	Airway epithelium
+TS-0023	synonym	Respiratory epithelium
+TS-0023	synonym	Respiratory system epithelium
+TS-0030	name	Alveolar macrophage
+TS-0031	name	Alveolus
+TS-0031	synonym	Air sac
+TS-0031	synonym	Alveoli
+TS-0031	synonym	Alveolus of lung
+TS-0031	synonym	Lung alveoli
+TS-0031	synonym	Lung alveolus
+TS-0031	synonym	Pulmonary alveoli
+TS-0031	synonym	Pulmonary alveolus
+TS-0033	name	Amnion
+TS-0033	synonym	Amniotic membrane
+TS-0034	name	Amniotic fluid
+TS-0034	synonym	Fetal amniotic fluid
+TS-0037	name	Amygdala
+TS-0037	synonym	Amygdaloid body
+TS-0037	synonym	Archistriatum
+TS-0046	name	Aorta
+TS-0046	synonym	Aortic
+TS-0047	name	Aortic endothelium
+TS-0047	synonym	Aorta endothelial cell
+TS-0047	synonym	Aorta endothelium
+TS-0047	synonym	Aortic endothelial cell
+TS-0047	synonym	Endothelium of aorta
+TS-0048	name	Aortic smooth muscle
+TS-0048	synonym	Aorta smooth muscle
+TS-0048	synonym	Aorta smooth muscle tissue
+TS-0048	synonym	Aortic smooth muscle tissue
+TS-0048	synonym	Aortic vascular smooth muscle
+TS-0051	name	Skin appendage
+TS-0051	synonym	Adnexa of skin
+TS-0051	synonym	Cutaneous appendage
+TS-0051	synonym	Skin appendages
+TS-0052	name	Arachnoid membrane
+TS-0052	synonym	Arachnoid
+TS-0052	synonym	Arachnoid mater
+TS-0054	name	Artery
+TS-0054	synonym	Arterial vessel
+TS-0054	synonym	Arteries
+TS-0055	name	Articular cartilage
+TS-0055	synonym	Articular cartilage of joint
+TS-0055	synonym	Joint cartilage
+TS-0056	name	Articular chondrocyte
+TS-0057	name	Ascending colon
+TS-0057	synonym	Colon ascendens
+TS-0060	name	Astrocyte
+TS-0060	synonym	Astrocytes
+TS-0060	synonym	Astroglia
+TS-0060	synonym	Brain astrocyte
+TS-0068	name	B-cell
+TS-0068	synonym	B cell
+TS-0068	synonym	B-cells
+TS-0068	synonym	B lymphocyte
+TS-0068	synonym	B-lymphocyte
+TS-0073	name	Basophil
+TS-0073	synonym	Basophilic granulocyte
+TS-0075	name	Bile duct
+TS-0075	synonym	Bile duct cells
+TS-0075	synonym	Biliary duct
+TS-0076	name	Blastocyst
+TS-0079	name	Blood
+TS-0079	synonym	Bloodstream
+TS-0079	synonym	Circulating blood
+TS-0079	synonym	Peripheral blood
+TS-0080	name	Blood vessel
+TS-0080	synonym	Vascular
+TS-0085	name	Bone marrow stroma
+TS-0085	synonym	Stroma of bone marrow
+TS-0087	name	Bone marrow
+TS-0088	name	Bone
+TS-0088	synonym	Bones
+TS-0088	synonym	Bone element
+TS-0090	name	Brain capillary
+TS-0091	name	Cerebral cortex
+TS-0091	synonym	Brain cortex
+TS-0091	synonym	Cerebrum cortex
+TS-0091	synonym	Cortex of cerebral hemisphere
+TS-0091	synonym	Pallium
+TS-0091	synonym	Pallium of the brain
+TS-0092	name	Brain endothelium
+TS-0092	synonym	Cerebromicrovascular endothelium
+TS-0093	name	Brain stem
+TS-0093	synonym	Brainstem
+TS-0095	name	Brain
+TS-0095	synonym	Encephalon
+TS-0099	name	Brown adipose tissue
+TS-0099	synonym	Brown adipocyte
+TS-0099	synonym	Brown fat
+TS-0099	synonym	Brown fat cell
+TS-0103	name	Bulbourethral gland
+TS-0103	synonym	Bulbo-urethral gland
+TS-0103	synonym	Cowper's gland
+TS-0103	synonym	Cowper's glands
+TS-0103	synonym	Cowpers gland
+TS-0110	name	Cancellous bone
+TS-0110	synonym	Cancellated bone
+TS-0110	synonym	Spongy bone
+TS-0110	synonym	Trabecular bone
+TS-0110	synonym	Trabecular substance
+TS-0112	name	Capillary endothelium
+TS-0115	name	Heart muscle cell
+TS-0115	synonym	Cardiac cell
+TS-0115	synonym	Cardiac muscle cell
+TS-0115	synonym	Cardiac myocyte
+TS-0115	synonym	Cardiomyocyte
+TS-0115	synonym	Heart muscle myocyte
+TS-0115	synonym	Heart muscle myocytes
+TS-0115	synonym	Cardiomyocytes
+TS-0116	name	Carotid artery
+TS-0116	synonym	Carotid arteries
+TS-0118	name	Cartilage
+TS-0121	name	Caudate nucleus
+TS-0121	synonym	Caudate
+TS-0121	synonym	Caudatus
+TS-0122	name	Cecum
+TS-0122	synonym	Blind intestine
+TS-0122	synonym	Blindgut
+TS-0122	synonym	Caeca
+TS-0122	synonym	Caecum
+TS-0122	synonym	Ceca
+TS-0122	synonym	Intestinum caecum
+TS-0125	name	Cerebellum
+TS-0125	synonym	Cerebellar
+TS-0126	name	Cerebral artery
+TS-0130	name	Cerebrospinal fluid
+TS-0130	synonym	Cerebral spinal fluid
+TS-0130	synonym	CSF
+TS-0134	name	Uterine cervix
+TS-0134	synonym	Cervical canal
+TS-0134	synonym	Cervical canal of uterus
+TS-0134	synonym	Cervix
+TS-0134	synonym	Cervix of uterus
+TS-0134	synonym	Cervix, uterine
+TS-0134	synonym	Neck of uterus
+TS-0137	name	Uterine cervix epithelium
+TS-0137	synonym	Cervical epithelial cell
+TS-0137	synonym	Cervical epithelium
+TS-0137	synonym	Cervix epithelial cell
+TS-0137	synonym	Cervix epithelium
+TS-0137	synonym	Epithelium of uterine cervix
+TS-0137	synonym	Uterine cervix epithelial cell
+TS-0138	name	Chondrocyte
+TS-0138	synonym	Cartilage cell
+TS-0138	synonym	Cartilage chondrocyte
+TS-0138	synonym	Chondrocytes
+TS-0141	name	Chorioamniotic membrane
+TS-0141	synonym	Amnionic/chorionic membrane
+TS-0144	name	Chorionic membrane
+TS-0144	synonym	Chorion
+TS-0144	synonym	Chorion membrane
+TS-0145	name	Choroid plexus
+TS-0150	name	Central nervous system
+TS-0150	synonym	Cerebrospinal axis
+TS-0150	synonym	CNS
+TS-0150	synonym	Neuraxis
+TS-0151	name	Cochlea
+TS-0151	synonym	Cochlear organ
+TS-0152	name	Cochlear duct
+TS-0152	synonym	Cochlear canal
+TS-0152	synonym	Cochlear scala media
+TS-0152	synonym	Membranous cochlea
+TS-0152	synonym	Scala media
+TS-0158	name	Colon
+TS-0162	name	Colon endothelium
+TS-0162	synonym	Colonic endothelium
+TS-0163	name	Colon epithelium
+TS-0163	synonym	Colon epithelial cell
+TS-0163	synonym	Colonic epithelial cell
+TS-0163	synonym	Colonic epithelium
+TS-0163	synonym	Colorectal epithelial cell
+TS-0163	synonym	Colorectal epithelium
+TS-0163	synonym	Epithelium of colon
+TS-0164	name	Colon mucosa
+TS-0164	synonym	Colonic mucosa
+TS-0164	synonym	Mucosa of colon
+TS-0165	name	Colon smooth muscle
+TS-0165	synonym	Colonic smooth muscle
+TS-0165	synonym	Colorectal smooth muscle
+TS-0167	name	Colostrum
+TS-0167	synonym	First milk
+TS-0171	name	Cornea
+TS-0172	name	Corneal endothelium
+TS-0172	synonym	Cornea endothelial cell
+TS-0172	synonym	Cornea endothelium
+TS-0172	synonym	Corneal endothelial cell
+TS-0173	name	Corneal epithelium
+TS-0173	synonym	Cornea epithelial cell
+TS-0173	synonym	Cornea epithelium
+TS-0173	synonym	Corneal epithelial cell
+TS-0173	synonym	Epithelium of cornea
+TS-0175	name	Coronary arterial endothelium
+TS-0175	synonym	Coronary artery endothelium
+TS-0176	name	Coronary artery
+TS-0180	name	Corpus callosum
+TS-0181	name	Corpus luteum
+TS-0181	synonym	Corpora lutea
+TS-0181	synonym	Corpus luteum of ovary
+TS-0181	synonym	Yellow body of ovary
+TS-0183	name	Corpus striatum
+TS-0183	synonym	Brain striatum
+TS-0183	synonym	Striatum
+TS-0190	name	Cytotoxic T-cell
+TS-0190	synonym	Cytolytic T lymphocyte
+TS-0190	synonym	Cytolytic T-cell
+TS-0190	synonym	Cytolytic T-lymphocyte
+TS-0190	synonym	Cytotoxic T lymphocyte
+TS-0190	synonym	Cytotoxic T-lymphocyte
+TS-0190	synonym	Killer T cell
+TS-0190	synonym	Killer T lymphocyte
+TS-0190	synonym	T-cytotoxic cell
+TS-0193	name	Decidua placentalis
+TS-0193	synonym	Placenta decidua cells
+TS-0193	synonym	Placenta decidual cells
+TS-0194	name	Dendritic cell
+TS-0194	synonym	dendritic cells
+TS-0195	name	Dental pulp
+TS-0195	synonym	Pulp of tooth
+TS-0195	synonym	Pulpa dentis
+TS-0195	synonym	Tooth pulp
+TS-0198	name	Diaphragm
+TS-0198	synonym	Diaphragm muscle
+TS-0198	synonym	Diaphragmatic muscle
+TS-0198	synonym	Respiratory diaphragm
+TS-0198	synonym	Thoracic diaphragm
+TS-0199	name	Diencephalon
+TS-0199	synonym	Between brain
+TS-0199	synonym	Interbrain
+TS-0202	name	Distal colon
+TS-0203	name	Distal colon epithelium
+TS-0203	synonym	Epithelium of distal colon
+TS-0211	name	Ductus ejaculatorius
+TS-0211	synonym	Ejaculatory duct
+TS-0213	name	Duodenal mucosa
+TS-0213	synonym	Duodenum mucosa
+TS-0213	synonym	Mucosa of duodenum
+TS-0214	name	Duodenum
+TS-0216	name	Ectoderm
+TS-0216	synonym	Embryonic ectoderm
+TS-0229	name	Embryo
+TS-0229	synonym	Embryonic
+TS-0229	synonym	Whole embryo
+TS-0231	name	Embryonic brain
+TS-0239	name	Embryonic fibroblast
+TS-0246	name	Embryonic head
+TS-0247	name	Embryonic heart
+TS-0249	name	Embryonic kidney
+TS-0252	name	Embryonic liver
+TS-0253	name	Embryonic lung
+TS-0254	name	Embryonic lung fibroblast
+TS-0261	name	Embryonic spinal cord
+TS-0263	name	Embryonic stem cell
+TS-0263	synonym	ES cell
+TS-0266	name	Embryonic testis
+TS-0271	name	Enamel organ
+TS-0271	synonym	Dental organ
+TS-0271	synonym	Tooth enamel organ
+TS-0273	name	Endoderm
+TS-0273	synonym	Embryonic endoderm
+TS-0276	name	Endometrium
+TS-0276	synonym	Endometrial
+TS-0276	synonym	Tunica mucosa uteri
+TS-0276	synonym	Uterine endometrium
+TS-0276	synonym	Uterus endometrium
+TS-0278	name	Endothelium
+TS-0279	name	Eosinophil
+TS-0279	synonym	Eosinophil granulocyte
+TS-0279	synonym	Eosinophilic granulocyte
+TS-0283	name	Epidermis
+TS-0283	synonym	Epiderm
+TS-0283	synonym	Skin epidermis
+TS-0283	synonym	Epidermal
+TS-0283	synonym	Epidermal cells
+TS-0283	synonym	Skin epidermal cells
+TS-0285	name	Epididymis
+TS-0285	synonym	Epididymal
+TS-0285	synonym	Epididymus
+TS-0288	name	Epithelium
+TS-0288	synonym	Epithelial tissue
+TS-0289	name	Erythroblast
+TS-0290	name	Erythrocyte
+TS-0290	synonym	RBC
+TS-0290	synonym	Red blood cell
+TS-0290	synonym	Red blood corpuscle
+TS-0291	name	Erythropoietic cell
+TS-0291	synonym	Erythroid
+TS-0291	synonym	Erythroid cell
+TS-0291	synonym	Erythroid lineage cell
+TS-0304	name	Extraembryonic tissue and fluid
+TS-0305	name	Extraocular muscle
+TS-0305	synonym	EOM
+TS-0305	synonym	Extra-ocular muscle
+TS-0305	synonym	Extrinsic muscle of eyeball
+TS-0305	synonym	Oculomotor muscle
+TS-0308	name	Eye vitreous humor
+TS-0308	synonym	Vitreous body
+TS-0308	synonym	Vitreous humor
+TS-0309	name	Eye
+TS-0309	synonym	Ocular
+TS-0309	synonym	Oculus
+TS-0309	synonym	Visual apparatus
+TS-0321	name	Femoral artery
+TS-0322	name	Femur
+TS-0322	synonym	Femoral bone
+TS-0322	synonym	Thighbone
+TS-0323	name	Fetal adrenal gland
+TS-0325	name	Fetal astrocyte
+TS-0326	name	Fetal B-cell
+TS-0326	synonym	Fetal B cell
+TS-0326	synonym	Fetal B lymphocyte
+TS-0326	synonym	Fetal B-lymphocyte
+TS-0328	name	Fetal brain
+TS-0328	synonym	Foetal brain
+TS-0329	name	Fetal cartilage
+TS-0331	name	Fetal colon
+TS-0334	name	Fetal eye
+TS-0334	synonym	Fetal visual apparatus
+TS-0335	name	Fetal fibroblast
+TS-0338	name	Fetal heart
+TS-0342	name	Fetal kidney
+TS-0344	name	Fetal liver
+TS-0345	name	Fetal lung
+TS-0346	name	Fetal lung fibroblast
+TS-0347	name	Fetal muscle
+TS-0348	name	Fetal pancreas
+TS-0349	name	Fetal retina
+TS-0351	name	Fetal skeletal muscle
+TS-0352	name	Fetal skin
+TS-0354	name	Fetal spinal cord
+TS-0354	synonym	Fetal spinal column
+TS-0355	name	Fetal spleen
+TS-0356	name	Fetal sternum
+TS-0356	synonym	Fetal breastbone
+TS-0357	name	Fetal testis
+TS-0359	name	Fetal thymus
+TS-0360	name	Fetus
+TS-0360	synonym	Fetal
+TS-0360	synonym	Foetus
+TS-0362	name	Fibroblast
+TS-0362	synonym	Fibroblasts
+TS-0362	synonym	Soft tissue fibroblasts
+TS-0377	name	Foot
+TS-0379	name	Foot sole
+TS-0379	synonym	Foot sole tissue
+TS-0380	name	Forebrain
+TS-0380	synonym	Prosencephalon
+TS-0383	name	Foreskin
+TS-0383	synonym	penile prepuce
+TS-0383	synonym	Prepuce
+TS-0383	synonym	Prepuce of penis
+TS-0383	synonym	Preputial skin
+TS-0384	name	Foreskin fibroblast
+TS-0385	name	Foreskin keratinocyte
+TS-0389	name	Frontal lobe
+TS-0389	synonym	Brain frontal lobe
+TS-0394	name	Gall bladder
+TS-0394	synonym	Gallbladder
+TS-0395	name	Gamete
+TS-0395	synonym	Haploid germ cell
+TS-0397	name	Ganglion
+TS-0397	synonym	Ganglia
+TS-0397	synonym	Neural ganglion
+TS-0397	synonym	Peripheral ganglion
+TS-0404	name	Stomach mucosa
+TS-0404	synonym	Gastric mucosa
+TS-0404	synonym	Mucosa of stomach
+TS-0407	name	Gastrointestinal tract
+TS-0407	synonym	Gastro-intestinal system
+TS-0407	synonym	Gastrointestinal system
+TS-0411	name	Germ cell
+TS-0415	name	Glial cell
+TS-0415	synonym	Glia
+TS-0415	synonym	Glia cell
+TS-0415	synonym	Glial
+TS-0415	synonym	Nerve cement
+TS-0415	synonym	Neuroglia
+TS-0415	synonym	Neuroglia cell
+TS-0415	synonym	Neuroglial cell
+TS-0422	name	Granulocyte
+TS-0422	synonym	Granular leucocyte
+TS-0422	synonym	Granular leukocyte
+TS-0422	synonym	Polymorphonuclear leukocytes
+TS-0422	synonym	Granulocytes
+TS-0430	name	Hair
+TS-0430	synonym	cells in cortex/medulla
+TS-0431	name	Dermal papilla
+TS-0431	synonym	Dermal papillae
+TS-0431	synonym	Hair follicle dermal papilla
+TS-0431	synonym	Hair follicle dermal papillae
+TS-0432	name	Hair follicle
+TS-0432	synonym	Follicle of hair
+TS-0432	synonym	Hair follicles
+TS-0433	name	Hair root
+TS-0433	synonym	Radix pili
+TS-0436	name	Head
+TS-0437	name	Heart atrium
+TS-0437	synonym	Atrial tissue of heart
+TS-0437	synonym	Atrium of heart
+TS-0437	synonym	Cardiac atrial
+TS-0437	synonym	Cardiac atrium
+TS-0437	synonym	Heart atria
+TS-0439	name	Heart left ventricle
+TS-0439	synonym	Cardiac left ventricle
+TS-0439	synonym	Left heart ventricle
+TS-0439	synonym	Left ventricle
+TS-0440	name	Heart muscle tissue
+TS-0440	synonym	Cardiac muscle tissue
+TS-0440	synonym	cardiac muscle
+TS-0440	synonym	heart myocardium muscle tissue
+TS-0440	synonym	muscle of heart muscle tissue
+TS-0440	synonym	muscle tissue of cardiac muscle
+TS-0440	synonym	muscle tissue of heart muscle
+TS-0440	synonym	muscle tissue of heart myocardium
+TS-0440	synonym	muscle tissue of myocardium
+TS-0440	synonym	myocardium muscle tissue
+TS-0440	synonym	heart muscle
+TS-0443	name	Heart right ventricle
+TS-0443	synonym	Cardiac right ventricle
+TS-0443	synonym	Right heart ventricle
+TS-0443	synonym	Right ventricle
+TS-0444	name	Heart ventricle
+TS-0444	synonym	Cardiac ventricle
+TS-0444	synonym	Heart ventrical
+TS-0444	synonym	lower chamber of heart
+TS-0444	synonym	Ventricle
+TS-0445	name	Heart
+TS-0445	synonym	Cardiac
+TS-0448	name	Hematopoietic stem cell
+TS-0448	synonym	Bone marrow hematopoietic stem cell
+TS-0448	synonym	Haematopoietic stem cell
+TS-0449	name	Hematopoietic and immune systems
+TS-0449	synonym	Haematopoietic
+TS-0449	synonym	Haematopoietic system
+TS-0449	synonym	Hematopoietic
+TS-0452	name	Hepatic stellate cell
+TS-0452	synonym	hepatic perisinusoidal cell
+TS-0452	synonym	hepatic stellate cells
+TS-0452	synonym	Ito cell
+TS-0452	synonym	Ito cells
+TS-0452	synonym	liver stellate cell
+TS-0454	name	Hepatocyte
+TS-0454	synonym	Hepatic parenchymal cell
+TS-0454	synonym	Hepatocytes
+TS-0454	synonym	Liver parenchymal cell
+TS-0457	name	Hindbrain
+TS-0457	synonym	Rhombencephalon
+TS-0460	name	Hippocampus
+TS-0460	synonym	Brain hippocampus
+TS-0460	synonym	Hippocampus proper
+TS-0460	synonym	Cornu ammonis
+TS-0460	synonym	Ammon's horn
+TS-0469	name	Hypothalamus
+TS-0469	synonym	Hypothalamic
+TS-0470	name	Ileal mucosa
+TS-0470	synonym	Ileum mucosa
+TS-0470	synonym	Mucosa of ileum
+TS-0472	name	Ileum
+TS-0472	synonym	Ilea
+TS-0472	synonym	Ileal
+TS-0472	synonym	Intestinal ileum
+TS-0478	name	Inner ear
+TS-0478	synonym	Internal ear
+TS-0478	synonym	Labyrinth
+TS-0479	name	Inner ear vestibule
+TS-0479	synonym	Bony labyrinth vestibule
+TS-0479	synonym	Inner ear vestibulum
+TS-0479	synonym	Osseous labyrinth vestibule
+TS-0479	synonym	Vestibular labyrinth
+TS-0479	synonym	Vestibule
+TS-0479	synonym	vestibule of bony labyrinth
+TS-0487	name	Intestinal epithelium
+TS-0487	synonym	Epithelium of intestine
+TS-0487	synonym	Intestinal epithelial lining
+TS-0487	synonym	Intestinal epithelium lining
+TS-0487	synonym	Intestine epithelium
+TS-0488	name	Intestinal mucosa
+TS-0488	synonym	mucosa of intestine
+TS-0490	name	Intestine
+TS-0490	synonym	Bowel
+TS-0490	synonym	Intestinal
+TS-0491	name	Iris
+TS-0494	name	Jejunal epithelium
+TS-0494	synonym	Epithelium of jejunum
+TS-0494	synonym	Jejunum epithelium
+TS-0495	name	Jejunal mucosa
+TS-0495	synonym	Mucosa of jejunum
+TS-0496	name	Jejunum
+TS-0497	name	Jugular vein
+TS-0497	synonym	Jugular
+TS-0498	name	Jugular vein endothelium
+TS-0500	name	Keratinocyte
+TS-0500	synonym	Epidermal keratinocyte
+TS-0500	synonym	Keratinocytes
+TS-0500	synonym	Skin keratinocyte
+TS-0500	synonym	Skin keratinocytes
+TS-0503	name	Kidney cortex
+TS-0503	synonym	Cortex of kidney
+TS-0503	synonym	Renal cortex
+TS-0504	name	Renal distal tubule
+TS-0504	synonym	Kidney distal convoluted tubule
+TS-0504	synonym	Kidney distal tubule
+TS-0504	synonym	Kidney distal tubules
+TS-0504	synonym	Renal distal convoluted tubule
+TS-0504	synonym	Distal tubular cells
+TS-0505	name	Kidney epithelium
+TS-0505	synonym	Epithelium of kidney
+TS-0505	synonym	Renal epithelium
+TS-0506	name	Kidney inner medulla
+TS-0506	synonym	Inner medulla of kidney
+TS-0506	synonym	Inner zone of renal medulla
+TS-0506	synonym	Renal inner medulla
+TS-0508	name	Kidney outer medulla
+TS-0508	synonym	Outer medulla of kidney
+TS-0508	synonym	Outer zone of renal medulla
+TS-0508	synonym	Renal outer medulla
+TS-0509	name	Renal proximal tubule
+TS-0509	synonym	Kidney proximal tubule
+TS-0509	synonym	Proximal tubular cells
+TS-0510	name	Kidney
+TS-0510	synonym	Renal
+TS-0510	synonym	Adult mammalian kidney
+TS-0512	name	Lacrimal gland
+TS-0512	synonym	Tear gland
+TS-0513	name	Lactating mammary gland
+TS-0513	synonym	Lactating breast
+TS-0532	name	Larynx
+TS-0542	name	Lens cortex
+TS-0542	synonym	Crystalline lens cortex
+TS-0543	name	Lens epithelium
+TS-0543	synonym	Epithelium of lens
+TS-0543	synonym	Lens epithelial cell
+TS-0544	name	Lens fibers
+TS-0545	name	Lens
+TS-0545	synonym	Crystalline lens
+TS-0545	synonym	Eye lens
+TS-0545	synonym	Ocular lens
+TS-0546	name	Leptomeninges
+TS-0546	synonym	Leptomeninx
+TS-0549	name	Leukocyte
+TS-0549	synonym	Leucocyte
+TS-0549	synonym	White blood cell
+TS-0552	name	Limb
+TS-0552	synonym	Extremity
+TS-0558	name	Lip
+TS-0564	name	Liver
+TS-0564	synonym	Hepatic
+TS-0568	name	Lung
+TS-0570	name	Bronchiolar epithelium
+TS-0570	synonym	Bronchiolar epithelial cell
+TS-0570	synonym	Epithelium of bronchiole
+TS-0573	name	Lung endothelium
+TS-0575	name	Lung fibroblast
+TS-0576	name	Lung macrophage
+TS-0576	synonym	Lung macrophages
+TS-0579	name	Lymph node
+TS-0579	synonym	Lymph gland
+TS-0580	name	Lymph
+TS-0580	synonym	Lymphatic fluid
+TS-0581	name	Lymphoblast
+TS-0581	synonym	Lymphoblast cell
+TS-0581	synonym	Lymphoblastoid
+TS-0581	synonym	Transformed lymphocyte
+TS-0583	name	Lymphocyte
+TS-0584	name	Lymphoid tissue
+TS-0584	synonym	Lymphatic tissue
+TS-0584	synonym	Lymphoid
+TS-0584	synonym	Lymphoreticular system
+TS-0587	name	Macrophage
+TS-0587	synonym	Macrophages
+TS-0593	name	Mammary epithelium
+TS-0593	synonym	Epithelium of mammary gland
+TS-0593	synonym	Mammary epithelial cell
+TS-0594	name	Mammary fibroblast
+TS-0594	synonym	Breast fibroblast
+TS-0594	synonym	Mammary gland fibroblast
+TS-0595	name	Mammary gland
+TS-0595	synonym	Mammary
+TS-0595	synonym	Mammary glands
+TS-0595	synonym	Thoracic mammary
+TS-0603	name	Mast cell
+TS-0603	synonym	Mastocyte
+TS-0607	name	Medulla oblongata
+TS-0607	synonym	Bulb
+TS-0610	name	Megakaryoblast
+TS-0610	synonym	Megacaryoblast
+TS-0611	name	Megakaryocyte
+TS-0613	name	Melanocyte
+TS-0613	synonym	Melanocytes
+TS-0617	name	Mesangial cell
+TS-0617	synonym	Glomerular mesangial cell
+TS-0617	synonym	Mesangial cell of glomerulus
+TS-0618	name	Mesenchymal stem cell
+TS-0618	synonym	MSC stem cell
+TS-0618	synonym	Multipotent mesenchymal stromal cell
+TS-0618	synonym	Multipotent MSC stem cell
+TS-0618	synonym	Mesenchymal cell
+TS-0620	name	Mesenchyme
+TS-0620	synonym	mesenchyme tissue
+TS-0623	name	Mesoderm
+TS-0623	synonym	Embryonic mesoderm
+TS-0624	name	Mesonephros
+TS-0624	synonym	Mesonephron
+TS-0627	name	Microglia
+TS-0627	synonym	microglial cell
+TS-0627	synonym	microglial cells
+TS-0627	synonym	microgliocyte
+TS-0630	name	Midbrain
+TS-0630	synonym	Mesencephalon
+TS-0630	synonym	Mid-brain
+TS-0631	name	Middle ear mucosa
+TS-0631	synonym	Mucosa of middle ear
+TS-0636	name	Milk
+TS-0637	name	Molar
+TS-0637	synonym	Dens molaris
+TS-0637	synonym	Molar tooth
+TS-0637	synonym	Molaris
+TS-0637	synonym	Multicuspid tooth
+TS-0638	name	Monocyte
+TS-0638	synonym	Monocytes
+TS-0642	name	Muscle tissue
+TS-0642	synonym	Muscle tissue
+TS-0643	name	Muscle fibroblast
+TS-0647	name	Myeloid cell
+TS-0647	synonym	Myeloid
+TS-0650	name	Myoblast
+TS-0652	name	Myometrium
+TS-0652	synonym	Smooth muscle myometrium
+TS-0652	synonym	Uterine smooth muscle
+TS-0655	name	Nasal cartilage
+TS-0655	synonym	cartilage of nose
+TS-0656	name	Nasal epithelium
+TS-0656	synonym	Epithelium of nose
+TS-0656	synonym	Nasal cavity mucosa
+TS-0656	synonym	Nasal cavity epithelium
+TS-0657	name	Nasal mucosa
+TS-0657	synonym	Mucosa of nose
+TS-0657	synonym	Mucous membrane of nose
+TS-0658	name	Nasal mucus
+TS-0660	name	Nasal vestibule
+TS-0662	name	Nasopharyngeal epithelium
+TS-0662	synonym	Epithelium of nasopharynx
+TS-0662	synonym	Nasopharynx epithelium
+TS-0663	name	Nasopharynx
+TS-0663	synonym	Rhinopharynx
+TS-0664	name	Natural killer cell
+TS-0664	synonym	NK cell
+TS-0664	synonym	NK-cell
+TS-0664	synonym	NK lymphocyte
+TS-0664	synonym	NK-cells
+TS-0676	name	Neural crest
+TS-0682	name	Neuroepithelium
+TS-0682	synonym	Neuroepithelial cell
+TS-0682	synonym	Sensory epithelium
+TS-0683	name	Neuron
+TS-0683	synonym	Neuronal cell
+TS-0685	name	Neuroretina
+TS-0685	synonym	Neural layer of retina
+TS-0685	synonym	Neural retina
+TS-0685	synonym	Neuroretinal cell
+TS-0688	name	Neutrophil
+TS-0688	synonym	Neutrophil granulocyte
+TS-0688	synonym	Neutrophilic granulocyte
+TS-0690	name	Notochord
+TS-0693	name	Occipital lobe
+TS-0693	synonym	Brain occipital lobe
+TS-0694	name	Ocular ciliary body
+TS-0694	synonym	Ciliary body
+TS-0695	name	Ocular ciliary epithelium
+TS-0695	synonym	Ciliary epithelium
+TS-0695	synonym	Epithelium of ciliary body
+TS-0696	name	Odontoblast
+TS-0696	synonym	Odontoblastic cell
+TS-0698	name	Esophageal epithelium
+TS-0698	synonym	Epithelium of esophagus
+TS-0698	synonym	Esophageal epithelial cell
+TS-0698	synonym	Oesophageal epithelial cell
+TS-0698	synonym	Oesophageal epithelium
+TS-0700	name	Esophagus
+TS-0700	synonym	Oesophagus
+TS-0702	name	Olfactory bulb
+TS-0702	synonym	Olfactory region
+TS-0703	name	Olfactory epithelium
+TS-0703	synonym	Olfactory sensory epithelium
+TS-0709	name	Oligodendrocyte
+TS-0709	synonym	oligodendroglia
+TS-0709	synonym	oligodendrocytes
+TS-0709	synonym	oligodendroglia cell
+TS-0711	name	Oocyte
+TS-0711	synonym	Female gamete
+TS-0711	synonym	Female haploid germ cell
+TS-0711	synonym	Ovocyte
+TS-0711	synonym	Oocytes
+TS-0713	name	Optic nerve
+TS-0713	synonym	Optic II nerve
+TS-0713	synonym	Second cranial nerve
+TS-0715	name	Oral epithelium
+TS-0715	synonym	Epithelium of mouth
+TS-0715	synonym	Epithelium of mucosa of mouth
+TS-0715	synonym	Epithelium of oral cavity
+TS-0715	synonym	Oral cavity epithelial cell
+TS-0715	synonym	Oral cavity epithelium
+TS-0715	synonym	Oral epithelial cell
+TS-0716	name	Oral mucosa
+TS-0716	synonym	Mouth mucosa
+TS-0716	synonym	Mucosa of mouth
+TS-0716	synonym	Oral cavity mucosa
+TS-0717	name	Organ of Corti
+TS-0717	synonym	cochlear spiral organ
+TS-0717	synonym	Spiral organ
+TS-0717	synonym	Spiral organ of Corti
+TS-0718	name	Oropharynx
+TS-0720	name	Osteoblast
+TS-0721	name	Osteoclast
+TS-0726	name	Ovarian follicle
+TS-0726	synonym	Follicle of ovary
+TS-0726	synonym	Ovarian follicle cell
+TS-0726	synonym	Ovary follicle
+TS-0726	synonym	Ovary follicle cells
+TS-0728	name	Ovarian follicular fluid
+TS-0728	synonym	Follicular fluid
+TS-0728	synonym	Ovary follicular fluid
+TS-0729	name	Ovarian granulosa cell
+TS-0729	synonym	granulosa cell
+TS-0729	synonym	granulosa cells
+TS-0730	name	Ovary
+TS-0730	synonym	Ovarian
+TS-0730	synonym	Ovaries
+TS-0732	name	Oviduct
+TS-0732	synonym	Fallopian tube
+TS-0732	synonym	Uterine tube
+TS-0736	name	Pancreas
+TS-0736	synonym	Pancreatic
+TS-0737	name	Pancreatic acinar cell
+TS-0737	synonym	Acinar cell of pancreas
+TS-0737	synonym	Exocrine acinar cell
+TS-0737	synonym	Exocrine pancreas cell
+TS-0737	synonym	Exocrine pancreatic acinar cell
+TS-0741	name	Pancreatic islet
+TS-0741	synonym	Granules of Langerhans
+TS-0741	synonym	Island of Langerhans
+TS-0741	synonym	Islet of Langerhans
+TS-0741	synonym	Islets of Langerhans
+TS-0741	synonym	Pancreas islet cell
+TS-0741	synonym	Pancreas islet cells
+TS-0741	synonym	Pancreas islet of Langerhans
+TS-0741	synonym	Pancreatic islet cell
+TS-0745	name	Parathyroid
+TS-0745	synonym	Parathyroid gland
+TS-0747	name	Parietal lobe
+TS-0747	synonym	Brain parietal lobe
+TS-0748	name	Parotid gland
+TS-0748	synonym	Parotid
+TS-0751	name	Pectoralis muscle
+TS-0751	synonym	Pectoral muscle
+TS-0758	name	Penis
+TS-0761	name	Pericardium
+TS-0763	name	Periodontal ligament
+TS-0763	synonym	Periodontal membrane
+TS-0765	name	Peripheral blood granulocyte
+TS-0766	name	Peripheral blood leukocyte
+TS-0766	synonym	Peripheral blood leucocyte
+TS-0767	name	Peripheral blood lymphocyte
+TS-0768	name	Peripheral blood monocyte
+TS-0768	synonym	Mononuclear cell
+TS-0768	synonym	Mononuclear leukocyte
+TS-0769	name	Peripheral blood neutrophil
+TS-0770	name	Peripheral blood T-cell
+TS-0770	synonym	Peripheral blood T cell
+TS-0770	synonym	Peripheral blood T lymphocyte
+TS-0770	synonym	Peripheral blood T-lymphocyte
+TS-0771	name	Peripheral blood cell
+TS-0771	synonym	Blood cell
+TS-0771	synonym	Blood cells
+TS-0772	name	Peripheral nerve
+TS-0772	synonym	Nerve
+TS-0780	name	Peyer patch
+TS-0780	synonym	Aggregated lymphoid nodules of small intestine
+TS-0780	synonym	Agregated lymphatic nodule
+TS-0780	synonym	Peyer's gland
+TS-0780	synonym	Peyer's patch
+TS-0780	synonym	Peyer's patches
+TS-0785	name	Pharynx
+TS-0785	synonym	Pharyngeal
+TS-0789	name	Pineal gland
+TS-0789	synonym	Pineal
+TS-0789	synonym	Pineal body
+TS-0789	synonym	Pineal organ
+TS-0794	name	Pituitary anterior lobe
+TS-0794	synonym	Adenohypophysis
+TS-0794	synonym	Anterior lobe of hypophysis
+TS-0794	synonym	Anterior pituitary
+TS-0794	synonym	Anterior pituitary gland
+TS-0795	name	Pituitary neurointermediate lobe
+TS-0795	synonym	Intermediate lobe of pituitary
+TS-0795	synonym	Intermediate pituitary
+TS-0795	synonym	pars intermedia
+TS-0795	synonym	pars intermedia adenohypophysis
+TS-0798	name	Pituitary gland
+TS-0798	synonym	Hypophysis
+TS-0798	synonym	Pituitary
+TS-0798	synonym	Pituitary body
+TS-0799	name	Placenta
+TS-0799	synonym	Placental
+TS-0800	name	Plasma
+TS-0800	synonym	Blood plasma
+TS-0801	name	Plasmacytoid dendritic cell
+TS-0801	synonym	PDC
+TS-0801	synonym	Plasmacytoid DCs
+TS-0801	synonym	Plasmacytoid DC
+TS-0803	name	Platelet
+TS-0803	synonym	Blood platelet
+TS-0803	synonym	Thrombocyte
+TS-0808	name	Peripheral nervous system
+TS-0808	synonym	PNS
+TS-0813	name	Pons
+TS-0813	synonym	Pons of Varolius
+TS-0813	synonym	Pons Varolii
+TS-0814	name	Portal vein
+TS-0815	name	Posterior pituitary
+TS-0815	synonym	Neurohypophysis
+TS-0815	synonym	Posterior lobe of pituitary gland
+TS-0815	synonym	Posterior pituitary gland
+TS-0819	name	Pre-B cell
+TS-0819	synonym	Pre-B lymphocyte
+TS-0819	synonym	Pre-B-lymphocyte
+TS-0822	name	Preoptic area of hypothalamus
+TS-0822	synonym	Preoptic area
+TS-0822	synonym	Preoptic nuclei
+TS-0822	synonym	Preoptic nucleus
+TS-0822	synonym	Preoptic region of hypothalamus
+TS-0824	name	Preputial gland
+TS-0824	synonym	Preputial glands
+TS-0825	name	Promyelocyte
+TS-0828	name	Prostate
+TS-0828	synonym	Prostate gland
+TS-0839	name	Pulmonary artery
+TS-0840	name	Pulmonary vein
+TS-0845	name	Purkinje cell
+TS-0845	synonym	Cerebellar Purkinje cell
+TS-0845	synonym	Cerebellar Purkinje neuron
+TS-0845	synonym	Purkinje cells
+TS-0845	synonym	Purkinje neuron
+TS-0845	synonym	Purkinje's cell
+TS-0860	name	Renal collecting duct
+TS-0860	synonym	Collecting duct of renal tubule
+TS-0860	synonym	Kidney collecting duct
+TS-0860	synonym	Kidney collecting ducts
+TS-0860	synonym	Renal collecting tubule
+TS-0860	synonym	Tubulus renalis colligen
+TS-0860	synonym	Collecting duct cells
+TS-0862	name	Renal glomerulus
+TS-0862	synonym	Glomerular tuft
+TS-0862	synonym	Glomerus
+TS-0862	synonym	Kidney cells in glomeruli
+TS-0862	synonym	Kidney glomeruli cell
+TS-0862	synonym	Kidney glomeruli cells
+TS-0862	synonym	Kidney glomerulus cell
+TS-0862	synonym	Kidney glomerus
+TS-0862	synonym	Malphigian glomerulus
+TS-0862	synonym	Renal glomerular cell
+TS-0862	synonym	Renal glomerulus cell
+TS-0862	synonym	Metanephric glomerulus
+TS-0864	name	Reticulocyte
+TS-0865	name	Retina
+TS-0865	synonym	Inner layer of eyeball
+TS-0865	synonym	Retinal
+TS-0865	synonym	Tunica interna of eyeball
+TS-0866	name	Retinal cone cell
+TS-0866	synonym	Cone cell
+TS-0866	synonym	Retinal cone
+TS-0866	synonym	Retinal cone photoreceptor cells
+TS-0866	synonym	Cone photoreceptor cells
+TS-0867	name	Retinal ganglion
+TS-0867	synonym	Ganglion cell layer
+TS-0867	synonym	Ganglionic cell layer of retina
+TS-0867	synonym	Retina ganglion cell layer
+TS-0867	synonym	Retina ganglion layer
+TS-0867	synonym	Retinal ganglia
+TS-0867	synonym	Retinal ganglion cell layer
+TS-0867	synonym	Retinal ganglion cells
+TS-0867	synonym	Retinal ganglion layer
+TS-0868	name	Retinal photoreceptor
+TS-0868	synonym	photoreceptor cell
+TS-0868	synonym	Retinal photoreceptor cell
+TS-0869	name	Retinal pigment epithelium
+TS-0869	synonym	Epithelium of retinal pigment
+TS-0869	synonym	Pigment epithelium of retina EXACT []
+TS-0869	synonym	Retinal pigment epithelial cell
+TS-0869	synonym	Retinal pigmented epithelium
+TS-0869	synonym	Pigmented layer of retina
+TS-0870	name	Retinal rod cell
+TS-0870	synonym	Retinal rod
+TS-0870	synonym	Retinal rod photoreceptor cells
+TS-0870	synonym	Rod photoreceptor cells
+TS-0891	name	Saliva
+TS-0891	synonym	Salivary gland secretion
+TS-0892	name	Salivary gland
+TS-0893	name	Saphenous vein
+TS-0896	name	Scalp
+TS-0897	name	Scapula
+TS-0897	synonym	Scapula bone
+TS-0897	synonym	Shoulder blade
+TS-0898	name	Schwann cell
+TS-0898	synonym	Schwann cells
+TS-0899	name	Sciatic nerve
+TS-0917	name	Semen
+TS-0918	name	Seminal plasma
+TS-0918	synonym	Seminal fluid
+TS-0919	name	Seminal vesicle
+TS-0919	synonym	Glandula vesiculosa
+TS-0919	synonym	Seminal gland
+TS-0920	name	Seminiferous epithelium
+TS-0920	synonym	Epithelium of seminiferous tubule
+TS-0920	synonym	Epithelium of seminiferous tubule of testis
+TS-0920	synonym	Male germinal epithelium
+TS-0920	synonym	Seminiferous tubule epithelium
+TS-0922	name	Sertoli cell
+TS-0922	synonym	Sertoli cells
+TS-0923	name	Serum
+TS-0923	synonym	Blood serum
+TS-0933	name	Skeletal muscle tissue
+TS-0934	name	Skin
+TS-0935	name	Skin fibroblast
+TS-0935	synonym	Skin fibroblasts
+TS-0940	name	Slow-twitch skeletal muscle
+TS-0940	synonym	Slow skeletal muscle
+TS-0941	name	Small intestine mucosa
+TS-0941	synonym	Mucosa of small intestine
+TS-0941	synonym	Small intestinal mucosa
+TS-0942	name	Small intestine
+TS-0942	synonym	Small bowel
+TS-0943	name	Smooth muscle tissue
+TS-0943	synonym	Involuntary muscle
+TS-0943	synonym	Non-striated muscle
+TS-0943	synonym	smooth muscle tissue
+TS-0943	synonym	Unstriated muscle
+TS-0943	synonym	smooth muscle
+TS-0949	name	Spermatozoon
+TS-0949	synonym	Male gamete
+TS-0949	synonym	Male haploid germ cell
+TS-0949	synonym	Mature sperm cell
+TS-0949	synonym	Sperm cell
+TS-0949	synonym	Spermatozoa
+TS-0949	synonym	Spermatozoan
+TS-0949	synonym	Spermatozoid
+TS-0950	name	Spermatid
+TS-0951	name	Spermatocyte
+TS-0951	synonym	Spermatocytes
+TS-0953	name	Spinal cord
+TS-0954	name	Spinal ganglion
+TS-0954	synonym	Dorsal root ganglia
+TS-0954	synonym	Dorsal root ganglion
+TS-0956	name	Spleen
+TS-0957	name	Splenocyte
+TS-0963	name	Sputum
+TS-0963	synonym	Expectoration
+TS-0972	name	Sternum
+TS-0972	synonym	Breastbone
+TS-0980	name	Stomach
+TS-0980	synonym	Gaster
+TS-0980	synonym	Gastric tissue
+TS-0981	name	Stratum corneum
+TS-0981	synonym	Horny layer
+TS-0981	synonym	Horny layer of epidermis
+TS-0981	synonym	Horny layers
+TS-0981	synonym	skin cells in corneal layer
+TS-0982	name	Stria vascularis
+TS-0982	synonym	Stria vascularis of cochlea
+TS-0982	synonym	Stria vascularis of cochlear duct
+TS-0984	name	Stromal cell
+TS-0986	name	Subcommissural organ
+TS-0987	name	Sublingual gland
+TS-0987	synonym	Sublingual salivary gland
+TS-0988	name	Submandibular gland
+TS-0988	synonym	Submaxillary gland
+TS-0988	synonym	Submaxillary salivary gland
+TS-0990	name	Substantia nigra
+TS-0992	name	Suprachiasmatic nucleus
+TS-0993	name	Sweat gland
+TS-0994	name	Sympathetic ganglion
+TS-0994	synonym	ganglion of sympathetic nervous system
+TS-0994	synonym	Sympathetic ganglia
+TS-0995	name	Synovial cell
+TS-0995	synonym	Synovial cells
+TS-0995	synonym	Synoviocyte
+TS-0996	name	Synovial fluid
+TS-0996	synonym	Joint fluid
+TS-0996	synonym	Synovia
+TS-0998	name	Synovium
+TS-0998	synonym	Layer of synovial tissue
+TS-0998	synonym	Synovial layer
+TS-0998	synonym	Synovial membrane
+TS-0998	synonym	Synovial sheath
+TS-0998	synonym	Synovial tissue
+TS-0999	name	T lymphoblast
+TS-0999	synonym	T-lymphoblast
+TS-1001	name	T-cell
+TS-1001	synonym	T cell
+TS-1001	synonym	T-cells
+TS-1001	synonym	T lymphocyte
+TS-1001	synonym	T-lymphocyte
+TS-1015	name	Taste bud
+TS-1015	synonym	Caliculus gustatorius
+TS-1015	synonym	Gemma gustatoria
+TS-1015	synonym	Gustatory bud
+TS-1015	synonym	Schwalbe corpuscle
+TS-1015	synonym	Schwalbe's corpuscle
+TS-1016	name	Tear
+TS-1018	name	Telencephalon
+TS-1018	synonym	Cerebrum
+TS-1018	synonym	Supratentorial region
+TS-1018	synonym	Supratentorial region of the brain
+TS-1020	name	Temporal lobe
+TS-1020	synonym	Brain temporal lobe
+TS-1021	name	Tendon
+TS-1026	name	Term myometrium
+TS-1027	name	Term placenta
+TS-1030	name	Testis
+TS-1030	synonym	Testes
+TS-1030	synonym	Testicle
+TS-1030	synonym	Testicular
+TS-1030	synonym	Testiculus
+TS-1031	name	Thalamus
+TS-1031	synonym	dorsal plus ventral thalamus
+TS-1033	name	Thigh epidermis
+TS-1037	name	Thoracic muscle
+TS-1037	synonym	Muscle of thorax
+TS-1037	synonym	Thorax muscle
+TS-1039	name	Thorax
+TS-1039	synonym	Chest
+TS-1040	name	Thymic epithelium
+TS-1040	synonym	Epithelium of thymus
+TS-1040	synonym	Thymic epithelial cell
+TS-1040	synonym	Thymic epithelial cells
+TS-1042	name	Thymocyte
+TS-1042	synonym	Thymic lymphocyte
+TS-1042	synonym	Thymus lymphocyte
+TS-1043	name	Thymus
+TS-1043	synonym	Thymus gland
+TS-1047	name	Thyroid
+TS-1047	synonym	Thyroid gland
+TS-1048	name	Tibia
+TS-1048	synonym	Tibial bone
+TS-1050	name	Tongue
+TS-1051	name	Tongue epithelium
+TS-1051	synonym	Epithelium of tongue
+TS-1051	synonym	Lingual epithelia
+TS-1051	synonym	Lingual epithelial cell
+TS-1051	synonym	Lingual epithelium
+TS-1051	synonym	Tongue epithelial cell
+TS-1053	name	Tonsil
+TS-1055	name	Tooth
+TS-1056	name	Tooth bud
+TS-1057	name	Tooth enamel
+TS-1057	synonym	Dental enamel
+TS-1057	synonym	Enamel
+TS-1057	synonym	Enamel of tooth
+TS-1058	name	Trabecular meshwork
+TS-1058	synonym	Eye trabecular meshwork
+TS-1058	synonym	Eye trabeculum
+TS-1058	synonym	Reticulum trabeculare
+TS-1058	synonym	Trabecular meshwork of the eye
+TS-1060	name	Trachea
+TS-1060	synonym	Tracheal
+TS-1060	synonym	Tracheal tubule
+TS-1061	name	Tracheal epithelium
+TS-1061	synonym	Epithelium of trachea
+TS-1061	synonym	Trachea epithelial cell
+TS-1061	synonym	Trachea epithelium
+TS-1061	synonym	Tracheal epithelial cell
+TS-1063	name	Tracheobronchial epithelium
+TS-1063	synonym	Bronchotracheal epithelium
+TS-1063	synonym	Epithelium of tracheobronchia
+TS-1063	synonym	Tracheobronchia epithelium
+TS-1070	name	Trophoblast
+TS-1070	synonym	Embryonic trophoblast
+TS-1070	synonym	Trophoblastic cells
+TS-1070	synonym	Trophoderm
+TS-1071	name	Trunk
+TS-1077	name	Umbilical artery
+TS-1078	name	Umbilical cord
+TS-1079	name	Umbilical cord blood
+TS-1081	name	Umbilical vein endothelium
+TS-1081	synonym	Umbilical vein endothelial cell
+TS-1082	name	Umbilical vein
+TS-1082	synonym	Umbilical cord vein
+TS-1084	name	Ureter
+TS-1087	name	Urinary bladder smooth muscle
+TS-1088	name	Urinary bladder urothelium
+TS-1088	synonym	Urinary bladder epithelium
+TS-1088	synonym	Urothelium of urinary bladder
+TS-1090	name	Urinary bladder
+TS-1090	synonym	Bladder
+TS-1090	synonym	Vesica
+TS-1092	name	Urine
+TS-1096	name	Urothelium
+TS-1098	name	Uterine ectocervix
+TS-1098	synonym	Ectocervix
+TS-1099	name	Uterine endothelium
+TS-1099	synonym	Uterus endothelium
+TS-1102	name	Uterus
+TS-1102	synonym	Uterine
+TS-1102	synonym	Womb
+TS-1103	name	Vagina
+TS-1105	name	Vas deferens
+TS-1105	synonym	Deferent duct
+TS-1105	synonym	Ductus deferens
+TS-1106	name	Vascular endothelium
+TS-1107	name	Vascular smooth muscle
+TS-1107	synonym	Blood vessel smooth muscle
+TS-1108	name	Vein
+TS-1108	synonym	Veins
+TS-1108	synonym	venous vessel
+TS-1117	name	Visual cortex
+TS-1119	name	White adipose tissue
+TS-1119	synonym	White adipocyte
+TS-1130	name	Yolk sac
+TS-1132	name	Urethra
+TS-1138	name	Corneal stroma
+TS-1138	synonym	Cornea stroma
+TS-1138	synonym	Substantia propria of cornea
+TS-1146	name	Helper T-cell
+TS-1146	synonym	Helper T lymphocyte
+TS-1146	synonym	Helper T-lymphocyte
+TS-1146	synonym	T-helper cell
+TS-1146	synonym	T-helper lymphocyte
+TS-1149	name	Basal ganglia
+TS-1149	synonym	Basal ganglion
+TS-1149	synonym	Basal nuclei
+TS-1149	synonym	Basal nucleus
+TS-1150	name	Leydig cell
+TS-1150	synonym	Interstitial cells of Leydig
+TS-1150	synonym	Leydig cells
+TS-1154	name	Subthalamic nucleus
+TS-1154	synonym	corpus Luysi
+TS-1154	synonym	Luys' body
+TS-1154	synonym	nucleus of Luys
+TS-1154	synonym	subthalamic nuclei
+TS-1154	synonym	subthalamic (Luysi) nucleus
+TS-1157	name	Kidney medulla
+TS-1157	synonym	Renal medulla
+TS-1159	name	Corneal fibroblast
+TS-1159	synonym	Keratocyte
+TS-1159	synonym	Keratocytes
+TS-1160	name	Distal colon mucosa
+TS-1164	name	Cementoblast
+TS-1165	name	Ear
+TS-1165	synonym	Auditory apparatus
+TS-1167	name	Osteocyte
+TS-1168	name	Vulva
+TS-1171	name	Cajal-Retzius cell
+TS-1171	synonym	CR cell
+TS-1172	name	Bile
+TS-1172	synonym	Gall
+TS-1177	name	Meninges
+TS-1177	synonym	Meninx
+TS-1180	name	Rectum
+TS-1183	name	Mesothelium
+TS-1185	name	Fetal esophagus
+TS-1185	synonym	Fetal oesophagus
+TS-1191	name	Neonatal skin
+TS-1195	name	Monoblast
+TS-1195	synonym	Monocyte-Macrophage Precursor Cells
+TS-1198	name	Artery smooth muscle
+TS-1198	synonym	Arterial smooth muscle
+TS-1198	synonym	Smooth muscle of artery
+TS-1211	name	Fetal cerebral cortex
+TS-1211	synonym	Fetal brain cortex
+TS-1211	synonym	Fetal cerebrum cortex
+TS-1211	synonym	Fetal pallium
+TS-1211	synonym	Foetal cerebral cortex
+TS-1211	synonym	Foetal cerebrum cortex
+TS-1211	synonym	Foetal pallium
+TS-1212	name	Neuroectoderm
+TS-1212	synonym	Neural ectoderm
+TS-1216	name	Jejunal smooth muscle
+TS-1229	name	Bronchus
+TS-1229	synonym	Bronchi
+TS-1229	synonym	Bronchial trunk
+TS-1230	name	Lateral ventricle
+TS-1231	name	Vulva/Anal skin
+TS-1238	name	Lymphoid cell
+TS-1239	name	Seminiferous tubule
+TS-1239	synonym	Seminiferous duct
+TS-1239	synonym	Seminiferous tubule of testis
+TS-1239	synonym	Testis cells in seminiferus ducts
+TS-1239	synonym	Cells in seminiferous ducts
+TS-1240	name	Bronchus epithelium
+TS-1240	synonym	Bronchial epithelium
+TS-1240	synonym	Epithelium of bronchus
+TS-1241	name	Exocrine pancreas
+TS-1241	synonym	Exocrine part of pancreas
+TS-1242	name	Pancreas exocrine glandular cell
+TS-1242	synonym	Exocrine pancreas glandular cell
+TS-1242	synonym	Exocrine glandular cells
+TS-1242	synonym	Pancreas exocrine glandular cells
+TS-1246	name	Ovarian stroma
+TS-1246	synonym	Ovarian stroma cells
+TS-1246	synonym	Ovarian stromal cell
+TS-1246	synonym	Ovarian stromal cells
+TS-1246	synonym	Ovary stromal cells
+TS-1247	name	Cerebellum granular layer
+TS-1247	synonym	cerebellar granular layer
+TS-1247	synonym	cerebellar granule cell layer
+TS-1247	synonym	cerebellar granule layer
+TS-1247	synonym	Cerebellum cells in granular layer
+TS-1247	synonym	cerebellum granule cell layer
+TS-1247	synonym	Granular layer of cerebellar cortex
+TS-1247	synonym	Cerebellum granular cells
+TS-1248	name	Cerebellum molecular layer
+TS-1248	synonym	cerebellar molecular layer
+TS-1248	synonym	Cerebellum cells in molecular layer
+TS-1248	synonym	cerebellum molecular cell layer
+TS-1248	synonym	Molecular layer of cerebellar cortex
+TS-1248	synonym	Cerebellum molecular layer cells
+TS-1249	name	Squamous cell
+TS-1249	synonym	Squamous epithelial cell
+TS-1249	synonym	Squamous epithelial cells
+TS-1250	name	Esophageal squamous cell
+TS-1250	synonym	Esophagus squamous cell
+TS-1250	synonym	Esophagus squamous epithelial cell
+TS-1250	synonym	Esophagus squamous epithelial cells
+TS-1250	synonym	Oesophageal squamous epithelial cell
+TS-1250	synonym	Oesophagus squamous cell
+TS-1250	synonym	Oesophagus squamous epithelial cell
+TS-1251	name	Uterine cervix squamous cell
+TS-1251	synonym	cervix squamous cell
+TS-1251	synonym	cervix squamous epithelial cells
+TS-1251	synonym	cervix squamous epithelial cell
+TS-1251	synonym	cervix, uterine squamous epithelial cells
+TS-1251	synonym	uterine cervix squamous epithelial cell
+TS-1251	synonym	uterine cervix squamous epithelial cells
+TS-1252	name	Oral mucosa squamous cell
+TS-1252	synonym	Oral cavity mucosa squamous cell
+TS-1252	synonym	Oral cavity mucosa squamous epithelial cell
+TS-1252	synonym	Oral mucosa squamous epithelial cell
+TS-1252	synonym	Oral mucosa squamous epithelial cells
+TS-1253	name	Tonsil squamous cell
+TS-1253	synonym	Tonsil squamous epithelial cell
+TS-1253	synonym	Tonsil squamous epithelial cells
+TS-1253	synonym	Tonsillar squamous cell
+TS-1253	synonym	Tonsillar squamous epithelial cell
+TS-1254	name	Vagina squamous cell
+TS-1254	synonym	Vagina squamous epithelial cell
+TS-1254	synonym	Vagina squamous epithelial cells
+TS-1254	synonym	Vaginal squamous cell
+TS-1254	synonym	Vaginal squamous epithelial cell
+TS-1255	name	Vulva/Anal squamous cell
+TS-1255	synonym	Vulva/anal skin squamous epithelial cells
+TS-1255	synonym	Vulva/anal squamous epithelial cell
+TS-1256	name	Cerebral cortex glial cell
+TS-1256	synonym	Brain cortex glial cell
+TS-1256	synonym	Cerebral cortex glial cells
+TS-1256	synonym	Cerebrum cortex glial cell
+TS-1257	name	Hippocampus glial cell
+TS-1257	synonym	Hippocampal glial cell
+TS-1257	synonym	Hippocampus glial cells
+TS-1257	synonym	Hippocampus neuroglial cell
+TS-1258	name	Lateral ventricle glial cell
+TS-1258	synonym	Lateral ventricle glial cells
+TS-1259	name	Cerebral cortex neuron
+TS-1259	synonym	Brain cortex neuron
+TS-1259	synonym	Cerebral cortex neural cell
+TS-1259	synonym	Cerebral cortex neuronal cell
+TS-1259	synonym	Cerebral cortex neuronal cells
+TS-1259	synonym	Cerebrum cortex neural cell
+TS-1259	synonym	Cerebrum cortex neuron
+TS-1259	synonym	Cerebrum cortex neuronal cell
+TS-1260	name	Hippocampus neuron
+TS-1260	synonym	Hippocampus neural cell
+TS-1260	synonym	Hippocampus neuronal cell
+TS-1260	synonym	Hippocampus neuronal cells
+TS-1261	name	Lateral ventricle neuron
+TS-1261	synonym	Lateral ventricle neural cell
+TS-1261	synonym	Lateral ventricle neuronal cell
+TS-1261	synonym	Lateral ventricle neuronal cells
+TS-1262	name	Renal tubule
+TS-1262	synonym	Kidney cells in tubules
+TS-1262	synonym	Kidney tubule
+TS-1262	synonym	Nephron tubule
+TS-1263	name	Spleen red pulp
+TS-1263	synonym	Red pulp of spleen
+TS-1263	synonym	Spleen cells in red pulp
+TS-1264	name	Spleen white pulp
+TS-1264	synonym	Spleen cells in white pulp
+TS-1264	synonym	White pulp of spleen
+TS-1265	name	Uterine corpus
+TS-1265	synonym	Body of uterus
+TS-1265	synonym	Corpus, uterine
+TS-1265	synonym	Uterine body
+TS-1265	synonym	Uterus body
+TS-1265	synonym	Uterus womb
+TS-1266	name	Endometrium stroma
+TS-1266	synonym	Endometrial stroma
+TS-1266	synonym	Stroma of endometrium
+TS-1266	synonym	Uterine endometrium stroma
+TS-1266	synonym	Uterus endometrium stroma
+TS-1267	name	Appendix
+TS-1267	synonym	Caecal appendix
+TS-1267	synonym	Cecal appendix
+TS-1267	synonym	Vermiform appendix
+TS-1267	synonym	Vermix
+TS-1268	name	Appendix lymphoid tissue
+TS-1268	synonym	Appendix lymphoid
+TS-1269	name	Lymph node germinal center cell
+TS-1269	synonym	Lymph node germinal center
+TS-1269	synonym	Lymph node germinal center cells
+TS-1269	synonym	Lymph node reaction center
+TS-1269	synonym	Lymph node reaction center cells
+TS-1270	name	Tonsil lymphoid cell
+TS-1271	name	Appendix glandular cell
+TS-1271	synonym	Appendix glandular cells
+TS-1271	synonym	Caecal appendix glandular cell
+TS-1271	synonym	Cecal appendix glandular cell
+TS-1271	synonym	Vermiform appendix glandular cell
+TS-1272	name	Mammary gland glandular cell
+TS-1272	synonym	Breast glandular cell
+TS-1272	synonym	Breast glandular cells
+TS-1272	synonym	Mammary glandular cell
+TS-1273	name	Uterine cervix glandular cell
+TS-1273	synonym	Cervix glandular cell
+TS-1273	synonym	Cervix, uterine glandular cell
+TS-1273	synonym	Cervix, uterine glandular cells
+TS-1274	name	Colon glandular cell
+TS-1274	synonym	Colon glandular cells
+TS-1275	name	Duodenum glandular cell
+TS-1275	synonym	Duodenum glandular cells
+TS-1276	name	Epididymis glandular cell
+TS-1276	synonym	Epididymal glandular cell
+TS-1276	synonym	Epididymis glandular cells
+TS-1277	name	Oviduct glandular cell
+TS-1277	synonym	Fallopian tube glandular cell
+TS-1277	synonym	Fallopian tube glandular cells
+TS-1277	synonym	Uterine tube glandular cell
+TS-1278	name	Gall bladder glandular cell
+TS-1278	synonym	Gall bladder glandular cells
+TS-1278	synonym	Gallbladder glandular cell
+TS-1278	synonym	Gallbladder glandular cells
+TS-1279	name	Parathyroid glandular cell
+TS-1279	synonym	Parathyroid gland glandular cell
+TS-1279	synonym	Parathyroid gland glandular cells
+TS-1280	name	Prostate glandular cell
+TS-1280	synonym	endocrine-paracrine cell of prostate gland
+TS-1280	synonym	prostate glandular cells
+TS-1280	synonym	prostatic glandular cells
+TS-1280	synonym	prostatic glandular cell
+TS-1281	name	Rectum glandular cell
+TS-1281	synonym	Rectal glandular cell
+TS-1281	synonym	Rectum glandular cells
+TS-1282	name	Salivary gland glandular cell
+TS-1282	synonym	Salivary gland glandular cells
+TS-1283	name	Seminal vesicle glandular cell
+TS-1283	synonym	Seminal vesicle glandular cells
+TS-1284	name	Stomach glandular cell
+TS-1284	synonym	Gastric glandular cell
+TS-1284	synonym	Gastric tissue glandular cell
+TS-1284	synonym	Stomach glandular cells
+TS-1285	name	Thyroid follicular cell
+TS-1286	name	Small intestine glandular cell
+TS-1286	synonym	Small bowel glandular cell
+TS-1286	synonym	Small intestinal glandular cell
+TS-1286	synonym	Small intestine glandular cells
+TS-1287	name	Uterine corpus glandular cell
+TS-1287	synonym	Corpus, uterine glandular cell
+TS-1287	synonym	Corpus, uterine glandular cells
+TS-1287	synonym	Uterus body glandular cell
+TS-1287	synonym	Uterus womb glandular cell
+TS-1287	synonym	Uterus glandular cells
+TS-1288	name	Tonsil germinal center cell
+TS-1288	synonym	Tonsil germinal center
+TS-1288	synonym	Tonsil germinal center cells
+TS-1288	synonym	Tonsil reaction center
+TS-1288	synonym	Tonsil reaction center cells
+TS-1288	synonym	Tonsil reaction centre
+TS-1289	name	Lymph node lymphoid cell
+TS-1289	synonym	Lymph gland lymphoid cell
+TS-1293	name	Alimentary system
+TS-1293	synonym	Digestive system
+TS-1295	name	Ventricular system of brain
+TS-1295	synonym	Brain ventricular system
+TS-1295	synonym	Ventricular system
+TS-1296	name	Bronchoalveolar system
+TS-1297	name	Cardiovascular system
+TS-1298	name	Colorectum
+TS-1298	synonym	Colorectal
+TS-1299	name	Dermal system
+TS-1299	synonym	Integumental system
+TS-1299	synonym	Integumentary system
+TS-1300	name	Endocrine gland
+TS-1300	synonym	Ductless gland
+TS-1301	name	Endocrine system
+TS-1302	name	Endocrine pancreas
+TS-1302	synonym	Endocrine part of pancreas
+TS-1303	name	Female reproductive system
+TS-1303	synonym	female genital system
+TS-1304	name	Gall bladder epithelium
+TS-1304	synonym	Epithelium of gall bladder
+TS-1304	synonym	Epithelium of gallbladder
+TS-1304	synonym	Gallbladder epithelium
+TS-1306	name	Large intestine
+TS-1306	synonym	Large bowel
+TS-1307	name	Limbic system
+TS-1308	name	Liver and biliary system
+TS-1308	synonym	Hepatobiliary system
+TS-1310	name	Male reproductive system
+TS-1310	synonym	Male genital system
+TS-1311	name	Musculoskeletal system
+TS-1311	synonym	musculo-skeletal system
+TS-1312	name	Nephron
+TS-1313	name	Nervous system
+TS-1315	name	Mouth
+TS-1316	name	Oviduct epithelium
+TS-1316	synonym	Epithelium of fallopian tube
+TS-1316	synonym	Epithelium of oviduct
+TS-1316	synonym	Epithelium of uterine tube
+TS-1316	synonym	Fallopian tube epithelium
+TS-1316	synonym	Uterine tube epithelium
+TS-1317	name	Renal corpuscle
+TS-1317	synonym	Corpusculum renale
+TS-1317	synonym	Kidney corpuscle
+TS-1317	synonym	Malphigian corpuscle
+TS-1318	name	Reproductive system
+TS-1318	synonym	Genital system
+TS-1318	synonym	Genitalia
+TS-1319	name	Respiratory system
+TS-1320	name	Skeletal system
+TS-1323	name	Urinary system
+TS-1323	synonym	Excretory system
+TS-1323	synonym	Urinary tract
+TS-1325	name	Vaginal epithelium
+TS-1325	synonym	Epithelium of vagina
+TS-1325	synonym	Vagina epithelium
+TS-2000	name	Cerebellar cortex
+TS-2000	synonym	Cerebellum cortex
+TS-2001	name	Autonomic nervous system
+TS-2002	name	B Lymphoblast
+TS-2002	synonym	B-lymphoblast
+TS-2003	name	Bronchiole
+TS-2003	synonym	Bronchioles
+TS-2003	synonym	Bronchioli
+TS-2003	synonym	Bronchiolus
+TS-2004	name	Omentum
+TS-2005	name	Anus
+TS-2005	synonym	Anal orifice
+TS-2006	name	Capillary
+TS-2006	synonym	Blood capillary
+TS-2006	synonym	Capillary vessel
+TS-2007	name	Cerebral hemisphere
+TS-2008	name	Dura mater
+TS-2009	name	Connective tissue
+TS-2010	name	Descending colon
+TS-2010	synonym	Colon descendens
+TS-2011	name	Bone tissue
+TS-2011	synonym	Osseous tissue
+TS-2012	name	Exocrine gland
+TS-2013	name	Globus pallidus
+TS-2014	name	Fetal bone
+TS-2015	name	Fourth ventricle
+TS-2015	synonym	4th ventricle
+TS-2016	name	Granulocytopoietic cell
+TS-2016	synonym	Granulocyte precursor cells
+TS-2017	name	Hematopoietic cell
+TS-2017	synonym	Haematopoietic cell
+TS-2017	synonym	Hemopoietic cell
+TS-2018	name	Hemolymphoid and immune system
+TS-2018	synonym	Haemolymph system
+TS-2018	synonym	Hematolymphoid system
+TS-2018	synonym	Lymphomyeloid system
+TS-2019	name	Histiocyte
+TS-2019	synonym	Tissue macrophage
+TS-2020	name	Hypopharynx
+TS-2020	synonym	laryngopharynx
+TS-2021	name	Acinar cell
+TS-2022	name	Appendix mucosa
+TS-2022	synonym	Mucosa of appendix
+TS-2022	synonym	Mucosa of vermiform appendix
+TS-2023	name	Joint
+TS-2023	synonym	Joints
+TS-2023	synonym	Skeletal joint
+TS-2024	name	Lymphatic system
+TS-2025	name	Lymphoid stem cell
+TS-2025	synonym	Lymphoid progenitor cell
+TS-2026	name	Epithelial cell
+TS-2027	name	Macroglia
+TS-2027	synonym	Macroglial cell
+TS-2028	name	Lateral thalamic nuclei
+TS-2028	synonym	Lateral nuclear group of thalamus
+TS-2029	name	Metencephalon
+TS-2030	name	Monopoietic cell
+TS-2031	name	Mucosa
+TS-2031	synonym	Mucous membrane
+TS-2032	name	Muscle cell
+TS-2032	synonym	Myocyte
+TS-2034	name	Nail
+TS-2035	name	Cell type
+TS-2035	synonym	Cell
+TS-2035	synonym	Cells
+TS-2036	name	Nongranular leukocyte
+TS-2036	synonym	Agranular leukocyte
+TS-2036	synonym	Mononuclear leukocyte
+TS-2037	name	Nose
+TS-2038	name	Parahippocampal gyrus
+TS-2038	synonym	Hippocampal gyrus
+TS-2039	name	Thigh
+TS-2039	synonym	Upper leg
+TS-2040	name	Nervous system cell
+TS-2041	name	Putamen
+TS-2042	name	Hematopoietic and immune system cell
+TS-2043	name	Sense organ
+TS-2043	synonym	Sensory organ
+TS-2044	name	Sigmoid colon
+TS-2045	name	Neck
+TS-2046	name	Sperm cell
+TS-2046	synonym	Sperm
+TS-2047	name	Striated muscle tissue
+TS-2047	synonym	Stripped muscle
+TS-2047	synonym	Stripped muscle tissue
+TS-2048	name	Subthalamus
+TS-2048	synonym	Subthalamic region
+TS-2048	synonym	Ventral thalamus
+TS-2049	name	Sympathetic chain
+TS-2049	synonym	Sympathetic trunk
+TS-2050	name	Sympathetic nervous system
+TS-2051	name	Thrombocytopoietic cell
+TS-2051	synonym	Thrombopoietic cell
+TS-2052	name	Transverse colon
+TS-2053	name	Vascular system
+TS-2054	name	Choroid
+TS-2054	synonym	Optic choroid
+TS-2055	name	Fovea centralis
+TS-2055	synonym	Fovea
+TS-2056	name	Immune cell
+TS-2057	name	Exocrine system
+TS-2058	name	Third ventricle
+TS-2058	synonym	3rd ventricle
+TS-2058	synonym	Ventriculus tertius
+TS-2059	name	Vermis
+TS-2059	synonym	Cerebellar vermis
+TS-2059	synonym	Cerebellum vermis
+TS-2059	synonym	Vermis of cerebellum
+TS-2060	name	Epithalamus
+TS-2061	name	Limbic lobe
+TS-2061	synonym	Fornicate gyrus
+TS-2062	name	Appendix epithelium
+TS-2062	synonym	Epithelium of appendix
+TS-2062	synonym	Epithelium of vermiform appendix
+TS-2063	name	Epididymal epithelium
+TS-2063	synonym	Epididymis epithelium
+TS-2063	synonym	Epithelium of epididymis
+TS-2065	name	Prostate epithelium
+TS-2065	synonym	Epithelium of prostate
+TS-2065	synonym	Epithelium of prostate gland
+TS-2065	synonym	Epithelium of prostatic gland
+TS-2065	synonym	Prostate epithelial cell
+TS-2065	synonym	Prostate gland epithelial cell
+TS-2065	synonym	Prostate gland epithelium
+TS-2065	synonym	Prostatic gland epithelium
+TS-2066	name	Rectal epithelium
+TS-2066	synonym	Epithelium of rectum
+TS-2066	synonym	Rectum epithelium
+TS-2067	name	Salivary gland epithelium
+TS-2067	synonym	Epithelium of salivary gland
+TS-2068	name	Stomach epithelium
+TS-2068	synonym	Epithelium of stomach
+TS-2068	synonym	Gastric epithelium
+TS-2069	name	Seminal vesicle epithelium
+TS-2069	synonym	Epithelium of seminal vesicle
+TS-2070	name	Tonsil epithelium
+TS-2070	synonym	Epithelium of tonsil
+TS-2071	name	Vulva/Anal epithelium
+TS-2072	name	Peritoneum
+TS-2073	name	Greater omentum
+TS-2074	name	Gingiva
+TS-2074	synonym	Gum
+TS-2075	name	Endocardium
+TS-2075	synonym	heart endocardium
+TS-2076	name	Dermis
+TS-2076	synonym	Corium
+TS-2077	name	Trigeminal nucleus
+TS-2077	synonym	Trigeminal nuclei
+TS-2078	name	Vestibular nuclei
+TS-2078	synonym	Vestibular nucleus
+TS-2079	name	Superior vestibular nuclei
+TS-2079	synonym	Nucleus of Bechterew
+TS-2079	synonym	Superior vestibular nucleus
+TS-2080	name	Osseous labyrinth
+TS-2080	synonym	Bony labyrinth
+TS-2081	name	Pleura
+TS-2082	name	Paranasal sinuses
+TS-2082	synonym	Sinus
+TS-2083	name	Breast
+TS-2083	synonym	Mammary region
+TS-2084	name	Body part
+TS-2084	synonym	Anatomical site
+TS-2084	synonym	Body region
+TS-2085	name	Glandular cell
+TS-2085	synonym	Glandular cells
+TS-2085	synonym	Glandular epithelial cell
+TS-2085	synonym	Secretory cells
+TS-2086	name	Stem cell
+TS-2087	name	Duodenal epithelium
+TS-2087	synonym	Duodenum epithelium
+TS-2087	synonym	Epithelium of duodenum
+TS-2088	name	Anatomical system
+TS-2089	name	First arch
+TS-2089	synonym	Pharyngeal arch 1
+TS-2089	synonym	1st arch
+TS-2089	synonym	1st branchial arch
+TS-2089	synonym	1st pharyngeal arch
+TS-2089	synonym	first branchial arch
+TS-2090	name	Tissue
+TS-2091	name	Embryonic pharynx
+TS-2092	name	Gestational structure
+TS-2093	name	Enteric nervous system
+TS-2094	name	Parasympathetic nervous system
+TS-2096	name	Connective tissue cell
+TS-2097	name	Bone cell
+TS-2099	name	Myeloid stem cell
+TS-2099	synonym	Myeloid progenitor cell
+TS-2100	name	Embryonic tissue
+TS-2100	synonym	Embryonic germ layer
+TS-2100	synonym	Germ layer
+TS-2100	synonym	Germinal layer
+TS-2101	name	Fluid and secretion
+TS-2101	synonym	Fluids and secretions
+TS-2102	name	Lymphatic vessel
+TS-2102	synonym	lymph vessel
+TS-2103	name	Circulatory system
+TS-2104	name	Small intestine epithelium
+TS-2104	synonym	Epithelium of small intestine
+TS-2104	synonym	Small intestinal epithelial cell
+TS-2104	synonym	Small intestinal epithelium
+TS-2104	synonym	Small intestine epithelial cell
+TS-2105	name	Large intestine epithelium
+TS-2105	synonym	Epithelium of large intestine
+TS-2105	synonym	Large bowel epithelium
+TS-2105	synonym	Large intestinal epithelium
+TS-2105	synonym	Large intestine epithelial cell
+TS-2106	name	Large intestine mucosa
+TS-2106	synonym	Large intestinal mucosa
+TS-2106	synonym	Mucosa of large intestine
+TS-2107	name	Rectum mucosa
+TS-2107	synonym	Mucosa of rectum
+TS-2107	synonym	Rectal mucosa
+TS-2108	name	Exocrine pancreas epithelium
+TS-2108	synonym	Epithelium of exocrine pancreas
+TS-2109	name	Bone marrow hematopoietic cell
+TS-2109	synonym	Bone marrow hematopoietic cells
+TS-2109	synonym	Bone marrow poietic cells
+TS-2110	name	Embryonic structure
+TS-2110	synonym	Developmental anatomy
+TS-2111	name	Fetal ear
+TS-2111	synonym	Fetal auditory apparatus
+TS-2112	name	Fetal cochlea
+TS-2112	synonym	Fetal cochlear organ
+TS-2113	name	Fetal dura mater
+TS-2114	name	Fetal frontal lobe
+TS-2115	name	Fetal hippocampus
+TS-2116	name	Fetal hypothalamus
+TS-2117	name	Fetal pituitary gland
+TS-2118	name	Embryonic rhombencephalon
+TS-2118	synonym	Presumptive hindbrain
+TS-2119	name	Extraembryonic tissue
+TS-2119	synonym	Extra-embryonic structure
+TS-2119	synonym	Extra-embryonic tissue
+TS-2119	synonym	Extraembryonic structure
+TS-2120	name	Extraembryonic fluid
+TS-2122	name	Developmental tissue
+TS-2124	name	Fetal tissue
+TS-2133	name	Embryonic tongue
+TS-2133	synonym	Future tongue
+TS-2134	name	Fetal small intestine
+TS-2135	name	Fetal ovary
+TS-2135	synonym	Fetal female gonad
+TS-2136	name	Fetal bone marrow
+TS-2137	name	Embryonic thyroid
+TS-2138	name	Joint synovium
+TS-2138	synonym	Synovial joint
+TS-2139	name	Tendon synovium
+TS-2139	synonym	Tendon sheath 
+TS-2139	synonym	Synovial tendon sheath 
+TS-2140	name	Parathyroid chief cell
+TS-2140	synonym	Chief cell of parathyroid gland
+TS-2140	synonym	Parathyroid chief cells
+TS-2140	synonym	Parathyroid gland chief cell
+TS-2141	name	Parathyroid epithelium
+TS-2141	synonym	Parathyroid gland epithelium
+TS-2142	name	Hematopoietic tissue
+TS-2142	synonym	Haemopoietic tissue
+TS-2144	name	Mucus
+TS-2145	name	Ligament
+TS-2146	name	Articular ligament
+TS-2146	synonym	Skeletal ligament
+TS-2147	name	Brain meninges
+TS-2147	synonym	Brain meninx
+TS-2147	synonym	Cerebral meninges
+TS-2147	synonym	Cerebral meninx
+TS-2147	synonym	Meninges of brain
+TS-2148	name	Spinal cord meninges
+TS-2148	synonym	Meninges of spinal cord
+TS-2148	synonym	Meninx of spinal cord
+TS-2148	synonym	Spinal cord meninx
+TS-2148	synonym	Spinal meninges
+TS-2149	name	Brain macroglia
+TS-2149	synonym	Cerebral macroglia
+TS-2149	synonym	Macroglia of brain
+TS-2150	name	Brain microglia
+TS-2150	synonym	Cerebral microglia
+TS-2150	synonym	Microglia of brain
+TS-2151	name	Spinal cord macroglia
+TS-2151	synonym	Macroglia of spinal cord
+TS-2151	synonym	Spinal macroglia
+TS-2152	name	Spinal cord microglia
+TS-2152	synonym	Microglia of spinal cord
+TS-2152	synonym	Spinal microglia
+TS-2153	name	Optic disk
+TS-2153	synonym	Optic disc
+TS-2153	synonym	Optic nerve head
+TS-2154	name	Uterine corpus epithelium
+TS-2154	synonym	Corpus, uterine epithelium
+TS-2154	synonym	Epithelium of body of uterus
+TS-2154	synonym	Uterine body epithelium
+TS-2154	synonym	Uterus body epithelium
+TS-2154	synonym	Uterus womb epithelium
+TS-2155	name	Blood vessel vascular endothelium
+TS-2155	synonym	Blood vessel endothelium
+TS-2155	synonym	Blood vessel vascular endothelial cell
+TS-2156	name	Lymphatic vessel vascular endothelium
+TS-2156	synonym	Endothelium of lymphatic vessel
+TS-2156	synonym	Lymphatic endothelium
+TS-2157	name	Striated muscle cell
+TS-2157	synonym	Striated cell
+TS-2157	synonym	Striated muscle myocyte
+TS-2157	synonym	Striated Muscle Tissue Cell
+TS-2157	synonym	Striated myocyte
+TS-2158	name	Skeletal muscle cell
+TS-2158	synonym	Skeletal muscle myocyte
+TS-2158	synonym	Skeletal muscle myocytes
+TS-2158	synonym	Skeletal myocytes
+TS-2159	name	Smooth muscle cell
+TS-2159	synonym	Involuntary muscle cell
+TS-2159	synonym	Non-striated muscle cell
+TS-2159	synonym	Smooth muscle cells
+TS-2159	synonym	Smooth muscle myocyte
+TS-2159	synonym	Smooth muscle myocytes
+TS-2159	synonym	Smooth muscle tissue cell
+TS-2159	synonym	Unstriated muscle cell
+TS-2160	name	Anal canal
+TS-2161	name	Decidua menstrualis
+TS-2161	synonym	Uterine decidua
+TS-2162	name	Tooth germ
+TS-2162	synonym	Tooth bud
+TS-2163	name	Dental cementum
+TS-2163	synonym	Cementum
+TS-2163	synonym	Cementum of tooth
+TS-2164	name	Semicircular canal
+TS-2165	name	Natural killer T cell
+TS-2165	synonym	Natural killer T-cell
+TS-2165	synonym	NKT cell
+TS-2165	synonym	Mature natural killer T-cell
+TS-2166	name	Thyroid gland glandular cell
+TS-2166	synonym	Thyroid gland glandular cells
+TS-2166	synonym	Thyroid glandular cell
+TS-2167	name	Thyroid epithelium
+TS-2167	synonym	Thyroid follicular epithelium
+TS-2167	synonym	Thyroid follicle epithelium
+TS-2168	name	Pneumocyte
+TS-2168	synonym	Alveolar cells
+TS-2168	synonym	Lung alveolar cells
+TS-2168	synonym	Pneumocytes
+TS-2169	name	Nongerminal center cells
+TS-2169	synonym	Non-germinal center cells
+TS-2170	name	Vulva/Anal skin epidermal cell
+TS-2170	synonym	vulva/anal skin epidermal cells
+TS-2171	name	Lymph node nongerminal center cell
+TS-2171	synonym	Lymph node non-germinal center
+TS-2171	synonym	Lymph node non-germinal center cells
+TS-2171	synonym	Lymph node nongerminal center
+TS-2171	synonym	Lymph node nongerminal center cells
+TS-2172	name	Tonsil nongerminal center cell
+TS-2172	synonym	Tonsil non-germinal center cells
+TS-2172	synonym	Tonsil nongerminal center
+TS-2172	synonym	Tonsil nongerminal center cells
+TS-2173	name	Post-menopause uterus glandular cell
+TS-2173	synonym	Post-menopause uterus glandular cells
+TS-2173	synonym	Uterus, post-menopause glandular cells
+TS-2174	name	Post-menopause endometrium stroma
+TS-2174	synonym	Post-menopause endometrium stroma cell
+TS-2174	synonym	Uterus, post-menopause cells in endometrial stroma
+TS-2175	name	Pre-menopause uterus glandular cell
+TS-2175	synonym	Pre-menopause uterus glandular cells
+TS-2175	synonym	Uterus, pre-menopause glandular cells
+TS-2176	name	Pre-menopause endometrium stroma
+TS-2176	synonym	Pre-menopause endometrium stroma cell
+TS-2176	synonym	Uterus, pre-menopause cells in endometrial stroma
+TS-2177	name	Adrenal gland glandular cell
+TS-2177	synonym	Adrenal gland glandular cells
+TS-2177	synonym	Adrenal glandular cell
+TS-2177	synonym	Suprarenal gland glandular cell
+TS-2178	name	Human anatomical entity
+TS-2178	synonym	Material anatomical entity
+TS-2191	name	Ovum
+TS-2191	synonym	 Ova
+TS-2191	synonym	Egg
+TS-2191	synonym	Mature oocyte
+TS-2192	name	Conventional dendritic cell
+TS-2192	synonym	cDC
+TS-2192	synonym	conventional DC
+TS-2193	name	Spermatogonia
+TS-2193	synonym	Spermatogonias
+TS-2193	synonym	Spermatogonium
+TS-2193	synonym	Spermatogonia cells
+TS-2194	name	Primary spermatocyte
+TS-2195	name	Secondary spermatocyte
+TS-2196	name	Adluminal compartment of the seminiferous tubule
+TS-2197	name	Olfactory mucosa
+TS-2197	synonym	Olfactory part of nasal mucosa
+TS-2198	name	Renal proximal convoluted tubule
+TS-2198	synonym	Proximal convoluted tubule
+TS-2198	synonym	Renal proximal convoluted tubule
+TS-2199	name	Radius
+TS-2200	name	Ilium
+TS-2201	name	Sacrum
+TS-2201	synonym	Sacral bone
+TS-2202	name	Humerus
+TS-2203	name	Fibula
+TS-2204	name	Arm
+TS-2205	name	Forearm
+TS-2206	name	Leg
+TS-2207	name	Mouth floor
+TS-2208	name	Axilla
+TS-2209	name	Rib
+TS-2210	name	Labia
+TS-2211	name	Phalanx
+TS-2211	synonym	Finger Phalanges
+TS-2211	synonym	Phalanx bone
+TS-2212	name	Palate
+TS-2212	synonym	Mouth roof
+TS-2213	name	Hand
+TS-2214	name	Upper limb
+TS-2214	synonym	Forelimb
+TS-2214	synonym	Upper extremity
+TS-2215	name	Lower limb
+TS-2215	synonym	Hindlimb
+TS-2215	synonym	Lower extremity
+TS-2216	name	Face
+TS-2217	name	Maxilla
+TS-2218	name	Metacarpus
+TS-2219	name	Ankle
+TS-2219	synonym	Tarsal region
+TS-2220	name	Knee
+TS-2221	name	Metatarsus
+TS-2222	name	Elbow
+TS-2223	name	Back
+TS-2224	name	Buttock
+TS-2224	synonym	Gluteal region
+TS-2225	name	Mandible
+TS-2225	synonym	Lower jaw bone
+TS-2225	synonym	Mandibulla
+TS-2226	name	Hip
+TS-2227	name	Pelvis
+TS-2228	name	Uvea
+TS-2228	synonym	Tunica vasculosa of eyeball
+TS-2228	synonym	Uveal tract
+TS-2228	synonym	Vascular layer of eyeball
+TS-2229	name	Shoulder
+TS-2230	name	Renal pelvis
+TS-2231	name	Maxillary sinus
+TS-2231	synonym	Antrum of Highmore
+TS-2232	name	Conjunctiva
+TS-2233	name	Middle ear
+TS-2234	name	Nipple
+TS-2235	name	Pancreatic juice
+TS-2336	name	Flank
+TS-2337	name	Retroperitoneal space
+TS-2337	synonym	Retroperitoneum
+TS-2338	name	Mediastinum
+TS-2339	name	Groin
+TS-2339	synonym	Iliac region
+TS-2339	synonym	Inguinal part of abdomen
+TS-2339	synonym	Inguinal region
+TS-2340	name	Autonomic ganglion
+TS-2340	synonym	Autonomic ganglia
+TS-2341	name	Scrotum
+TS-2342	name	Sella turcica
+TS-2343	name	Sphenoid bone
+TS-2343	synonym	Sphenoid
+TS-2344	name	Skull
+TS-2344	synonym	Cranium
+TS-2344	synonym	Skeletal system of head
+TS-2345	name	Feces
+TS-2345	synonym	Excrement
+TS-2345	synonym	Faeces
+TS-2345	synonym	Fecal matter
+TS-2345	synonym	Stool
+TS-2346	name	Hypogastrium
+TS-2346	synonym	Pubic region
+TS-2346	synonym	Pubis region
+TS-2347	name	Craniopharyngeal duct
+TS-2347	synonym	Craniopharyngeal canal
+TS-2348	name	Ampulla of Vater
+TS-2348	synonym	Biliaropancreatic ampulla
+TS-2348	synonym	Hepatopancreatic ampulla
+TS-2348	synonym	Vater's Ampulla
+TS-2349	name	Buccal mucosa
+TS-2350	name	Inframammary fold
+TS-2350	synonym	Inframammary breast
+TS-2350	synonym	Inframammary crease
+TS-2350	synonym	Inframammary line
+TS-2351	name	Subungual region
+TS-2352	name	Vertebra
+TS-2352	synonym	Vertebrae
+TS-2353	name	Retromolar trigone
+TS-2353	synonym	Retromolar triangle
+TS-2354	name	Posterior cranial fossa
+TS-2355	name	Paratesticular tissue
+TS-2355	synonym	Paratesticular soft tissue
+TS-2356	name	Head and neck
+TS-2356	synonym	Craniocervical region
+TS-2357	name	Parapharyngeal space
+TS-2357	synonym	Lateral pharyngeal space
+TS-2358	name	Paraganglia chromaffin
+TS-2358	synonym	Paraganglion
+TS-2358	synonym	Paraganglion chromaffin
+TS-2359	name	Cerebellar neuron
+TS-2359	synonym	Cerebellum neuron
+TS-2360	name	Neural stem cell
+TS-2360	synonym	Neural stem cells
+TS-2361	name	Cerebral grey matter
+TS-2361	synonym	Cerebral gray matter
+TS-2361	synonym	Gray matter of cerebrum
+TS-2361	synonym	Gray matter of telencephalon
+TS-2361	synonym	Grey matter of cerebrum
+TS-2361	synonym	Grey matter of telencephalon
+TS-2362	name	Cerebral white matter
+TS-2362	synonym	White matter of cerebrum
+TS-2362	synonym	White matter of telencephalon
+TS-2363	name	Myelin sheath
+TS-2364	name	Lumbar vertebra
+TS-2364	synonym	Lumbar vertebrae
+TS-2365	name	Myelencephalon
+TS-2366	name	Hypodermis
+TS-2367	name	Myeloid leukocyte
+TS-2368	name	Female germ cell
+TS-2369	name	Male germ cell
+TS-2370	name	Peripheral blood mononuclear cell
+TS-2370	synonym	PBMC
+TS-2370	synonym	Total PBMC
+TS-2371	name	Neural tube
+TS-2372	name	Cerebral cortex endothelial cell
+TS-2372	synonym	Cerebral cortex endothelial cells
+TS-2372	synonym	Endothelial cells of cerebral cortex
+TS-2373	name	Colon nerve tissue
+TS-2373	synonym	Colon nervous tissue
+TS-2373	synonym	Colon neural tissue
+TS-2373	synonym	Colon peripheral nerve/ganglion
+TS-2374	name	Skin Melanocyte
+TS-2374	synonym	Melanocyte of skin
+TS-2374	synonym	Skin melanocytes
+TS-2375	name	Langerhans cell
+TS-2375	synonym	Langerhans
+TS-2375	synonym	Langerhans cells
+TS-2376	name	Skin Langerhans cell
+TS-2376	synonym	Langerhans cell of skin
+TS-2376	synonym	skin Langerhans
+TS-2376	synonym	skin Langerhans cells
+TS-2377	name	Breast adipocyte
+TS-2377	synonym	Breast adipocytes
+TS-2378	name	Mammary gland myoepithelial cell
+TS-2378	synonym	Breast myoepithelial cell
+TS-2378	synonym	Breast myoepithelial cells
+TS-2378	synonym	Myoepithelial cell of lactiferous gland
+TS-2379	name	Myoepithelial cell
+TS-2380	name	Periodontium
+TS-2380	synonym	Paradentium
+TS-2380	synonym	Periodontium
+TS-2381	name	Dorsal vagal nucleus
+TS-2381	synonym	dorsal motor nucleus of vagus nerve
+TS-2381	synonym	dorsal nucleus of vagus nerve
+TS-2381	synonym	dorsal motor vagal complex
+TS-2381	synonym	posterior motor nucleus of vagus
+TS-2381	synonym	dorsal motor nucleus of vagus X nerve
+TS-2381	synonym	dorsal motor vagal complex of the tenth cranial nerve
+TS-2381	synonym	dorsal efferent nucleus of vagus
+TS-2381	synonym	dorsal vagal nucleus
+TS-2381	synonym	nucleus alaris
+TS-2382	name	Embryonic cerebral cortex
+TS-2383	name	Inferior olivari nucleus
+TS-2383	synonym	Inferior olivary nuclei
+TS-2384	name	Sebaceous gland
+TS-2384	synonym	sebaceous gland
+TS-2384	synonym	skin sebaceous glands
+TS-2385	name	Lactiferous duct
+TS-2385	synonym	lactiferous duct
+TS-2385	synonym	Lactiferous gland duct
+TS-2385	synonym	Mammary duct
+TS-2385	synonym	Mammary gland duct
+TS-2386	name	Motor neuron
+TS-2386	synonym	Motor neurons
+TS-2387	name	Sensory neuron
+TS-2387	synonym	Sensory neurons
+TS-2388	name	Dentate gyrus
+TS-2388	synonym	Dentate gyrus of hippocampal formation
+TS-2388	synonym	Dentate gyrus of hippocampus
+TS-2388	synonym	Hippocampal dentate gyrus
+TS-2389	name	Ventral tegmental area
+TS-2389	synonym	Ventral tegmentum
+TS-2390	name	Para-aortic splanchnopleura
+TS-2390	synonym	Para-aortic splanchnopleure
+TS-2391	name	Cardia of stomach
+TS-2391	synonym	Gastric cardia
+TS-2391	synonym	Gastroesophageal junction
+TS-2392	name	Hemangioblast
+TS-2393	name	Gamma delta T cells
+TS-2393	synonym	Gamma delta T cell
+TS-2393	synonym	gdTCRs
+TS-2393	synonym	GdTCR
+TS-2393	synonym	GdT-cell
+TS-2394	name	Neural progenitor cell
+TS-2394	synonym	Neural progenitor cells
+TS-2395	name	Marginal zone of spleen
+TS-2396	name	Cerebral cortex neuropil
+TS-2397	name	Colon endothelial cell
+TS-2397	synonym	Colon endothelial cells
+TS-2397	synonym	Colonic endothelial cell
+TS-2398	name	Nasopharyngeal epithelial cell
+TS-2398	synonym	Nasopharynx respiratory epithelial cells
+TS-2399	name	Bronchus epithelial cell
+TS-2399	synonym	Bronchial epithelial cell
+TS-2399	synonym	Bronchial epithelium cell
+TS-2399	synonym	Bronchus respiratory epithelial cells
+TS-2399	synonym	Epithelial cells of bronchus
+TS-2400	name	Embryonic maxilla
+TS-2401	name	Endothelial cell
+TS-2401	synonym	Endothelial cells
+TS-2402	name	Vascular endothelial cell
+TS-2402	synonym	Vascular endothelial cells
+TS-2403	name	Neuropil
+TS-2404	name	Fetal telencephalon
+TS-2404	synonym	Fetal cerebrum
+TS-2405	name	Visceral adipose tissue of abdominal region
+TS-2405	synonym	Visceral abdominal fat
+TS-2405	synonym	Visceral abdominal adipose tissue
+TS-2405	synonym	Intra-abdominal fat
+TS-2405	synonym	Intra-abdominal adipose tissue
+TS-2406	name	Subcutaneous abdominal adipose tissue
+TS-2406	synonym	Subcutaneous adipose tissue of abdominal region
+TS-2406	synonym	Subcutaneous fat of abdominal region
+TS-2406	synonym	Abdominal subcutaneous fat
+TS-2406	synonym	Abdominal subcutaneous adipose tissue
+TS-2407	name	Interstitial cell of Cajal
+TS-2407	synonym	Intestinal pacemaker cell
+TS-2407	synonym	Interstitial cells of Cajal
+TS-2408	name	Regulatory T cell
+TS-2408	synonym	Regulatory T-cell
+TS-2408	synonym	Regulatory T lymphocyte
+TS-2408	synonym	Regulatory T-lymphocyte
+TS-2408	synonym	Treg
+TS-2408	synonym	T-regs
+TS-2408	synonym	T-reg
+TS-2409	name	Aortico-pulmonary septum
+TS-2409	synonym	Aorticopulmonary septum
+TS-2409	synonym	Aortico-pulmonary spiral septum
+TS-2409	synonym	Aorto-pulmonary septum
+TS-2410	name	Myofibroblast cell
+TS-2410	synonym	Myofibroblast
+TS-2411	name	Migratory neural crest cell
+TS-2411	synonym	Neural crest cell
+TS-2412	name	Chondroblast
+TS-2413	name	Acetabulum
+TS-2413	synonym	Acetabula
+TS-2413	synonym	Acetabular part of hip bone
+TS-2414	name	Frontal bone
+TS-2415	name	Middle cerebellar peduncle
+TS-2415	synonym	Brachia pontis
+TS-2416	name	Patella
+TS-2417	name	Talus bone
+TS-2418	name	Nucleus accumbens
+TS-2418	synonym	Accumbens
+TS-2419	name	Cumulus oocyte complex
+TS-2419	synonym	Cumulus-oocyte complex
+TS-2420	name	Lateral globus pallidus
+TS-2420	synonym	External globus pallidus
+TS-2420	synonym	Globus pallidus, externus
+TS-2421	name	Medial globus pallidus
+TS-2421	synonym	Internal globus pallidus
+TS-2421	synonym	Globus pallidus, internus
+TS-2422	name	Deltoid muscle
+TS-2423	name	Peritubular myoid cell
+TS-2423	synonym	Peritubular cell
+TS-2423	synonym	Peritubular cells
+TS-2424	name	Prefrontal cortex
+TS-2425	name	Stomach fundus
+TS-2425	synonym	Fundus of stomach
+TS-2425	synonym	Gastric fundus
+TS-2426	name	Pylorus
+TS-2426	synonym	Pyloric region
+TS-2426	synonym	Pyloric part of stomach
+TS-2427	name	Substantia nigra pars compacta
+TS-2427	synonym	substantia nigra compacta
+TS-2428	name	Substantia nigra pars reticulata
+TS-2429	name	Vena cava
+TS-2429	synonym	Venae cavae
+TS-2430	name	Endometrial glandular cell
+TS-2430	synonym	Endometrium glandular cell
+TS-2430	synonym	Glandular cell of endometrium
+TS-2430	synonym	Endometrium glandular cells
+TS-2431	name	Subcutaneous adipose tissue
+TS-2432	name	Fetal intestine
+TS-2433	name	Trigeminal ganglion
+TS-2434	name	Primary oocyte
+TS-2434	synonym	MI oocytes
+TS-2434	synonym	Oocyte MI arrested
+TS-2435	name	Secondary oocyte
+TS-2435	synonym	MII oocytes
+TS-2435	synonym	Oocyte MII arrested
+TS-2436	name	Pachytene spermatocyte
+TS-2436	synonym	Pachytene spermatocytes
+TS-2437	name	Pharyngeal mucosa
+TS-2437	synonym	Pharynx mucous membrane
+TS-2437	synonym	Mucous membrane of pharynx
+TS-2437	synonym	Mucosa of pharynx
+TS-2437	synonym	Pharynx mucosa
+TS-2437	synonym	Mucous membrane of pharynx
+TS-2438	name	CD4-positive helper T cell
+TS-2438	synonym	CD4-positive T-helper cell
+TS-2438	synonym	CD4-positive helper T-cell
+TS-2438	synonym	CD4-positive helper T lymphocyte
+TS-2438	synonym	CD4-positive helper T-lymphocyte
+TS-2439	name	CD8-Positive T-cell
+TS-2439	synonym	CD8-positive, alpha-beta T-lymphocyte
+TS-2439	synonym	T8 Lymphocytes
+TS-2439	synonym	CD8-positive, T-cell
+TS-2439	synonym	CD8-Positive T-Lymphocytes
+TS-2440	name	Superior surface of tongue
+TS-2440	synonym	Superior surface of the tongue with papilla
+TS-2440	synonym	Dorsal surface of tongue
+TS-2441	name	Type I NK T cell
+TS-2441	synonym	type I NKT cell
+TS-2441	synonym	type I NK T lymphocyte
+TS-2441	synonym	classical NK T cell
+TS-2441	synonym	type I NK T-cell
+TS-2441	synonym	type I NK T-lymphocyte
+TS-2441	synonym	invariant NK T cell
+TS-2441	synonym	iNKT cell
+TS-2442	name	Thymic cortex
+TS-2442	synonym	Cortex of thymus
+TS-2442	synonym	Thymus cortex
+TS-2443	name	Cortical thymic epithelial cell
+TS-2443	synonym	Thymic cortical epithelial cell
+TS-2444	name	Cortical thymic dendritic cell CD11c-positive
+TS-2444	synonym	Cortical thymic dendritic cell CD11c positive
+TS-2445	name	Cortical thymic dendritic cell CD303-positive
+TS-2445	synonym	Cortical thymic dendritic cell CD303 positive
+TS-2446	name	Cortical thymic dendritic cell CD209-positive
+TS-2446	synonym	Cortical thymic dendritic cell CD209 positive
+TS-2447	name	Gingival crevicular fluid
+TS-2448	name	Heel bone
+TS-2448	synonym	Calcaneus
+TS-2449	name	Hippocampal formation
+TS-2450	name	Subiculum
+TS-2451	name	Ischium
+TS-2452	name	Ulna
+TS-2453	name	Cingulate gyrus
+TS-2454	name	Ocular adnexa
+TS-2454	synonym	Eye adnexa
+TS-2454	synonym	Appendage of eye
+TS-2455	name	Orbit of skull
+TS-2455	synonym	Orbit
+TS-2455	synonym	Orbital
+TS-2456	name	Sinonasal and nasal cavity
+TS-2456	synonym	Sinonasal tract
+TS-2457	name	Proximal colon
+TS-2457	synonym	Right colon
+TS-2458	name	Major salivary gland
+TS-2459	name	Glossotonsillar sulcus
+TS-2460	name	Finger
+TS-2460	synonym	Manual digit
+TS-2460	synonym	Digit
+TS-2461	name	Lower leg
+TS-2462	name	Upper arm
+TS-2463	name	Wrist
+TS-2464	name	Thoracic wall
+TS-2464	synonym	Chest wall
+TS-2465	name	Mesentery
+TS-2466	name	Abdominal wall
+TS-2466	synonym	Wall of abdomen
+TS-2467	name	Alveolar ridge
+TS-2467	synonym	Alveolar process
+TS-2467	synonym	Alveolar margin
+TS-2467	synonym	Alveolus ridge
+TS-2468	name	Brachial plexus
+TS-2468	synonym	Brachial nerve plexus
+TS-2469	name	Carotid body
+TS-2469	synonym	Carotid glomus
+TS-2470	name	Cheek
+TS-2471	name	Thoracic cavity
+TS-2471	synonym	Chest cavity
+TS-2472	name	Cranial nerve
+TS-2473	name	Epiglottis
+TS-2474	name	Glottis
+TS-2475	name	Subglottis
+TS-2476	name	Supraglottis
+TS-2477	name	Ethmoid sinus
+TS-2477	synonym	Ethmoidal sinuses
+TS-2477	synonym	Ethmoidal air cells of the ethmoid bone
+TS-2478	name	Forehead
+TS-2479	name	Hard palate
+TS-2480	name	Iliotibial band
+TS-2480	synonym	Iliotibial tract
+TS-2481	name	Inferior vena cava
+TS-2482	name	Jaw region
+TS-2483	name	Mesocolon
+TS-2483	synonym	Mesentery of large intestine
+TS-2483	synonym	Large intestinal mesentery
+TS-2483	synonym	Mesentery of colon
+TS-2484	name	Paraaortic body
+TS-2484	synonym	Paraganglia of Zuckerkandl
+TS-2484	synonym	Para-aortic body
+TS-2484	synonym	organ of Zuckerkandl
+TS-2484	synonym	paraganglion of Zuckerkandl
+TS-2485	name	Cervical ganglion
+TS-2485	synonym	Cervical ganglia
+TS-2486	name	Parametrium
+TS-2487	name	Pelvic cavity
+TS-2488	name	Perineum
+TS-2489	name	Piriform sinus
+TS-2489	synonym	Piriform recess
+TS-2489	synonym	Pyriform sinus
+TS-2489	synonym	Piriform fossa
+TS-2489	synonym	Smuggler's fossa
+TS-2489	synonym	Vallecula of throat
+TS-2490	name	Popliteal area
+TS-2490	synonym	Popliteal fossa
+TS-2491	name	Rectovaginal fascia
+TS-2491	synonym	Rectovaginal septum
+TS-2491	synonym	Fascia of Otto
+TS-2492	name	Spinal nerve
+TS-2493	name	Tibial nerve
+TS-2494	name	Toe
+TS-2495	name	Ulnar nerve
+TS-2496	name	Vestibulocochlear nerve
+TS-2496	synonym	cochlear-vestibular nerve
+TS-2496	synonym	acoustic VIII nerve
+TS-2496	synonym	vestibulocochlear nerve tree
+TS-2496	synonym	stato-acoustic nerve
+TS-2496	synonym	cochleovestibular nerve
+TS-2496	synonym	VIIIth cranial nerve
+TS-2496	synonym	cranial nerve VIII
+TS-2496	synonym	eighth cranial nerve
+TS-2497	name	Ocular region
+TS-2497	synonym	Orbital region
+TS-2498	name	Iliac vein
+TS-2499	name	Esophagogastric junction
+TS-2499	synonym	Gastro-esophageal junction
+TS-2500	name	Urachus
+TS-2501	name	Zona fasciculata of adrenal gland
+TS-2501	synonym	Adrenal Fasciculata
+TS-2501	synonym	Zona Fasciculata
+TS-2501	synonym	Adrenal gland cells in zona fasciculata
+TS-2502	name	Zona reticularis of adrenal gland
+TS-2502	synonym	Adrenal Reticularis
+TS-2502	synonym	Zona Reticularis
+TS-2502	synonym	Adrenal gland cells in zona reticularis
+TS-2503	name	Caudate nucleus glial cell
+TS-2503	synonym	Caudate nucleus glial cells
+TS-2503	synonym	Caudate glial cells
+TS-2504	name	Caudate nucleus neuron
+TS-2504	synonym	Caudate nucleus neuronal cells
+TS-2504	synonym	Caudate neuronal cells
+TS-2505	name	Hypothalamus glial cell
+TS-2505	synonym	Hypothalamic glial cell
+TS-2505	synonym	Hypothalamus glial cells
+TS-2506	name	Hypothalamus neuron
+TS-2506	synonym	Hypothalamic neuron
+TS-2506	synonym	Hypothalamus neuronal cells
+TS-2507	name	Hair medulla
+TS-2507	synonym	Medulla of hair shaft
+TS-2508	name	Hair cortex
+TS-2508	synonym	Cortex of hair shaft
+TS-2508	synonym	Cortex of hair
+TS-2508	synonym	Coat hair cortex
+TS-2509	name	Hair cuticle
+TS-2509	synonym	Cuticle of hair shaft
+TS-2509	synonym	Cuticle of hair
+TS-2510	name	Hair inner root sheath
+TS-2510	synonym	Internal root sheath
+TS-2510	synonym	Inner root sheath
+TS-2511	name	Hair external root sheath
+TS-2511	synonym	External root sheath
+TS-2511	synonym	Outer root sheath
+TS-2511	synonym	Hair outer root sheath
+TS-2512	name	Outer plexiform layer of retina
+TS-2512	synonym	Outer plexiform layer
+TS-2512	synonym	Retinal outer plexiform layer
+TS-2512	synonym	Retina outer plexiform layer
+TS-2512	synonym	Nerve fibers in outer plexiform layer
+TS-2513	name	Inner plexiform layer of retina
+TS-2513	synonym	Inner plexiform layer
+TS-2513	synonym	Retinal inner plexiform layer
+TS-2513	synonym	Retina inner plexiform layer
+TS-2513	synonym	Nerve fibers in inner plexiform layer
+TS-2514	name	Inner nuclear layer of retina
+TS-2514	synonym	Inner nuclear layer
+TS-2514	synonym	Retina inner nuclear layer
+TS-2514	synonym	Retinal inner nuclear layer
+TS-2514	synonym	Neural retina inner nuclear layer
+TS-2514	synonym	Cells in inner nuclear layer
+TS-2515	name	Nerve fiber layer of retina
+TS-2515	synonym	Optic fiber layer
+TS-2515	synonym	Retina nerve fiber layer
+TS-2515	synonym	Layer of nerve fibres of retina
+TS-2515	synonym	Layer of optic nerve fibres of retina
+TS-2515	synonym	Layer of optic nerve fibres
+TS-2515	synonym	Nerve fibers in nerve fiber layer
+TS-2516	name	Lactating lactiferous duct
+TS-2516	synonym	lactating lactiferous duct
+TS-2516	synonym	lactating lactiferous gland duct
+TS-2516	synonym	Lactating mammary duct
+TS-2516	synonym	Lactating mammary gland duct
+TS-2516	synonym	Lactating breast ductal cells
+TS-2517	name	Lactating mammary gland glandular cell
+TS-2517	synonym	Lactating glandular cells
+TS-2518	name	Cerebral cortex neuronal projections
+TS-2518	synonym	Cerebral cortex processes/nerve bundles
+TS-2518	synonym	Cerebral cortex processes
+TS-2519	name	Hippocampus neuronal projections
+TS-2519	synonym	Hippocampus processes/nerve bundles
+TS-2519	synonym	Hippocampus processes
+TS-2520	name	Hypothalamus neuronal projections
+TS-2520	synonym	Hypothalamus processes/nerve bundles
+TS-2520	synonym	Hypothalamus processes
+TS-2521	name	Skin secretory cell
+TS-2522	name	Skin exocrine cell
+TS-2523	name	Sebum secreting cell
+TS-2523	synonym	Skin sebaceous cell
+TS-2523	synonym	synonym:Sebocyte
+TS-2524	name	Skin sweat cell
+TS-2525	name	Retinal microglial cell
+TS-2525	synonym	Retina microglia cell
+TS-2526	name	Type I alveolar epithelial cell
+TS-2526	synonym	type I alveolar cell
+TS-2526	synonym	type 1 pneumocyte
+TS-2526	synonym	type I pneumocyte
+TS-2526	synonym	alveolar cell type I
+TS-2526	synonym	squamous alveolar lining cell
+TS-2526	synonym	type-I alveolar cell
+TS-2526	synonym	squamous alveolar cell
+TS-2526	synonym	alveolar cells type 1
+TS-2526	synonym	lung alveolar cells type I
+TS-2527	name	Type II alveolar epithelial cell
+TS-2527	synonym	type II alveolar cell
+TS-2527	synonym	type 2 pneumocyte
+TS-2527	synonym	type II pneumocyte
+TS-2527	synonym	alveolar cell type II
+TS-2527	synonym	alveolar cells type 2
+TS-2527	synonym	type-II alveolar cell
+TS-2527	synonym	great alveolar cell
+TS-2527	synonym	lung alveolar cells type II
+TS-2528	name	Interstitial macrophage
+TS-2529	name	Oligodendrocyte precursor cell
+TS-2529	synonym	oligodendrocyte precursor cells
+TS-2530	name	Cerebral cortex synapses
+TS-2531	name	Hippocampus synapses
+TS-2532	name	Caudate nucleus synapses
+TS-2532	synonym	Caudate synapses
+TS-2533	name	Caudate nucleus neuronal projections
+TS-2533	synonym	Caudate neuronal projections
+TS-2534	name	Round spermatid
+TS-2534	synonym	Round spermatid
+TS-2534	synonym	Round or early spermatids
+TS-2534	synonym	Early spermatids
+TS-2535	name	Elongated spermatid
+TS-2535	synonym	Elongated spermatid
+TS-2535	synonym	Elongated or late spermatids
+TS-2535	synonym	Late spermatids
+TS-2536	name	Preleptotene spermatocyte
+TS-2536	synonym	Preleptotene spermatocytes
+TS-2537	name	Midbrain tegmentum
+TS-2537	synonym	Tegmentum
+TS-2538	name	Clitoris
+TS-2539	name	Spinal column
+TS-2539	synonym	Spine
+TS-2540	name	Sensory system
+TS-2540	synonym	Sensory organ system
+TS-2541	name	Auditory system
+TS-2542	name	Olfactory system
+TS-2543	name	Visual system
+TS-2544	name	Gustatory system
+TS-2544	synonym	Taste system
+TS-2545	name	Auditory cortex
+TS-2546	name	Gustatory cortex
+TS-2546	synonym	Primary gustatory cortex
+TS-2547	name	Classical monocyte
+TS-2548	name	Intermediate monocyte
+TS-2549	name	Non-classical monocyte
+TS-2550	name	Myeloid dendritic cell
+TS-2550	synonym	Myeloid DCs
+TS-2550	synonym	Myeloid DC
+TS-2551	name	Memory B-cell
+TS-2551	synonym	Memory B lymphocyte
+TS-2551	synonym	Memory B-lymphocyte
+TS-2551	synonym	Memory B-cells
+TS-2551	synonym	Memory B cell
+TS-2552	name	Naive B cell
+TS-2552	synonym	Naive B-lymphocyte
+TS-2552	synonym	Naive B lymphocyte
+TS-2552	synonym	Naive B-cell
+TS-2552	synonym	Naive B-cells
+TS-2553	name	Naive CD4 T-cell
+TS-2553	synonym	Naive CD4 T-cells
+TS-2553	synonym	Naive thymus-derived CD4-positive, alpha-beta T cell
+TS-2553	synonym	Naive thymus-derived CD4-positive, alpha-beta T-cell
+TS-2553	synonym	Naive thymus-derived CD4-positive, alpha-beta T-lymphocyte
+TS-2553	synonym	Naive thymus-derived CD4-positive, alpha-beta T lymphocyte
+TS-2554	name	Naive CD8 T-cell
+TS-2554	synonym	Naive CD8 T-cells
+TS-2554	synonym	Naive thymus-derived CD8-positive, alpha-beta T cell
+TS-2554	synonym	Naive thymus-dervied CD8-positive, alpha-beta T-lymphocyte
+TS-2554	synonym	Naive thymus-dervied CD8-positive, alpha-beta T lymphocyte
+TS-2554	synonym	Naive thymus-dervied CD8-positive, alpha-beta T-cell
+TS-2555	name	Memory CD4 T-cell
+TS-2555	synonym	CD4-positive, alpha-beta memory T lymphocyte
+TS-2555	synonym	CD4-positive, alpha-beta memory T-lymphocyte
+TS-2555	synonym	CD4-positive, alpha-beta memory T-cell
+TS-2555	synonym	Memory CD4 T-cells
+TS-2556	name	Memory CD8 T-cell
+TS-2556	synonym	CD8-positive, alpha-beta memory T-cell
+TS-2556	synonym	CD8-positive, alpha-beta memory T lymphocyte
+TS-2556	synonym	CD8-positive, alpha-beta memory T-lymphocyte
+TS-2556	synonym	Memory CD8 T-cells
+TS-2557	name	Mucosal associated invariant T-cell
+TS-2557	synonym	MAIT T-cells
+TS-2557	synonym	MAIT T-cell
+TS-2558	name	Dorsal raphe nucleus
+TS-2558	synonym	Nucleus raphes dorsalis
+TS-2558	synonym	Dorsal nucleus raphe
+TS-2558	synonym	Inferior raphe nucleus
+TS-2558	synonym	Nucleus raphes posterior
+TS-2558	synonym	Dorsal raphe
+TS-2558	synonym	Posterior raphe nucleus
+TS-2558	synonym	Dorsal nucleus of the raphe
+TS-2559	name	Dorsal raphe glial cell
+TS-2559	synonym	Dorsal raphe glial cells
+TS-2560	name	Dorsal raphe neuronal cell
+TS-2560	synonym	Dorsal raphe neuronal cells
+TS-2561	name	Sole of foot epidermis
+TS-2561	synonym	Sole of foot epidermal cells
+TS-2562	name	Pons and medulla oblongata
+TS-2562	synonym	Pons and medulla
+TS-2563	name	Choroid plexus ependymal cell
+TS-2563	synonym	Choroid plexus ependymal cells
+TS-2564	name	Cerebellar neuronal projections
+TS-2564	synonym	Cerebellum neuronal projection
+TS-2564	synonym	Cerebellum neuronal projections
+TS-2565	name	Cerebellar synapses
+TS-2565	synonym	Cerebellum synapses
+TS-2566	name	Cerebellar glial cell
+TS-2566	synonym	Cerebellum glial cell
+TS-2566	synonym	Cerebellum glial cells
+TS-2567	name	Dentate nucleus
+TS-2567	synonym	Dentate cerebellar nucleus
+TS-2567	synonym	Lateral nucleus of cerebellum
+TS-2567	synonym	Lateral cerebellar nucleus
+TS-2567	synonym	Cerebellum dentate nucleus
+TS-2567	synonym	Cerebellum cells in dentate nucleus
+TS-2568	name	Mediastinal lymph node
+TS-2569	name	Periaortic lymph node
+TS-2570	name	Perihilar lymph node
+TS-2571	name	Pancreatic duct
+TS-2571	synonym	Duct of pancreas
+TS-2571	synonym	Pancreas duct
+TS-2571	synonym	Ductal cells
+TS-2572	name	Pancreatic duct epithelium
+TS-2572	synonym	Epithelium of pancreatic duct
+TS-2573	name	Ovarian surface epithelium
+TS-2573	synonym	Surface epithelium of ovary
+TS-2573	synonym	Ovary surface epithelium
+TS-2573	synonym	Ovary germinal epithelium
+TS-2573	synonym	Surface epithelium of ovary
+TS-2573	synonym	Germinal epithelium of ovary
+TS-2574	name	Epithelial cell of pancreas
+TS-2574	synonym	Pancreas epithelial cell
+TS-2574	synonym	Pancreatic epithelial cell
+TS-2575	name	Type B pancreatic cell
+TS-2575	synonym	Insulin-secreting cell
+TS-2575	synonym	Pancreatic B-cell
+TS-2575	synonym	Type B enteroendocrine cell
+TS-2575	synonym	Pancreatic islet core
+TS-2575	synonym	Pancreatic B cell
+TS-2575	synonym	Pancreatic beta cell
+TS-2575	synonym	Beta cell of pancreatic islet
+TS-2575	synonym	B-cell of pancreatic islet
+TS-2576	name	Bone marrow cell
+TS-2577	name	Stromal cell
+TS-2578	name	Stromal cell of endometrium
+TS-2578	synonym	Cells in endometrial stroma
+TS-2578	synonym	Endometrial stromal cell
+TS-2578	synonym	Endometrial stromal cells
+TS-2578	synonym	Endometrium stromal cell
+TS-2579	name	Buccal mucosa cell
+TS-2580	name	Zone of skin
+TS-2581	name	Metanephros
+TS-2582	name	Oral cavity
+TS-2582	synonym	Buccal cavity
+TS-2582	synonym	Cavity of mouth
+TS-2583	name	Uterine endocervix
+TS-2583	synonym	Endocervix
+TS-2584	name	Right lobe of liver
+TS-2584	synonym	Right hepatic lobe
+TS-2585	name	Right lobe of thyroid gland
+TS-2585	synonym	Thyroid gland right lobe
+TS-2585	synonym	Right thyroid lobe
+TS-2586	name	Left lobe of thyroid gland
+TS-2586	synonym	Thyroid gland left lobe
+TS-2586	synonym	Left thyroid lobe
+TS-2587	name	Body of pancreas
+TS-2587	synonym	Pancreatic body
+TS-2587	synonym	Pancreas body
+TS-2588	name	Body of stomach
+TS-2588	synonym	Stomach body
+TS-2588	synonym	Corpus gastricum (ventriculare)
+TS-2588	synonym	Gastric body
+TS-2589	name	Right adrenal gland
+TS-2589	synonym	Right suprarenal gland
+TS-2590	name	Left adrenal gland
+TS-2590	synonym	Left suprarenal gland
+TS-2591	name	Urinary bladder mucosa
+TS-2591	synonym	Mucosa of urinary bladder
+TS-2591	synonym	Tunica mucosa vesicae urinariae
+TS-2591	synonym	Bladder mucous membrane
+TS-2591	synonym	Urinary bladder mucosa
+TS-2591	synonym	Urinary bladder mucous membrane
+TS-2591	synonym	Mucosa of bladder
+TS-2591	synonym	Mucous membrane of bladder
+TS-2591	synonym	Tunica mucosa vesicae
+TS-2591	synonym	Bladder organ mucosa
+TS-2591	synonym	Mucous membrane of urinary bladder
+TS-2591	synonym	Bladder mucosa
+TS-2592	name	Right uterine tube
+TS-2592	synonym	Right oviduct
+TS-2592	synonym	Right fallopian tube
+TS-2593	name	Left uterine tube
+TS-2593	synonym	Left oviduct
+TS-2593	synonym	Left fallopian tube
+TS-2594	name	Muscle organ
+TS-2594	synonym	Muscle
+TS-2595	name	Muscle of leg
+TS-2596	name	Quadriceps femoris muscle
+TS-2596	synonym	Quadriceps
+TS-2596	synonym	Quadriceps femoris muscle
+TS-2597	name	Vastus lateralis
+TS-2597	synonym	Vastus lateralis muscle
+TS-2598	name	Gastrocnemius muscle
+TS-2598	synonym	Gastrocnemius
+TS-2599	name	Skin of abdomen
+TS-2600	name	Skin of leg
+TS-2601	name	Skin of hip
+TS-2602	name	Upper leg skin
+TS-2603	name	Upper arm skin
+TS-2604	name	Ascending aorta
+TS-2605	name	Descending thoracic aorta
+TS-2606	name	Thoracic aorta
+TS-2607	name	Popliteal artery
+TS-2608	name	Superficial temporal artery
+TS-2609	name	Right coronary artery
+TS-2609	synonym	Arteria coronaria dextra
+TS-2610	name	Left coronary artery
+TS-2610	synonym	Arteria coronaria sinistra
+TS-2611	name	Tibial artery
+TS-2612	name	Biceps muscle
+TS-2612	synonym	Biceps brachii
+TS-2612	synonym	Biceps brachii muscle
+TS-2612	synonym	Brachii muscle
+TS-2613	name	Triceps muscle
+TS-2613	synonym	Triceps brachii muscle
+TS-2613	synonym	Triceps
+TS-2613	synonym	Triceps brachii
+TS-2614	name	Gluteal muscle
+TS-2614	synonym	Gluteus
+TS-2614	synonym	Gluteus muscle
+TS-2615	name	Skeletal muscle organ
+TS-2615	synonym	Skeletal muscle
+TS-2616	name	Myocardium
+TS-2616	synonym	Myocard
+TS-2616	synonym	Heart myocardium
+TS-2617	name	Cardiac muscle of right atrium
+TS-2618	name	Right atrium
+TS-2618	synonym	cardiac right atrium
+TS-2618	synonym	Right atrium
+TS-2618	synonym	Heart right atrium
+TS-2618	synonym	Right atrium of heart
+TS-2619	name	Hindlimb stylopod muscle
+TS-2619	synonym	Thigh muscle
+TS-2619	synonym	Upper leg muscle
+TS-2619	synonym	Muscle of thigh
+TS-2620	name	Left ventricle myocardium
+TS-2621	name	Muscle layer of sigmoid colon
+TS-2622	name	Skeletal muscle tissue of biceps
+TS-2622	synonym	Skeletal muscle tissue of biceps brachii
+TS-2623	name	Skeletal muscle tissue of rectus abdominis
+TS-2624	name	Esophageal squamous epithelium
+TS-2624	synonym	Oesophageal squamous epithelium
+TS-2624	synonym	Squamous epithelium of esophagous
+TS-2625	name	Gingival epithelium
+TS-2625	synonym	Epithelial tissue of gingiva 
+TS-2625	synonym	Epithelium of gingiva 
+TS-2625	synonym	Gingiva epithelial tissue 
+TS-2625	synonym	Gingiva epithelium 
+TS-2626	name	Esophagus mucosa
+TS-2626	synonym	esophageal mucosa
+TS-2626	synonym	esophageal mucous membrane
+TS-2626	synonym	esophagus mucous membrane
+TS-2626	synonym	mucosa of esophagus
+TS-2626	synonym	mucosa of oesophagus
+TS-2626	synonym	mucous membrane of esophagus
+TS-2626	synonym	mucous membrane of oesophagus
+TS-2626	synonym	oesophageal mucosa
+TS-2626	synonym	oesophagus mucosa
+TS-2626	synonym	oesophagus mucous membrane
+TS-2626	synonym	tunica mucosa esophagi
+TS-2626	synonym	tunica mucosa oesophagi
+TS-2627	name	Squamous epithelium
+TS-2628	name	Lower esophagus mucosa
+TS-2629	name	Lower esophagus
+TS-2629	synonym	Distal part of esophagus
+TS-2629	synonym	Lower third of esophagus
+TS-2629	synonym	Lower esophagous
+TS-2630	name	Choroid plexus epithelium
+TS-2630	synonym	choroid plexus epithelial tissue
+TS-2630	synonym	epithelial tissue of chorioid plexus of cerebral hemisphere
+TS-2630	synonym	epithelial tissue of choroid plexus
+TS-2630	synonym	epithelium of choroid plexus
+TS-2631	name	Endometrium epithelium
+TS-2631	synonym	endometrium epithelial tissue
+TS-2631	synonym	epithelial tissue of endometrium
+TS-2631	synonym	epithelium of endometrium
+TS-2631	synonym	epithelium of tunica mucosa of endometrium
+TS-2632	name	Mucosa of transverse colon
+TS-2632	synonym	mucosa of organ of transverse colon
+TS-2632	synonym	mucous membrane of transverse colon
+TS-2632	synonym	organ mucosa of transverse colon
+TS-2632	synonym	transverse colon mucosa
+TS-2632	synonym	transverse colon mucosa of organ
+TS-2632	synonym	transverse colon mucous membrane
+TS-2632	synonym	transverse colon organ mucosa
+TS-2633	name	Mucosa of sigmoid colon
+TS-2633	synonym	mucosa of organ of sigmoid colon
+TS-2633	synonym	mucous membrane of sigmoid colon
+TS-2633	synonym	organ mucosa of sigmoid colon
+TS-2633	synonym	sigmoid colon mucosa
+TS-2633	synonym	sigmoid colon mucosa of organ
+TS-2633	synonym	sigmoid colon mucous membrane
+TS-2633	synonym	sigmoid colon organ mucosa
+TS-2634	name	Mucosa of paranasal sinus
+TS-2634	synonym	paranasal sinus mucosa
+TS-2635	name	Tongue squamous epithelium
+TS-2635	synonym	squamous epithelium of tongue
+TS-2636	name	Cervix squamous epithelium
+TS-2636	synonym	cervical squamous epithelium
+TS-2637	name	Cerebellar hemisphere
+TS-2637	synonym	cerebellum hemisphere
+TS-2637	synonym	hemisphere of cerebellum
+TS-2638	name	Primary visual cortex
+TS-2638	synonym	BA17
+TS-2638	synonym	area 17 of Brodmann
+TS-2638	synonym	Brodmann area 17
+TS-2638	synonym	Brodmann area 17, striate
+TS-2638	synonym	striate cortex
+TS-2638	synonym	area striata
+TS-2639	name	Neocortex
+TS-2639	synonym	cerebral neocortex
+TS-2639	synonym	homotypical cortex
+TS-2639	synonym	iso-cortex
+TS-2639	synonym	isocortex
+TS-2639	synonym	neopallial cortex
+TS-2639	synonym	neopallium
+TS-2640	name	Postcentral gyrus
+TS-2640	synonym	gyrus postcentralis
+TS-2640	synonym	post central gyrus
+TS-2640	synonym	postcentral convolution
+TS-2640	synonym	posterior central gyrus
+TS-2640	synonym	postrolandic gyrus
+TS-2641	name	Superior frontal gyrus
+TS-2641	synonym	marginal gyrus
+TS-2641	synonym	superior frontal convolution
+TS-2642	name	Middle frontal gyrus
+TS-2642	synonym	intermediate frontal gyrus
+TS-2642	synonym	medial frontal gyrus
+TS-2643	name	Entorhinal cortex
+TS-2643	synonym	entorhinal area
+TS-2644	name	Middle temporal gyrus
+TS-2644	synonym	intermediate temporal gyrus
+TS-2645	name	Frontal pole
+TS-2646	name	Right frontal lobe
+TS-2647	name	Cingulate cortex
+TS-2648	name	Embryonic ventricular zone
+TS-2649	name	Hippocampus, CA1
+TS-2649	synonym	CA1 field of Ammon's horn
+TS-2649	synonym	CA1 field of hippocampus
+TS-2649	synonym	CA1 field of cornu ammonis
+TS-2649	synonym	CA1 field of the Ammon horn
+TS-2649	synonym	CA1 field of the hippocampus
+TS-2649	synonym	cornu ammonis 1
+TS-2649	synonym	hippocampus CA1
+TS-2649	synonym	region 1 of Ammon's horn
+TS-2650	name	Orbitofrontal cortex
+TS-2650	synonym	fronto-orbital cortex
+TS-2650	synonym	orbital frontal cortex
+TS-2650	synonym	orbito-frontal cortex
+TS-2651	name	Cortical plate
+TS-2651	synonym	cerebral cortex cortical plate
+TS-2651	synonym	future cortical layers II-VI
+TS-2651	synonym	future neocortex
+TS-2651	synonym	neocortex cortical plate
+TS-2652	name	Paraflocculus
+TS-2652	synonym	cerebellar tonsil
+TS-2652	synonym	neuraxis paraflocculus
+TS-2652	synonym	parafloccular lobule of cerebellum
+TS-2652	synonym	paraflocculus of cerebellum
+TS-2653	name	Inferior vagus X ganglion
+TS-2653	synonym	ganglion inferius (nervus vagus)
+TS-2653	synonym	inferior ganglion of vagus
+TS-2653	synonym	inferior ganglion of vagus nerve
+TS-2653	synonym	inferior vagus ganglion
+TS-2653	synonym	inferior vagus X
+TS-2653	synonym	nodose ganglion
+TS-2653	synonym	tenth cranial nerve nodose ganglion
+TS-2653	synonym	vagus nerve inferior ganglion
+TS-2653	synonym	vagus nerve nodose ganglion
+TS-2653	synonym	vagus X inferior ganglion
+TS-2654	name	C1 segment of cervical spinal cord
+TS-2654	synonym	C1 cervical spinal cord
+TS-2654	synonym	C1 segment
+TS-2654	synonym	C1 spinal cord segment
+TS-2654	synonym	first cervical spinal cord segment
+TS-2655	name	Brodmann (1909) area 46
+TS-2655	synonym	area 46 of Brodmann
+TS-2655	synonym	area 46 of Brodmann-1909
+TS-2655	synonym	area frontalis media
+TS-2655	synonym	B09-46
+TS-2655	synonym	BA46
+TS-2655	synonym	Brodmann area 46
+TS-2655	synonym	Brodmann area 46, middle frontal
+TS-2655	synonym	middle frontal area 46
+TS-2655	synonym	middle frontal area 46
+TS-2656	name	Dorsolateral prefrontal cortex
+TS-2657	name	Anterior cingulate cortex
+TS-2658	name	Brodmann (1909) area 9
+TS-2658	synonym	area 9 of Brodmann
+TS-2658	synonym	area 9 of Brodmann-1909
+TS-2658	synonym	area frontalis granularis
+TS-2658	synonym	B09-9
+TS-2658	synonym	Brodmann area 9
+TS-2658	synonym	Brodmann area 9, granular frontal
+TS-2658	synonym	brodmann's area 9
+TS-2658	synonym	granular frontal area
+TS-2659	name	Brodmann (1909) area 10
+TS-2659	synonym	Frontopolar cortex
+TS-2659	synonym	area 10 of Brodmann
+TS-2659	synonym	area 10 of Brodmann-1909
+TS-2659	synonym	area frontopolaris
+TS-2659	synonym	B09-10
+TS-2659	synonym	BA10
+TS-2659	synonym	Brodmann area 10
+TS-2659	synonym	Brodmann area 10, frontoplar
+TS-2659	synonym	lateral orbital area
+TS-2660	name	Brodmann (1909) area 23
+TS-2660	synonym	area 23 of Brodmann
+TS-2660	synonym	area 23 of Brodmann (guenon)
+TS-2660	synonym	area 23 of Brodmann-1909
+TS-2660	synonym	area cingularis posterior ventralis
+TS-2660	synonym	B09-23
+TS-2660	synonym	BA23
+TS-2660	synonym	Brodmann area 23
+TS-2660	synonym	Brodmann area 23, ventral posterior cingulate
+TS-2660	synonym	brodmann's area 23
+TS-2660	synonym	granular cingulate area
+TS-2660	synonym	posterior cingulate area
+TS-2660	synonym	ventral posterior cingulate area
+TS-2661	name	Right hemisphere of cerebellum
+TS-2662	name	Sural nerve
+TS-2662	synonym	short saphenal nerve
+TS-2663	name	Palpebral conjunctiva
+TS-2663	synonym	eyelid conjunctiva
+TS-2664	name	Minor salivary gland
+TS-2665	name	Synovial membrane of synovial joint
+TS-2666	name	Apex of heart
+TS-2667	name	Inferior olivary complex
+TS-2667	synonym	inferior olivary complex
+TS-2667	synonym	inferior olivary nuclear complex
+TS-2667	synonym	inferior olive
+TS-2668	name	Olivary body
+TS-2668	synonym	Olivary nucleus
+TS-2669	name	Parietal pleura
+TS-2670	name	Visceral pleura
+TS-2671	name	Calcaneal tendon
+TS-2671	synonym	Achilles tendon
+TS-2671	synonym	Achille's tendon
+TS-2672	name	Caput epididymis
+TS-2672	synonym	Head of epidymis
+TS-2672	synonym	Epididymal head
+TS-2672	synonym	Epididymis head
+TS-2673	name	Corpus epididymis
+TS-2673	synonym	Epididymis body
+TS-2673	synonym	Body of epididymis
+TS-2673	synonym	Epididymal body
+TS-2674	name	Cauda epididymis
+TS-2674	synonym	Epididymal cauda
+TS-2674	synonym	Tail of epididymis
+TS-2674	synonym	Epididymis tail
+TS-2674	synonym	Epididymal tail
+TS-2675	name	Blood vessel layer
+TS-2676	name	Chorionic villus
+TS-2676	synonym	chorionic villi
+TS-2676	synonym	placental villi
+TS-2676	synonym	placental villus
+TS-2677	name	Tendon of biceps muscle
+TS-2677	synonym	biceps brachii tendon
+TS-2677	synonym	Tendon of biceps brachii
+TS-2678	name	Upper lobe of lung
+TS-2679	name	Lower lobe of lung
+TS-2680	name	Upper lobe of left lung
+TS-2681	name	Omental fat pad
+TS-2682	name	Body of tongue
+TS-2683	name	Adrenal tissue
+TS-2684	name	Left adrenal gland cortex
+TS-2684	synonym	cortex of left adrenal gland
+TS-2684	synonym	cortex of left suprarenal gland
+TS-2684	synonym	left adrenal cortex
+TS-2685	name	Right adrenal gland cortex
+TS-2685	synonym	cortex of right adrenal gland
+TS-2685	synonym	cortex of right suprarenal gland
+TS-2685	synonym	right adrenal cortex
+TS-2686	name	Lower esophagus muscularis layer
+TS-2686	synonym	Lower esophagus muscularis propria
+TS-2687	name	Esophagogastric junction muscularis propria
+TS-2688	name	Frontal cortex
+TS-2688	synonym	Brain frontal cortex
+TS-2688	synonym	cortex of frontal lobe
+TS-2688	synonym	gray matter of frontal lobe
+TS-2688	synonym	grey matter of frontal lobe; frontal lobe cortex
+TS-2689	name	Temporal cortex
+TS-2689	synonym	Brain temporal cortex
+TS-2689	synonym	temporal lobe cortex
+TS-2689	synonym	temporal neocortex
+TS-2690	name	Parietal cortex
+TS-2690	synonym	Brain parietal cortex
+TS-2690	synonym	Parietal lobe cortex
+TS-2690	synonym	Parietal neocortex
+TS-2691	name	Occipital cortex
+TS-2691	synonym	Brain occipital cortex
+TS-2691	synonym	Occipital cortex
+TS-2692	name	Embryonic pituitary gland
+TS-2692	synonym	Pituitary primordium
+TS-2692	synonym	Future pituitary gland
+TS-2693	name	Embryonic skin
+TS-2693	synonym	Embryonic zone of skin
+TS-2694	name	Embryonic stomach
+TS-2695	name	Embryonic retina
+TS-2696	name	Embryonic eye
+TS-2696	synonym	Eye primordium
+TS-2697	name	Embryonic female gonad
+TS-2698	name	Embryonic pancreas
+TS-2698	synonym	Pancreas primordium
+TS-2698	synonym	Pancreatic primordium
+TS-2699	name	Embryonic bone
+TS-2700	name	Embryonic muscle
+TS-2701	name	Embryonic ear
+TS-2702	name	Embryonic cochlea
+TS-2703	name	Embryonic hypothalamus
+TS-2704	name	Embryonic spleen
+TS-2705	name	Embryonic adrenal gland
+TS-2706	name	Embryonic thymus
+TS-2707	name	Embryonic cartilage
+TS-2708	name	Embryonic frontal lobe
+TS-2709	name	Fetal stomach
+TS-2710	name	Fetal pigmented layer of retina
+TS-2711	name	Fetal frontal cortex
+TS-2712	name	Fetal forebrain
+TS-2713	name	Fetal neocortex
+TS-2714	name	Fetal ventricular zone
+TS-2715	name	Fetal cortical plate
+TS-2716	name	Fetal adrenal tissue
+TS-2717	name	Right atrium auricular region
+TS-2718	name	Right lung
+TS-2719	name	Right ovary
+TS-2720	name	Left ovary
+TS-2721	name	Left testis
+TS-2722	name	Right testis
+TS-2723	name	Fetal subventricular zone
+TS-2724	name	Muscular system
+TS-2724	synonym	Musculature of the body
+TS-2725	name	Enterocyte
+TS-2725	synonym	Enterocytes
+TS-2726	name	Large intestine glandular cell
+TS-2727	name	Intestinal goblet cell
+TS-2727	synonym	intestinal goblet cells
+TS-2727	synonym	intestine goblet cell
+TS-2727	synonym	intestinal mucus secreting cell
+TS-2727	synonym	intestinal mucus secreting cells
+TS-2727	synonym	mucus secreting cells
+TS-2727	synonym	mucus-secreting cells
+TS-2728	name	Paneth cell
+TS-2728	synonym	Paneth cells
+TS-2729	name	Bronchus ciliated cell
+TS-2729	synonym	Ciliated cell of the bronchus
+TS-2730	name	Ciliated epithelial cell
+TS-2731	name	Club cell
+TS-2731	synonym	Club cells
+TS-2731	synonym	Clara cells
+TS-2732	name	Prostate basal cell
+TS-2732	synonym	basal cell of prostate
+TS-2732	synonym	basal glandular cells
+TS-2732	synonym	basal prostatic cells
+TS-2732	synonym	basal prostatic cell
+TS-2732	synonym	basal cell of prostate epithelium
+TS-2733	name	Stratum basale
+TS-2733	synonym	stratum germinativum
+TS-2733	synonym	stratum basale of epidermis
+TS-2733	synonym	skin cells in basal layer
+TS-2734	name	Stratum spinosum
+TS-2734	synonym	stratum spinosum of epidermis
+TS-2734	synonym	skin cells in spinous layer
+TS-2735	name	Basal keratinocyte
+TS-2735	synonym	Basal cell of epidermis
+TS-2735	synonym	Basal keratinocytes
+TS-2736	name	Suprabasal keratinocyte
+TS-2736	synonym	Suprabasal keratinocytes
+TS-2737	name	Cholangiocyte
+TS-2737	synonym	Cholangiocytes
+TS-2738	name	Prostate urothelial cell
+TS-2739	name	Intestinal enteroendocrine cell
+TS-2739	synonym	Intestinal endocrine cells
+TS-2740	name	Pancreatic endocrine cell
+TS-2740	synonym	Pancreatic endocrine cells
+TS-2741	name	Endocrine cell
+TS-2742	name	Retinal bipolar neuron
+TS-2742	synonym	Retinal bipolar cell
+TS-2742	synonym	Bipolar cells
+TS-2743	name	Horizontal cells of the eye
+TS-2743	synonym	Horizontal cells
+TS-2744	name	Muller glial cell
+TS-2744	synonym	Muller cell
+TS-2744	synonym	Muller glia cell of eye
+TS-2744	synonym	Muller glia cells
+TS-2745	name	Cytotrophoblasts
+TS-2746	name	Syncytiotrophoblasts
+TS-2747	name	Extravillous trophoblasts
+TS-2748	name	Undifferentiated cells of the intestine
+TS-2748	synonym	Undifferentiated cells
+TS-2749	name	Hofbauer cell
+TS-2749	synonym	Hofbauer cells
+TS-2750	name	Kupffer cell
+TS-2750	synonym	von Kupffer cell
+TS-2750	synonym	stellate cell of von Kupffer
+TS-2750	synonym	littoral cell of hepatic sinusoid
+TS-2750	synonym	macrophagocytus stellatus
+TS-2750	synonym	liver macrophage
+TS-2750	synonym	hepatic macrophage
+TS-2750	synonym	Kupffer cells
+TS-2751	name	Hepatic sinusoid
+TS-2751	synonym	Liver sinusoid
+TS-2752	name	Erythroid cell
+TS-2752	synonym	Erythropoietic cell
+TS-2752	synonym	Erythroid cells
+TS-2753	name	Dorsomedial prefrontal cortex
+TS-2754	name	Ventromedial prefrontal cortex
+TS-2755	name	Ventrolateral prefrontal cortex
+TS-2756	name	Limbic cortex
+TS-2756	synonym	Cortex of limbic lobe
+TS-2756	synonym	Limbic lobe cortex
+TS-2757	name	Anterior cingulate gyrus, pregenual-dorsal
+TS-2757	synonym	aCGpd
+TS-2758	name	Anterior cingulate gyrus, pregenual-ventral
+TS-2758	synonym	aCGpv
+TS-2759	name	Anterior cingulate gyrus, subgenual
+TS-2759	synonym	aCGs
+TS-2760	name	Paraterminal gyrus
+TS-2760	synonym	Subcallosal gyrus
+TS-2760	synonym	Precommissural hippocampus
+TS-2761	name	Frontal gyrus
+TS-2762	name	Inferior frontal gyrus
+TS-2762	synonym	Inferior frontal convolution
+TS-2763	name	Triangular inferior frontal gyrus
+TS-2763	synonym	Triangular part of inferior frontal gyrus
+TS-2763	synonym	Pars triangularis
+TS-2763	synonym	Gyrus frontalis inferior, pars triangularis
+TS-2763	synonym	Pars triangularis gyri frontalis inferioris
+TS-2763	synonym	Pars triangularis of frontal operculum (Ono)
+TS-2763	synonym	Inferior frontal gyrus, triangular
+TS-2764	name	Orbital inferior frontal gyrus
+TS-2764	synonym	Orbital part of inferior frontal gyrus
+TS-2764	synonym	Gyrus frontalis inferior, pars orbitalis
+TS-2764	synonym	Pars orbitalis gyri frontalis inferioris
+TS-2764	synonym	Inferior frontal gyrus, orbital part
+TS-2764	synonym	Inferior frontal gyrus, orbital
+TS-2765	name	Frontomarginal cortex
+TS-2766	name	Gyrus rectus
+TS-2766	synonym	Straight gyrus
+TS-2766	synonym	Medial part of gyri orbitales
+TS-2766	synonym	Rectus gyrus
+TS-2766	synonym	Rectal gyrus
+TS-2767	name	Lateral orbitofrontal gyrus
+TS-2767	synonym	Orbitofrontal gyrus, lateral
+TS-2768	name	Medial orbitofrontal gyrus
+TS-2768	synonym	Orbitofrontal gyrus, medial
+TS-2769	name	Posterior orbitofrontal gyrus
+TS-2769	synonym	Orbitofrontal gyrus, posterior
+TS-2770	name	Bronchus goblet cell
+TS-2770	synonym	Goblet cell of epithelium of bronchus
+TS-2770	synonym	Goblet cell bronchus
+TS-2770	synonym	Bronchial goblet cell
+TS-2770	synonym	Bronchus goblet cells
+TS-2771	name	Bronchus basal cell
+TS-2771	synonym	Basal cell of epithelium of bronchus
+TS-2771	synonym	Basal cell of bronchus
+TS-2771	synonym	Bronchial basal cells
+TS-2771	synonym	Bronchus basal cells
+TS-2772	name	Oviduct ciliated cell
+TS-2772	synonym	Fallopian tube ciliated cell
+TS-2773	name	Oviduct non-ciliated epithelial cell
+TS-2773	synonym	Oviduct non-ciliated luminal epithelial cell
+TS-2773	synonym	Fallopian tube non-ciliated luminal epithelial cell
+TS-2773	synonym	Fallopian tube non-ciliated cells
+TS-2774	name	Glomerular capsule
+TS-2774	synonym	Renal glomerular capsule
+TS-2774	synonym	Bowmans capsule
+TS-2774	synonym	Bowman's capsule
+TS-2774	synonym	Capsula glomerularis
+TS-2774	synonym	Kidney Bowman's capsule
+TS-2775	name	Nasopharyngeal basal cell
+TS-2775	synonym	Nasopharynx basal cells
+TS-2775	synonym	Nasopharynx basal cell
+TS-2776	name	Nasopharyngeal ciliated cell
+TS-2776	synonym	Nasopharynx ciliated cell
+TS-2777	name	Nasopharyngeal goblet cell
+TS-2777	synonym	Nasopharynx goblet cell
+TS-2777	synonym	Nasopharynx goblet cells
+TS-2778	name	Bergmann glial cell
+TS-2778	synonym	Bergmann glial cell of cerebellum
+TS-2778	synonym	Bergmann astrocyte
+TS-2778	synonym	Cerebellum Bergmann glia
+TS-2779	name	Cerebellar GLUC cells
+TS-2780	name	Cerebellum processes in granular layer
+TS-2781	name	Cerebellum processes in molecular layer
+TS-2782	name	Cerebellum processes in white matter
+TS-2783	name	Cerebellar glomerulus
+TS-2783	synonym	Cerebellar glomeruli
+TS-2783	synonym	Cerebellum synaptic glomeruli
+TS-2784	name	White matter of cerebellum
+TS-2784	synonym	Cerebellum white matter cells
+TS-2784	synonym	Cerebellar white matter
+TS-2784	synonym	Cerebellum white matter
+TS-2785	name	Kidney proximal tubules (cell body)
+TS-2785	synonym	Kidney proximal tubules - cell body
+TS-2786	name	Kidney proximal tubules (microvilli)
+TS-2786	synonym	Kidney proximal tubules - microvilli
+TS-2787	name	Cerebellum Purkinje cells (cytoplasm/membrane)
+TS-2787	synonym	Cerebellum Purkinje cells - cytoplasm/membrane
+TS-2788	name	Cerebellum Purkinje cells (dendrites)
+TS-2788	synonym	Cerebellum Purkinje cells dendrites
+TS-2788	synonym	Cerebellum Purkinje cells - dendrites
+TS-2789	name	Cerebellum Purkinje cells (nucleus)
+TS-2789	synonym	Cerebellum Purkinje cells nucleus
+TS-2789	synonym	Cerebellum Purkinje cells - nucleus
+TS-2790	name	Cerebellum granular cells (cytoplasm/membrane)
+TS-2790	synonym	Cerebellum granular cells - cytoplasm/membrane
+TS-2791	name	Cerebellum granular cells (nucleus)
+TS-2791	synonym	Cerebellum granular cells nucleus
+TS-2791	synonym	Cerebellum granular cells - nucleus
+TS-2792	name	Cerebellum molecular layer cells (cytoplasm/membrane)
+TS-2792	synonym	Cerebellum molecular layer cells - cytoplasm/membrane
+TS-2793	name	Cerebellum molecular layer cells (nucleus)
+TS-2793	synonym	Cerebellum molecular layer cells nucleus
+TS-2793	synonym	Cerebellum molecular layer cells - nucleus
+TS-2794	name	Bronchus ciliated cells (cell body)
+TS-2794	synonym	Bronchus ciliated cells - cell body
+TS-2795	name	Bronchus ciliated cells (cilia axoneme)
+TS-2795	synonym	Bronchus ciliated cells - cilia axoneme
+TS-2796	name	Bronchus ciliated cells (ciliary rootlets)
+TS-2796	synonym	Bronchus ciliated cells - ciliary rootlets
+TS-2797	name	Bronchus ciliated cells (tip of cilia)
+TS-2797	synonym	Bronchus ciliated cells - tip of cilia
+TS-2798	name	Fallopian tube ciliated cells (cell body)
+TS-2798	synonym	Fallopian tube ciliated cells - cell body
+TS-2799	name	Fallopian tube ciliated cells (cilia axoneme)
+TS-2799	synonym	Fallopian tube ciliated cells - cilia axoneme
+TS-2800	name	Fallopian tube ciliated cells (ciliary rootlets)
+TS-2800	synonym	Fallopian tube ciliated cells - ciliary rootlets
+TS-2801	name	Fallopian tube ciliated cells (tip of cilia)
+TS-2801	synonym	Fallopian tube ciliated cells - tip of cilia
+TS-2802	name	Nasopharynx ciliated cells (cell body)
+TS-2802	synonym	Nasopharynx ciliated cells - cell body
+TS-2803	name	Nasopharynx ciliated cells (cilia axoneme)
+TS-2803	synonym	Nasopharynx ciliated cells - cilia axoneme
+TS-2804	name	Nasopharynx ciliated cells (ciliary rootlets)
+TS-2804	synonym	Nasopharynx ciliated cells - ciliary rootlets
+TS-2805	name	Nasopharynx ciliated cells (tip of cilia)
+TS-2805	synonym	Nasopharynx ciliated cells - tip of cilia
+TS-2806	name	Cerebellum Bergmann glia (cytoplasm/membrane)
+TS-2806	synonym	Cerebellum Bergmann glia - cytoplasm/membrane
+TS-2807	name	Cerebellum Bergmann glia (nucleus)
+TS-2807	synonym	Cerebellum Bergmann glia nucleus
+TS-2807	synonym	Cerebellum Bergmann glia - nucleus
+TS-2808	name	Cerebellum gluc cells (cytoplasm/membrane)
+TS-2808	synonym	Cerebellum gluc cells - cytoplasm/membrane
+TS-2809	name	Cerebellum gluc cells (nucleus)
+TS-2809	synonym	Cerebellum gluc cells nucleus
+TS-2809	synonym	Cerebellum gluc cells - nucleus
+TS-2810	name	Cerebellum synaptic glomeruli (capsule)
+TS-2810	synonym	Cerebellum synaptic glomeruli - capsule
+TS-2811	name	Cerebellum synaptic glomeruli (core)
+TS-2811	synonym	Cerebellum synaptic glomeruli - core
+TS-2812	name	Cerebellum white matter cells (cytoplasm/membrane)
+TS-2812	synonym	Cerebellum white matter cells - cytoplasm/membrane
+TS-2813	name	Cerebellum white matter cells (nucleus)
+TS-2813	synonym	Cerebellum white matter cells nucleus
+TS-2813	synonym	Cerebellum white matter cells - nucleus
+TS-2814	name	Ciliated cell
+TS-2814	synonym	Ciliated cells
+TS-2815	name	Urothelial cell
+TS-2815	synonym	Urothelial cells
+TS-2816	name	Urinary bladder urothelial cell
+TS-2816	synonym	Urinary bladder urothelial cells
+TS-2817	name	Syncytiotrophoblasts (cell body)
+TS-2817	synonym	Syncytiotrophoblasts - cell body
+TS-2818	name	Syncytiotrophoblasts (microvilli)
+TS-2818	synonym	Syncytiotrophoblasts - microvilli
+TS-2819	name	Posterior cingulate cortex
+TS-2819	synonym	posterior cingulate
+TS-2819	synonym	cingulate gyrus, posterior division
+TS-2820	name	Posterior cingulate cortex, ventral
+TS-2820	synonym	Ventral posterior cingulate cortex
+TS-2821	name	Posterior cingulate cortex, dorsal
+TS-2821	synonym	dorsal posterior cingulate cortex
+TS-2822	name	Anterior cingulate cortex, supragenual-dorsal
+TS-2822	synonym	supragenual-dorsal anterior cingulate cortex
+TS-2823	name	Anterior cingulate cortex, supragenual-ventral
+TS-2823	synonym	supragenual-ventral anterior cingulate cortex
+TS-2824	name	Middle cingulate cortex
+TS-2826	name	Insular cortex
+TS-2826	synonym	cortex of insula
+TS-2826	synonym	insular neocortex
+TS-2827	name	Anterior insular cortex, dorsal
+TS-2827	synonym	dorsal anterior insular cortex
+TS-2828	name	Anterior insular cortex, ventral
+TS-2828	synonym	ventral anterior insular cortex
+TS-2829	name	Parieto-insular cortex
+TS-2830	name	Posterior insular cortex
+TS-2831	name	Temporo-insular cortex, parainsular gyrus
+TS-2832	name	Area parastriata
+TS-2832	synonym	Brodmann (1909) area 18
+TS-2832	synonym	secondary visual area
+TS-2832	synonym	Brodmann area 18
+TS-2832	synonym	parastriate area 18
+TS-2832	synonym	area 18 of Brodmann
+TS-2832	synonym	B09-18
+TS-2832	synonym	Brodmann's area 18
+TS-2832	synonym	visual area II
+TS-2832	synonym	BA18
+TS-2832	synonym	Brodmann area 18, parastriate
+TS-2832	synonym	Brodmann (1909) area 18
+TS-2832	synonym	area 18 of Brodmann-1909
+TS-2833	name	Area parastriata, inferior
+TS-2834	name	Area parastriata, parietal
+TS-2835	name	Area parastriata, superior
+TS-2836	name	Area parastriata, temporal
+TS-2837	name	Area striata (white matter)
+TS-2837	synonym	area striata, white matter
+TS-2837	synonym	white matter area striata
+TS-2838	name	Precentral gyrus
+TS-2838	synonym	prerolandic gyrus
+TS-2838	synonym	precentral convolution
+TS-2839	name	Precentral gyrus, dorsal
+TS-2839	synonym	dorsal part of precentral gyrus
+TS-2839	synonym	dorsal precentral gyrus
+TS-2840	name	Precentral gyrus, middle
+TS-2840	synonym	middle part of precentral gyrus
+TS-2840	synonym	middle precentral gyrus
+TS-2841	name	Precentral gyrus, ventral
+TS-2841	synonym	ventral part of precentral gyrus
+TS-2841	synonym	ventral precentral gyrus
+TS-2842	name	Postcentral gyrus, middle
+TS-2842	synonym	middle part of postcentral gyrus
+TS-2842	synonym	middle postcentral gyrus
+TS-2843	name	Postcentral gyrus, ventral
+TS-2843	synonym	ventral part of postcentral gyrus
+TS-2843	synonym	ventral postcentral gyrus
+TS-2844	name	Angular gyrus
+TS-2844	synonym	preoccipital gyrus
+TS-2844	synonym	middle part of inferior parietal lobule
+TS-2845	name	Fusiform gyrus
+TS-2845	synonym	medial occipitotemporal gyrus-1 (heimer)
+TS-2845	synonym	gyrus occipitotemporalis lateralis
+TS-2845	synonym	occipitotemporal gyrus
+TS-2845	synonym	lateral occipitotemporal gyrus
+TS-2846	name	Lingual gyrus
+TS-2846	synonym	medial occipitotemporal gyrus-2
+TS-2846	synonym	medial occipitotemporal gyrus
+TS-2846	synonym	lingula of cerebral hemisphere
+TS-2846	synonym	gyrus occipitotemporalis medialis
+TS-2847	name	Inferior frontal gyrus, opercular
+TS-2847	synonym	opercular part of inferior frontal gyrus
+TS-2847	synonym	pars posterior of inferior frontal gyrus
+TS-2847	synonym	pars opercularis
+TS-2847	synonym	posterior part of inferior frontal gyrus
+TS-2847	synonym	pars opercularis gyri frontalis inferioris
+TS-2847	synonym	opercular portion of inferior frontal gyrus
+TS-2847	synonym	gyrus frontalis inferior, pars opercularis
+TS-2848	name	Inferior temporal gyrus
+TS-2848	synonym	gyrus temporalis inferior
+TS-2848	synonym	lateral occipitotemporal gyrus (heimer-83)
+TS-2849	name	Orbitofrontal gyrus
+TS-2849	synonym	fronto-orbital gyrus
+TS-2849	synonym	orbito-frontal gyrus
+TS-2850	name	Orbitofrontal gyrus, anterior
+TS-2850	synonym	anterior part of orbitofrontal gyrus
+TS-2850	synonym	anterior orbitofrontal gyrus
+TS-2851	name	Fusiform gyrus (white matter)
+TS-2851	synonym	fusiform gyrus, white matter
+TS-2851	synonym	white matter fusiform gyrus
+TS-2852	name	Angular gyrus (white matter)
+TS-2852	synonym	angular gyrus, white matter
+TS-2852	synonym	white matter angular gyrus
+TS-2853	name	Perirhinal gyrus
+TS-2854	name	Entorhinal gyrus
+TS-2855	name	Transverse temporal gyrus
+TS-2855	synonym	Heshl's gyrus
+TS-2855	synonym	transverse gyrus of Heschl
+TS-2856	name	Transversal temporal gyrus, anterior
+TS-2856	synonym	anterior transverse temporal gyrus
+TS-2856	synonym	anterior transverse convolution of heschl
+TS-2856	synonym	anterior transverse temporal convolution of heschl
+TS-2856	synonym	first transverse gyrus of Heschl
+TS-2856	synonym	great transverse gyrus of Heschl
+TS-2857	name	Transversal temporal gyrus, posterior
+TS-2857	synonym	posterior transverse temporal gyrus
+TS-2857	synonym	posterior transverse convolution of heschl
+TS-2857	synonym	posterior transverse temporal convolution of heschl
+TS-2858	name	Superior temporal gyrus
+TS-2859	name	Supramarginal gyrus
+TS-2859	synonym	inferior parietal lobule (krieg)
+TS-2859	synonym	anterior part of inferior parietal lobule
+TS-2860	name	Subcentral gyrus
+TS-2860	synonym	subcentral gyrus, S2
+TS-2860	synonym	central operculum
+TS-2860	synonym	Rolandic operculum
+TS-2825	name	Somatomor cortex, precentral gyrus (white matter)
+TS-2861	name	Somatosensory cortex, postcentral gyrus, ventral (white matter)
+TS-2862	name	Somatosensory cortex
+TS-2863	name	Motor cortex
+TS-2863	synonym	primary motor cortex
+TS-2864	name	Retrosplenial cortex
+TS-2864	synonym	retrosplenial region
+TS-2865	name	Premotor cortex
+TS-2865	synonym	premotor cortex (area 6)
+TS-2866	name	Premotor cortex, dorsal
+TS-2866	synonym	dorsal part of the premotor cortex
+TS-2866	synonym	dorsal premotor cortex
+TS-2867	name	Premotor cortex, ventral
+TS-2867	synonym	ventral part of the premotor cortex
+TS-2867	synonym	ventral premotor cortex
+TS-2868	name	Parietal operculum
+TS-2868	synonym	operculum parietale
+TS-2869	name	Inferior parietal cortex
+TS-2869	synonym	inferior parietal lobule
+TS-2870	name	Superior parietal cortex
+TS-2870	synonym	superior parietal lobule
+TS-2871	name	Intraparietal deep sulcus
+TS-2871	synonym	intraparietal sulcus
+TS-2871	synonym	intraparietal fissure
+TS-2871	synonym	interparietal fissure
+TS-2872	name	Paracentral lobule
+TS-2872	synonym	lobulus paracentralis
+TS-2873	name	Paracentral lobule, anterior
+TS-2873	synonym	anterior part of paracentral lobule
+TS-2873	synonym	anterior segment of paracentral lobule
+TS-2873	synonym	anterior paracentral lobule
+TS-2874	name	Paracentral lobule, posterior
+TS-2874	synonym	posterior part of paracentral lobule
+TS-2874	synonym	posterior segment of paracentral lobule
+TS-2874	synonym	posterior paracentral lobule
+TS-2875	name	Frontal operculum
+TS-2876	name	Supplementary motor cortex
+TS-2876	synonym	supplemental motor cortex
+TS-2876	synonym	supplemental motor area
+TS-2876	synonym	supplementary motor area
+TS-2877	name	Temporal pole
+TS-2878	name	Temporo-occipital transitional zone
+TS-2879	name	Precuneus
+TS-2879	synonym	precuneus cortex
+TS-2879	synonym	quadrate lobule
+TS-2879	synonym	precuneate lobule
+TS-2880	name	Piriform cortex
+TS-2881	name	Olfactory cortex
+TS-2882	name	Parieto-occipital transitional area
+TS-2883	name	Frontal eye field
+TS-2884	name	Basal amygdala
+TS-2884	synonym	basal amygdaloid nucleus
+TS-2885	name	Basolateral amygdala
+TS-2885	synonym	basolateral amygdaloid nuclear complex
+TS-2885	synonym	basolateral subdivision of amygdala
+TS-2886	name	Central amygdala
+TS-2886	synonym	central amygdaloid nucleus
+TS-2887	name	Corticomedial amygdala
+TS-2887	synonym	corticomedial nuclear complex
+TS-2887	synonym	corticomedial subdivision of amygdala
+TS-2888	name	Lateral amygdala
+TS-2888	synonym	lateral amygdaloid nucleus
+TS-2889	name	Stria terminalis, bed nucleus
+TS-2889	synonym	bed nucleus of stria terminalis
+TS-2889	synonym	nucleus of stria terminalis
+TS-2889	synonym	intercalate nucleus of stria terminalis
+TS-2890	name	Claustrum
+TS-2890	synonym	claustrum of brain
+TS-2890	synonym	dorsal claustrum
+TS-2891	name	Ventral pallidum
+TS-2891	synonym	globus pallidus ventral part
+TS-2892	name	Nucleus basalis of Meynert
+TS-2892	synonym	basal nucleus of telencephalon
+TS-2893	name	Flocculonodular lobe
+TS-2893	synonym	flocculonodular lobe of cerebellum
+TS-2893	synonym	cerebellum flocculonodular lobe
+TS-2894	name	Nucleus of the diagonal band
+TS-2894	synonym	nucleus of diagonal band
+TS-2894	synonym	diagonal band of Broca
+TS-2895	name	Septal nuclei
+TS-2895	synonym	septal nuclear complex
+TS-2896	name	Cerebellum molecular layer neuropil
+TS-2896	synonym	cerebellum molecular layer - neuropil
+TS-2897	name	Hippocampus, CA2
+TS-2897	synonym	CA2 field of hippocampus
+TS-2897	synonym	CA2 field of Ammon's horn
+TS-2898	name	Hippocampus, CA3
+TS-2898	synonym	CA3 field of hippocampus
+TS-2898	synonym	CA3 field of Ammon's horn
+TS-2899	name	Parahippocampal cortex
+TS-2900	name	Soft tissue perpheral nerve
+TS-2901	name	Rectum fibroblast
+TS-2901	synonym	rectum fibroblasts
+TS-2902	name	Arcuate nucleus
+TS-2902	synonym	arcuate nucleus of hypothalamus
+TS-2902	synonym	infundibular hypothalamic nucleus
+TS-2902	synonym	arcuate periventricular nucleus
+TS-2903	name	Dorsomedial nucleus
+TS-2903	synonym	dorsomedial nucleus of hypothalamus
+TS-2903	synonym	dorsomedial nucleus of intermediate hypothalamus
+TS-2903	synonym	dorsomedial nucleus of dorsal hypothalamus
+TS-2904	name	Lateral hypothalamic area
+TS-2904	synonym	lateral group of hypothalamic nuclei
+TS-2904	synonym	lateral hypothalamic zone (Crosby)
+TS-2904	synonym	lateral hypothalamic region
+TS-2904	synonym	lateral division of hypothalamus
+TS-2905	name	Mamillary body
+TS-2905	synonym	mammillary body
+TS-2906	name	Paraventricular nucleus
+TS-2906	synonym	paraventricular nucleus of hypothalamus
+TS-2906	synonym	paraventricular hypothalamic nucleus 
+TS-2907	name	Supraoptic nucleus
+TS-2907	synonym	supraoptic nucleus of hypothalamus
+TS-2908	name	Area postrema
+TS-2909	name	Cuneate nuclei
+TS-2909	synonym	cuneate nucleus
+TS-2909	synonym	burdachs nucleus
+TS-2910	name	Lateral medullary reticular nucleus
+TS-2910	synonym	lateral reticular nucleus (medulla)
+TS-2910	synonym	lateral reticular nucleus
+TS-2911	name	Medial vestibular nucleus
+TS-2911	synonym	chief vestibular nucleus
+TS-2911	synonym	dorsal vestibular nucleus
+TS-2911	synonym	triangular nucleus
+TS-2911	synonym	nucleus of Schwalbe
+TS-2911	synonym	Schwalbe's nucleus
+TS-2911	synonym	principal vestibular nucleus
+TS-2911	synonym	nucleus triangularis
+TS-2912	name	Inferior vestibular nucleus
+TS-2912	synonym	descending vestibular nucleus
+TS-2912	synonym	spinal vestibular nucleus
+TS-2913	name	Peritrigeminal nucleus
+TS-2914	name	Motor hypoglossal nucleus
+TS-2914	synonym	hypoglossal nucleus
+TS-2914	synonym	hypoglossal XII nucleus
+TS-2914	synonym	hypoglossal nerve nucleus
+TS-2914	synonym	motor hypoglossal nucleus of the twelfth cranial nerve
+TS-2915	name	Nucleus ambiguus
+TS-2915	synonym	ambiguus nucleus
+TS-2916	name	Nucleus gracilis
+TS-2916	synonym	gracile nucleus
+TS-2917	name	Nucleus raphe magnus
+TS-2918	name	Nucleus raphe obscurus
+TS-2919	name	Nucleus raphe pallidus
+TS-2920	name	Nucleus tractus solitarii
+TS-2920	synonym	nucleus of solitary tract
+TS-2920	synonym	solitary tract nucleus
+TS-2920	synonym	nucleus of tractus solitarius
+TS-2920	synonym	nucleus of the tractus solitarius
+TS-2920	synonym	solitary nucleus
+TS-2921	name	Prepositus hypoglossal nucleus
+TS-2921	synonym	nucleus prepositus
+TS-2921	synonym	prepositus nucleus
+TS-2922	name	Spinal trigeminal nucleus, caudal
+TS-2922	synonym	caudal part of spinal trigeminal nucleus
+TS-2922	synonym	spinal trigeminal nucleus, caudal part
+TS-2922	synonym	caudal nucleus
+TS-2922	synonym	caudal nucleus (kandell)
+TS-2923	name	Spinal trigeminal nucleus, interpolar
+TS-2923	synonym	interpolar part of spinal trigeminal nucleus
+TS-2924	name	Parvicellular reticular nuclei
+TS-2924	synonym	parvocellular reticular nucleus
+TS-2924	synonym	parvicellular reticular nucleus
+TS-2925	name	Parvicellular reticular nuclei, medullary
+TS-2926	name	Ventrolateral medulla, A1/C1 cell groups
+TS-2926	synonym	ventrolateral medulla, A1-C1 cell groups
+TS-2927	name	Dorsal medullary reticular nucleus
+TS-2928	name	Ventral medullary reticular nucleus
+TS-2929	name	Median raphe nucleus
+TS-2929	synonym	cell group b8
+TS-2929	synonym	medial raphe nucleus
+TS-2929	synonym	median nucleus of the raphe
+TS-2930	name	Red nucleus
+TS-2930	synonym	nucleus ruber
+TS-2931	name	Cuneiform nucleus
+TS-2932	name	Pedunculopontine tegmental nucleus
+TS-2932	synonym	peduncular pontine nucleus
+TS-2932	synonym	nucleus pedunculopontinus
+TS-2933	name	Superior colliculus
+TS-2933	synonym	optic tectum
+TS-2933	synonym	anterior colliculus
+TS-2933	synonym	cranial colliculus
+TS-2933	synonym	anterior corpus quadrigeminum
+TS-2933	synonym	superior colliculi
+TS-2934	name	Inferior colliculus
+TS-2934	synonym	posterior corpus quadrigeminum
+TS-2934	synonym	caudal colliculus
+TS-2934	synonym	inferior colliculus
+TS-2934	synonym	posterior colliculus
+TS-2934	synonym	inferior colliculi
+TS-2935	name	Periaquaductal grey
+TS-2935	synonym	periaqueductal gray
+TS-2935	synonym	periaqueductal gray
+TS-2935	synonym	periaquaductal grey
+TS-2935	synonym	periaqueductal grey substance
+TS-2935	synonym	periaqueductal grey matter
+TS-2935	synonym	midbrain periaqueductal grey
+TS-2935	synonym	periaqueductal gray of tegmentum
+TS-2935	synonym	central (periaqueductal) gray
+TS-2935	synonym	periaqueductal gray matter
+TS-2935	synonym	anulus of cerebral aqueduct
+TS-2935	synonym	central gray substance of midbrain
+TS-2936	name	Periaquaductal grey, anterior
+TS-2937	name	Periaquaductal grey, dorsal
+TS-2938	name	Periaquaductal grey, lateral
+TS-2939	name	Pretectal area
+TS-2939	synonym	pretectal region
+TS-2939	synonym	pretectal nuclei
+TS-2939	synonym	pretectum
+TS-2939	synonym	area pretectalis
+TS-2940	name	Anterior cochlear nucleus, ventral
+TS-2940	synonym	ventral cochlear nucleus
+TS-2940	synonym	anterior cochlear nucleus
+TS-2941	name	Dorsal cochlear nucleus
+TS-2941	synonym	posterior cochlear nucleus
+TS-2941	synonym	tuberculum acousticum
+TS-2942	name	Posteroventral cochlear nucleus
+TS-2942	synonym	posterior part of anterior cochlear nucleus
+TS-2943	name	Spinal trigeminal nucleus, oral
+TS-2943	synonym	oral part of spinal trigeminal nucleus
+TS-2944	name	Motor trigeminal nucleus
+TS-2944	synonym	motor nucleus of trigeminal nerve
+TS-2944	synonym	motor nucleus of cranial nerve v
+TS-2944	synonym	motor nucleus V
+TS-2944	synonym	trigeminal motor nucleus
+TS-2944	synonym	trigeminal motor nuclei
+TS-2944	synonym	trigeminal V motor nucleus
+TS-2945	name	Principal sensory trigeminal nucleus
+TS-2945	synonym	chief sensory nucleus
+TS-2945	synonym	main sensory nucleus of cranial nerve v
+TS-2945	synonym	main sensory nucleus
+TS-2945	synonym	principal sensory nucleus of trigeminal nerve
+TS-2945	synonym	principal sensory nucleus
+TS-2945	synonym	superior trigeminal nucleus
+TS-2945	synonym	superior trigeminal sensory nucleus
+TS-2945	synonym	trigeminal V principal sensory nucleus
+TS-2946	name	Dorsal tegmental nucleus
+TS-2946	synonym	gudden nucleus
+TS-2946	synonym	nucleus tegmentalis posterior
+TS-2946	synonym	posterior tegmental nucleus
+TS-2946	synonym	dorsal tegmental nucleus of Gudden
+TS-2946	synonym	von Gudden's nucleus
+TS-2946	synonym	dorsal tegmental nucleus (Gudden)
+TS-2947	name	Reticulotegmental nucleus
+TS-2947	synonym	reticular tegmental nucleus
+TS-2947	synonym	reticulotegmental nucleus of pons
+TS-2948	name	Ventrolateral tegmental area, A5 NE cell group
+TS-2949	name	Pontine nuclei
+TS-2949	synonym	pontine nuclear group
+TS-2949	synonym	pontine gray
+TS-2949	synonym	pontine nuclear complex
+TS-2949	synonym	pontine nucleus
+TS-2950	name	Pontine raphe nucleus
+TS-2950	synonym	raphe of pons
+TS-2950	synonym	raphe pontis
+TS-2951	name	Reticular pontine nucleus, caudal
+TS-2951	synonym	caudal pontine reticular nucleus
+TS-2951	synonym	pontine reticular nucleus, caudal part
+TS-2952	name	Reticular pontine nucleus, oral
+TS-2952	synonym	oral pontine reticular nucleus
+TS-2952	synonym	pontine reticular nucleus, rostral part
+TS-2953	name	Superior olive
+TS-2953	synonym	primary superior olive
+TS-2954	name	Medial superior olivary nucleus
+TS-2954	synonym	medial olivary nucleus
+TS-2954	synonym	main superior olivary nucleus
+TS-2954	synonym	superior olive medial part
+TS-2954	synonym	principal superior olivary nucleus
+TS-2954	synonym	chief nucleus of superior olive
+TS-2954	synonym	superior olivary nucleus, medial part
+TS-2955	name	Medial periolivary nuclei
+TS-2956	name	Ventral periolivary nuclei
+TS-2957	name	Nuclei of the trapezoid body
+TS-2957	synonym	nucleus of trapezoid body
+TS-2957	synonym	trapezoid nuclear complex
+TS-2958	name	Subcoeruleus area
+TS-2958	synonym	nucleus subceruleus
+TS-2960	name	Kolliker-Fuse nucleus
+TS-2960	synonym	diffuse reticular nucleus
+TS-2960	synonym	subparabrachial nucleus
+TS-2961	name	Lateral lemniscal nuclei
+TS-2961	synonym	nuclei of the lateral lemniscus
+TS-2961	synonym	paralemniscal nucleus
+TS-2962	name	Lateral parabrachial nucleus
+TS-2963	name	Medial parabrachial nucleus
+TS-2963	synonym	parabrachial nucleus, medial part
+TS-2963	synonym	parabrachial nucleus, medial division
+TS-2964	name	Lateral vestibular nucleus
+TS-2964	synonym	Deiter's nucleus
+TS-2964	synonym	lateral nucleus of Deiters
+TS-2964	synonym	nucleus of Deiters
+TS-2964	synonym	Deiters' nucleus
+TS-2965	name	Motor facial nucleus
+TS-2965	synonym	facial motor nucleus
+TS-2965	synonym	branchiomotor nucleus of facial nerve
+TS-2965	synonym	motor nucleus of facial nerve
+TS-2965	synonym	facial nerve motor nucleus
+TS-2965	synonym	motor nucleus of VII
+TS-2965	synonym	motor nucleus VII
+TS-2966	name	Paramedian reticular nucleus
+TS-2966	synonym	ventral paramedian reticular nucleus
+TS-2967	name	Ventromedial nucleus
+TS-2967	synonym	ventromedial thalamic nucleus
+TS-2967	synonym	ventromedial nucleus of the thalamus
+TS-2968	name	Zona incerta
+TS-2969	name	Anterior thalamic nucleus, ventral
+TS-2969	synonym	ventral anterior nucleus of thalamus
+TS-2969	synonym	ventral anterior thalamic nucleus
+TS-2969	synonym	ventroanterior thalamic nucleus
+TS-2969	synonym	ventroanterior nucleus of the thalamus
+TS-2970	name	Centromedial thalamic nucleus
+TS-2970	synonym	central medial nucleus
+TS-2970	synonym	central medial nucleus of thalamus
+TS-2971	name	Medial dorsal thalamic nucleus
+TS-2971	synonym	medial dorsal nucleus of thalamus
+TS-2971	synonym	mediodorsal thalamic nucleus
+TS-2971	synonym	dorsal medial nucleus of thalamus
+TS-2971	synonym	dorsomedial nucleus of thalamus
+TS-2971	synonym	mediodorsal nucleus of thalamus
+TS-2972	name	Posterior thalamic nucleus
+TS-2972	synonym	posterior nucleus of thalamus
+TS-2973	name	Pulvinar
+TS-2973	synonym	pulvinar nucleus
+TS-2973	synonym	pulvinar thalami
+TS-2974	name	Ventral thalamic nuclei
+TS-2974	synonym	ventral nuclear group
+TS-2975	name	Habenula
+TS-2975	synonym	habenula complex
+TS-2976	name	Lateral geniculate body
+TS-2976	synonym	lateral geniculate complex
+TS-2976	synonym	lateral geniculate nucleus
+TS-2977	name	Medial geniculate body
+TS-2977	synonym	medial geniculate nuclei
+TS-2977	synonym	medial geniculate nucleus
+TS-2977	synonym	medial geniculate complex
+TS-2978	name	Nucleus reuniens
+TS-2978	synonym	reuniens nucleus
+TS-2978	synonym	reuniens thalamic nucleus
+TS-2978	synonym	medioventral nucleus
+TS-2979	name	Nucleus rhomboideus
+TS-2979	synonym	rhomboidal nucleus
+TS-2979	synonym	rhomboid thalamic nucleus
+TS-2980	name	Ventral posterolateral thalamic nucleus
+TS-2980	synonym	ventral posterolateral nucleus
+TS-2980	synonym	ventral posterolateral nucleus of thalamus
+TS-2981	name	Ventral posteromedial thalamic nucleus
+TS-2981	synonym	ventral posteromedial nucleus of thalamus
+TS-2981	synonym	posteromedial ventral nucleus of thalamus
+TS-2981	synonym	posteromedial ventral nucleus
+TS-2981	synonym	ventroposteromedial nucleus of the thalamus
+TS-2981	synonym	arcuate nucleus-3
+TS-2981	synonym	ventral posterior medial nucleus of thalamus
+TS-2981	synonym	arcuate nucleus of thalamus
+TS-2981	synonym	ventral posteromedial thalamic nucleus
+TS-2981	synonym	thalamic gustatory nucleus
+TS-2982	name	Cervical spinal cord
+TS-2982	synonym	cervical segment of spinal cord
+TS-2982	synonym	cervical segments of spinal cord [1-8]
+TS-2983	name	Spinal cord grey matter
+TS-2983	synonym	Spinal cord gray matter
+TS-2983	synonym	gray matter of spinal cord
+TS-2983	synonym	gray substance of spinal cord
+TS-2983	synonym	grey matter of spinal cord
+TS-2983	synonym	grey substance of spinal cord
+TS-2983	synonym	spinal cord grey substance
+TS-2983	synonym	substantia grisea medullae spinalis
+TS-2984	name	Dorsal horn of spinal cord
+TS-2984	synonym	dorsal gray horn
+TS-2984	synonym	spinal cord posterior horn
+TS-2984	synonym	dorsal gray matter of spinal cord
+TS-2984	synonym	dorsal horn spinal cord
+TS-2984	synonym	columna grisea posterior medullae spinalis
+TS-2984	synonym	cornu posterius medullae spinalis
+TS-2984	synonym	dorsal gray column of spinal cord
+TS-2984	synonym	dorsal grey column of spinal cord
+TS-2984	synonym	posterior gray column of spinal cord
+TS-2984	synonym	posterior gray horn of spinal cord
+TS-2984	synonym	posterior grey column of spinal cord
+TS-2984	synonym	posterior horn of spinal cord
+TS-2984	synonym	spinal cord dorsal horn
+TS-2985	name	Ventral horn of spinal cord
+TS-2985	synonym	anterior gray column of spinal cord
+TS-2985	synonym	anterior gray horn of spinal cord
+TS-2985	synonym	anterior grey column of spinal cord
+TS-2985	synonym	anterior horn
+TS-2985	synonym	spinal cord anterior horn
+TS-2985	synonym	spinal cord ventral horn
+TS-2985	synonym	ventral gray column of spinal cord
+TS-2985	synonym	ventral gray matter of spinal cord
+TS-2985	synonym	ventral grey column of spinal cord
+TS-2985	synonym	ventral grey horn
+TS-2985	synonym	ventral horn spinal cord
+TS-2985	synonym	ventral region of spinal cord
+TS-2985	synonym	ventral spinal cord
+TS-2986	name	Lateral horn of spinal cord
+TS-2986	synonym	intermediate gray column of spinal cord
+TS-2986	synonym	lateral gray column of spinal cord
+TS-2986	synonym	lateral gray horn
+TS-2986	synonym	lateral gray matter of spinal cord
+TS-2986	synonym	spinal cord intermediate horn
+TS-2986	synonym	spinal cord lateral horn
+TS-2987	name	Cervical spinal cord, central gray
+TS-2988	name	Cervical spinal cord, dorsal horn
+TS-2988	synonym	cervical spinal cord dorsal horn
+TS-2989	name	Cervical spinal cord, ventral horn
+TS-2989	synonym	cervical spinal cord ventral horn
+TS-2990	name	Gray matter
+TS-2990	synonym	grey matter
+TS-2991	name	Postcentral gyrus, dorsal
+TS-2991	synonym	dorsal part of postcentral gyrus
+TS-2991	synonym	dorsal postcentral gyrus
+TS-2992	name	Olfactory tubercle
+TS-2993	name	Genu of corpus callosum
+TS-2993	synonym	corpus callosum genu
+TS-2993	synonym	genu of corpus callosum, white matter
+TS-2993	synonym	corpus callosum, genu (white matter)
+TS-2994	name	Gastric mucus-secreting cell
+TS-2994	synonym	Gastric mucus-secreting cells
+TS-2995	name	Splenium of the corpus callosum
+TS-2995	synonym	corpus callosum splenium
+TS-2995	synonym	corpus callosum, splenium
+TS-2995	synonym	Corpus callosum, splenium (white matter)
+TS-2995	synonym	corpus callosum, splenium, white matter
+TS-2995	synonym	splenium of corpus callosum, white matter
+TS-2996	name	Temporal cortex (white matter)
+TS-2996	synonym	white matter of temporal cortex
+TS-2997	name	Ventral funiculus of spinal cord
+TS-2997	synonym	anterior funiculus of spinal cord
+TS-2997	synonym	ventral funiculus
+TS-2997	synonym	anterior white column of spinal cord
+TS-2997	synonym	ventral white column of spinal cord
+TS-2997	synonym	Anterior funiculus (white matter)
+TS-2998	name	White matter of spinal cord
+TS-2998	synonym	white substance of spinal cord
+TS-2998	synonym	spinal cord white matter
+TS-2999	name	White matter
+TS-2999	synonym	white substance
+TS-2999	synonym	white matter of neuraxis
+TS-2999	synonym	neuronal white matter
+TS-2999	synonym	CNS tract/commissure
+TS-3000	name	Dorsal funiculus of spinal cord
+TS-3000	synonym	dorsal funiculus (white matter)
+TS-3000	synonym	posterior funiculus of spinal cord
+TS-3000	synonym	dorsal white column of spinal cord
+TS-3000	synonym	posterior white column of spinal cord
+TS-3001	name	Lateral funiculus of spinal cord
+TS-3001	synonym	lateral funiculus (white matter)
+TS-3001	synonym	lateral white column of spinal cord
+TS-3001	synonym	lateral funiculus
+TS-3002	name	Pulmonary ionocyte
+TS-3002	synonym	ionocytes
+TS-3002	synonym	ionocyte
+TS-3002	synonym	pulmonary ionocytes
+TS-3003	name	Occipital cortex (white matter)
+TS-3003	synonym	white matter of occipital cortex
+TS-3004	name	Temporal white matter
+TS-3004	synonym	white matter of temporal lobe
+TS-3005	name	Temporoparietal junction
+TS-3006	name	Parieto-temporal junction (white matter)
+TS-3007	name	Parahippocampal cortex (white matter)
+TS-3008	name	Plasma cells
+TS-3008	synonym	plasma B-cell
+TS-3008	synonym	plasma cell
+TS-3008	synonym	plasma B cell
+TS-3008	synonym	plasmocyte
+TS-3008	synonym	plasmacyte
+TS-3009	name	Enteroendocrine cell
+TS-3009	synonym	enteroendocrine cells
+TS-3010	name	Theca cell
+TS-3010	synonym	theca cells
+TS-3011	name	Basal respiratory cell
+TS-3011	synonym	basal respiratory cells
+TS-3011	synonym	airway basal cell
+TS-3012	name	Respiratory epithelial cell
+TS-3012	synonym	airway epithelial cell
+TS-3012	synonym	respiratory system epithelial cell
+TS-3013	name	Respiratory ciliated cell
+TS-3013	synonym	respiratory ciliated cells
+TS-3014	name	Distal enterocyte
+TS-3014	synonym	distal enterocytes
+TS-3015	name	Proximal enterocyte
+TS-3015	synonym	proximal enterocytes
+TS-3015	synonym	enterocyte of epithelium of small intestine
+TS-3015	synonym	small intestine enterocyte
+TS-3015	synonym	small intestine enterocytes
+TS-3016	name	Endometrial ciliated cell
+TS-3016	synonym	endometrial ciliated cells
+TS-3017	name	Goblet cell
+TS-3018	name	Colon fibroblast
+TS-3018	synonym	colon fibroblasts
+TS-3019	name	Glandular and luminal cells
+TS-3020	name	Excitatory neuron
+TS-3020	synonym	excitatory neurons
+TS-3021	name	Inhibitory neuron
+TS-3021	synonym	inhibitory neurons
+TS-3023	name	Small intestine goblet cell
+TS-3023	synonym	small intestine goblet cells
+TS-3023	synonym	goblet cell of epithelium of small intestine
+TS-3024	name	Duodenum goblet cell
+TS-3024	synonym	duodenum goblet cells
+TS-3024	synonym	duodenal goblet cell
+TS-3024	synonym	goblet cell of epithelium proper of duodenum
+TS-3025	name	Large intestine goblet cell
+TS-3025	synonym	large intestine goblet cells
+TS-3025	synonym	goblet cell of epithelium of large intestine
+TS-3026	name	Appendix goblet cell
+TS-3026	synonym	appendix goblet cells
+TS-3026	synonym	goblet cell of epithelium proper of appendix
+TS-3027	name	Colon goblet cell
+TS-3027	synonym	colon goblet cells
+TS-3027	synonym	goblet cell of colon
+TS-3028	name	Rectum goblet cell
+TS-3028	synonym	rectum goblet cells
+TS-3022	name	Basal squamous epithelial cell
+TS-3022	synonym	basal squamous epithelial cells
+TS-3029	name	Small intestine enteroendocrine cell
+TS-3029	synonym	small intestine endocrine cells
+TS-3029	synonym	enteroendocrine cell of small intestine
+TS-3029	synonym	small intestine endocrine cell
+TS-3030	name	Duodenum enteroendocrine cell
+TS-3030	synonym	duodenum endocrine cell
+TS-3030	synonym	duodenum endocrine cells
+TS-3031	name	Appendix enterondocrine cell
+TS-3031	synonym	appendix endocrine cells
+TS-3031	synonym	enteroendocrine cell of appendix
+TS-3032	name	Colon enteroendocrine cell
+TS-3032	synonym	colon endocrine cells
+TS-3032	synonym	enteroendocrine cell of colon
+TS-3033	name	Rectum enterondocrine cell
+TS-3033	synonym	rectum endocrine cells
+TS-3034	name	Small intestine enterocyte (microvilli)
+TS-3034	synonym	small intestine enterocytes - microvilli
+TS-3035	name	Duodenum enterocyte
+TS-3035	synonym	duodenal enterocyte
+TS-3035	synonym	enterocyte of epithelium proper of duodenum
+TS-3035	synonym	duodenum enterocytes
+TS-3036	name	Duodenum enterocyte (microvilli)
+TS-3036	synonym	duodenum enterocytes - microvilli
+TS-3037	name	Appendix enterocyte
+TS-3037	synonym	enterocyte of appendix
+TS-3037	synonym	appendix enterocytes
+TS-3038	name	Appendix enterocyte (microvilli)
+TS-3038	synonym	Appendix enterocytes - microvilli
+TS-3039	name	Colon enterocyte
+TS-3039	synonym	enterocyte of colon
+TS-3039	synonym	colon enterocytes
+TS-3040	name	Colon enterocyte (microvilli)
+TS-3040	synonym	Colon enterocytes - microvilli
+TS-3041	name	Rectum enterocyte
+TS-3041	synonym	rectum enterocytes
+TS-3041	synonym	rectal enterocyte
+TS-3042	name	Rectum enterocyte (microvilli)
+TS-3042	synonym	rectum enterocytes - microvilli
+TS-3043	name	Appendix lymphoid cell
+TS-3044	name	Appendix germinal center cell
+TS-3044	synonym	appendix germinal center cells
+TS-3044	synonym	appendix germinal center
+TS-3044	synonym	appendix reaction center
+TS-3044	synonym	appendix reaction center cells
+TS-3044	synonym	appendix reaction centre
+TS-3045	name	Appendix nongerminal center cell
+TS-3045	synonym	appendix non-germinal center cells
+TS-3045	synonym	appendix nongerminal center
+TS-3045	synonym	appendix nongerminal center cells
+TS-3046	name	Colon mucosal lymphoid cell
+TS-3046	synonym	colon mucosal lymphoid cells
+TS-3047	name	Rectum mucosal lymphoid cell
+TS-3047	synonym	rectum mucosal lymphoid cells
+TS-3047	synonym	rectal mucosal lymphoid cell
+TS-3048	name	Duodenal gland
+TS-3048	synonym	duodenum glands of Brunner
+TS-3048	synonym	Brunner's gland
+TS-3048	synonym	submucosal gland of duodenum
+TS-3048	synonym	gland of Brunner
+TS-3049	name	Rectum nerve tissue
+TS-3049	synonym	rectum nervous tissue
+TS-3049	synonym	rectum neural tissue
+TS-3049	synonym	rectum peripheral nerve/ganglion
+TS-3049	synonym	rectal nervous tissue
+TS-3049	synonym	rectal neural tissue
+TS-3049	synonym	rectal peripheral nerve/ganglion
+TS-3050	name	Stratum granulosum
+TS-3050	synonym	stratum granulosum of epidermis
+TS-3050	synonym	granular layer of epidermis
+TS-3050	synonym	stratum granulosum epidermidis
+TS-3050	synonym	epidermis stratum granulosum
+TS-3050	synonym	skin cells in granular layer
+TS-3051	name	Arrector pili muscle
+TS-3051	synonym	arrector muscle of hair
+TS-3051	synonym	skin arrector pili muscle cells
+TS-3051	synonym	arrector pilorum
+TS-3051	synonym	arrector pili smooth muscle
+TS-3051	synonym	arrector pilli muscle of hair
+TS-3052	name	Eccrine glands
+TS-3052	synonym	eccrine sweat gland
+TS-3052	synonym	skin eccrine glands
+TS-3053	name	Mural cells
+TS-3053	synonym	vascular mural cells
+TS-3054	name	Skin extracellular matrix
+TS-3055	name	Skin lymphocyte
+TS-3055	synonym	skin lymphocytes
+TS-3056	name	Skin mural cells
+TS-3056	synonym	skin mural cell
+TS-3056	synonym	skin vascular mural cells
+TS-3057	name	Locus ceruleus
+TS-3057	synonym	locus coeruleus
+TS-3057	synonym	caerulean nucleus
+TS-3057	synonym	locus caeruleus
+TS-3057	synonym	locus coeruleu
+TS-3057	synonym	locus coeruleus
+TS-3057	synonym	nucleus caeruleus
+TS-3057	synonym	nucleus of locus caeruleus
+TS-3057	synonym	nucleus pigmentosus pontis
+TS-3057	synonym	substantia ferruginea
+TS-3058	name	Pontine tegmentum
+TS-3058	synonym	pontine tegmentum (dorsal)
+TS-3058	synonym	dorsal pons
+TS-3058	synonym	tegmental portion of pons
+TS-3058	synonym	dorsal portion of pons
+TS-3058	synonym	tegmentum pontis
+TS-3058	synonym	tegmentum of pons
+TS-3059	name	Basal part of pons
+TS-3059	synonym	basilar (ventral) part of pons
+TS-3059	synonym	basal portion of pons
+TS-3059	synonym	basilar part of pons
+TS-3059	synonym	ventral portion of pons
+TS-3059	synonym	base of pons
+TS-3059	synonym	ventral pons
+TS-3060	name	Laterodorsal tegmental nucleus
+TS-3060	synonym	laterodorsal tegmental nucleus
+TS-3060	synonym	dorsolateral tegmental area
+TS-3060	synonym	dorsolateral tegmental nucleus
+TS-3060	synonym	lateroposterior tegmental nucleus
+TS-3061	name	Pontine reticular formation
+TS-3061	synonym	reticular formation of pons
+TS-3061	synonym	pons reticular formation
+TS-3061	synonym	pontine reticular nucleus
+TS-3062	name	Cerebellar nuclear complex
+TS-3062	synonym	cerebellar nuclei
+TS-3062	synonym	deep cerebellar nuclear complex
+TS-3062	synonym	deep cerebellar nuclei
+TS-3062	synonym	intracerebellar nuclei
+TS-3062	synonym	intrinsic nuclei of cerebellum
+TS-3062	synonym	nuclei cerebelli
+TS-3062	synonym	roof nuclei-2
+TS-3063	name	Gigantocellular nucleus
+TS-3063	synonym	gigantocellular reticular nuclei
+TS-3063	synonym	gigantocellular group
+TS-3063	synonym	 gigantocellular reticular nucleus
+TS-3064	name	Gigantocellular reticular nuclei, medullary
+TS-3065	name	Gigantocellular reticular nuclei, pars
+TS-3066	name	Lung endothelial cell
+TS-3066	synonym	lung endothelial cells
+TS-3066	synonym	endothelial cell of lung
+TS-3067	name	Placenta endothelial cell
+TS-3067	synonym	placenta endothelial cells
+TS-3067	synonym	endothelial cell of placenta
+TS-3068	name	Rectum endothelial cell
+TS-3068	synonym	rectum endothelial cells
+TS-3068	synonym	endothelial cell of rectum
+TS-3069	name	Skin endothelial cell
+TS-3069	synonym	skin endothelial cells
+TS-3069	synonym	endothelial cell of skin
+TS-3070	name	Duodenum paneth cell
+TS-3070	synonym	duodenum paneth cells
+TS-3071	name	Small intestine paneth cell
+TS-3071	synonym	small intestine paneth cells
+TS-3072	name	Skin fibrohistiocytic cell
+TS-3072	synonym	skin fibrohistiocytic cells
+TS-3073	name	Nucleus cuneatus
+TS-3074	name	Olfactory area
+TS-3075	name	Salivary gland mucus glandular cell
+TS-3075	synonym	mucus glandular cells
+TS-3076	name	Salivary gland serous glandular cell
+TS-3076	synonym	serous glandular cells
+TS-3077	name	Salivary gland duct cell
+TS-3077	synonym	salivary duct cells
+TS-3078	name	Mesothelial cell 
+TS-3078	synonym	mesotheliocyte
+TS-3078	synonym	mesothelial cells
+TS-3079	name	Lymphatic endothelial cell
+TS-3079	synonym	endothelial cell of lymphatic vessel
+TS-3079	synonym	lymphatic vessel vascular endothelial cell
+TS-3079	synonym	lymphatic endothelial cells
+develops_from	name	develops_from
+part_of	name	part of
