@@ -1,4 +1,4 @@
-### awk -f this.awk -v col=COL hpa_[tissue,cell]_[uberon,caloha].tsv proteinatlas.tsv
+### usage: gawk -f rdfize_hpa_tisspec.awk -v col=COL hpa_[tissue,cell]_[uberon,caloha].tsv proteinatlas.tsv
 
 BEGIN {
     FS = "\t"
@@ -24,6 +24,10 @@ FNR>=2 {
     print "ensembl:" $3 " a refexo:HPA_ts_evaluated_gene ."
     for(t in tissues) {
         split(tissues[t], tissue, ":")
+        if(!(tissue[1] in tis2caloha)) {
+            print "ERROR: No CALOHA mapping found for \"" tissue[1] "\" (line " FNR ")" > "/dev/stderr"
+            exit 1
+        }
         # print "ensembl:" $3 " refexo:isPositivelySpecificTo obo:" tis2uberon[tissue[1]] " ."
         print "ensembl:" $3 " refexo:isPositivelySpecificTo caloha:" tis2caloha[tissue[1]] " ."
     }
