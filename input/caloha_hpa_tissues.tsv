@@ -1,0 +1,37 @@
+http://purl.obolibrary.org/obo/caloha.obo#TS-0013	http://www.w3.org/2000/01/rdf-schema#label	Adipose tissue	Adipose tissue	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0016	http://www.w3.org/2000/01/rdf-schema#label	Adrenal gland	Adrenal gland	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0079	http://www.w3.org/2000/01/rdf-schema#label	Blood	Blood	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0087	http://www.w3.org/2000/01/rdf-schema#label	Bone marrow	Bone marrow	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0095	http://www.w3.org/2000/01/rdf-schema#label	Brain	Brain	
+http://purl.obolibrary.org/obo/caloha.obo#TS-2083	http://www.w3.org/2000/01/rdf-schema#label	Breast	Breast	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0134	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Cervix, uterine	Uterine cervix	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1105	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Ductus deferens	Vas deferens	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0276	http://www.w3.org/2000/01/rdf-schema#label	Endometrium	Endometrium	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0285	http://www.w3.org/2000/01/rdf-schema#label	Epididymis	Epididymis	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0700	http://www.w3.org/2000/01/rdf-schema#label	Esophagus	Esophagus	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0732	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Fallopian tube	Oviduct	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0394	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Gallbladder	Gall bladder	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0490	http://www.w3.org/2000/01/rdf-schema#label	Intestine	Intestine	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0510	http://www.w3.org/2000/01/rdf-schema#label	Kidney	Kidney	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0564	http://www.w3.org/2000/01/rdf-schema#label	Liver	Liver	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0568	http://www.w3.org/2000/01/rdf-schema#label	Lung	Lung	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0584	http://www.w3.org/2000/01/rdf-schema#label	Lymphoid tissue	Lymphoid tissue	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0730	http://www.w3.org/2000/01/rdf-schema#label	Ovary	Ovary	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0736	http://www.w3.org/2000/01/rdf-schema#label	Pancreas	Pancreas	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0745	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Parathyroid gland	Parathyroid	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0798	http://www.w3.org/2000/01/rdf-schema#label	Pituitary gland	Pituitary gland	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0799	http://www.w3.org/2000/01/rdf-schema#label	Placenta	Placenta	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0828	http://www.w3.org/2000/01/rdf-schema#label	Prostate	Prostate	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0865	http://www.w3.org/2000/01/rdf-schema#label	Retina	Retina	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0892	http://www.w3.org/2000/01/rdf-schema#label	Salivary gland	Salivary gland	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0919	http://www.w3.org/2000/01/rdf-schema#label	Seminal vesicle	Seminal vesicle	
+http://purl.obolibrary.org/obo/caloha.obo#TS-2615	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Skeletal muscle	Skeletal muscle organ	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0934	http://www.w3.org/2000/01/rdf-schema#label	Skin	Skin	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0980	http://www.w3.org/2000/01/rdf-schema#label	Stomach	Stomach	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1030	http://www.w3.org/2000/01/rdf-schema#label	Testis	Testis	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1047	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	Thyroid gland	Thyroid	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1050	http://www.w3.org/2000/01/rdf-schema#label	Tongue	Tongue	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1090	http://www.w3.org/2000/01/rdf-schema#label	Urinary bladder	Urinary bladder	
+http://purl.obolibrary.org/obo/caloha.obo#TS-1103	http://www.w3.org/2000/01/rdf-schema#label	Vagina	Vagina	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0440	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	heart muscle	Heart muscle tissue	
+http://purl.obolibrary.org/obo/caloha.obo#TS-0943	http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym	smooth muscle	Smooth muscle tissue	
