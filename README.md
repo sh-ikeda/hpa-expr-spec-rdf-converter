@@ -13,7 +13,7 @@ Human Protein Atlas (HPA) が公開している `proteinatlas.tsv` をもとに�
 .
 ├── input/    入力データ（HPA の組織・細胞名と CALOHA/Uberon の ID とのマッピングなど）
 ├── scripts/  変換用 awk スクリプト
-├── output/   生成した RDF の出力先（このリポジトリには成果物は含まれていません）
+├── output/   生成した RDF の出力先
 └── old/      過去に生成した RDF ファイル等（git 管理外）
 ```
 
@@ -33,9 +33,13 @@ head -1 proteinatlas.tsv | tr '\t' '\n' | cat -n
 
 ### input/ 以下のマッピングファイル
 
-- `hpa_tissue_caloha.tsv`, `hpa_cell_caloha.tsv`
-  - `proteinatlas.tsv` 中の組織名・細胞種名と、CALOHA (Characteristics of Anatomical concepts in HumAn) オントロジーの ID (`TS-XXXX`) との対応表。変換スクリプトが実際に参照するファイルです。
-  - 列構成: `[HPAでの表記] [CALOHAでのラベル] [CALOHA ID]`
+- `hpa_tissue_caloha.tsv`
+  - `proteinatlas.tsv` 中の組織名と、CALOHA オントロジーの ID (`TS-XXXX`) との対応表。変換スクリプトが実際に参照するファイル。
+  - 列構成: `[HPAでの表記に対するID] [HPAでの表記] [CALOHA ID] [CALOHAでのラベル]`
+- `hpa_cell_cl.tsv`
+  - `proteinatlas.tsv` 中の細胞種名と、Cell Ontology の ID との対応表。変換スクリプトが実際に参照するファイル。
+  - HPA で独自の分類をしており、Cell Ontology に対応づかないものも多い。
+  - 列構成: `[HPAでの表記に対するID] [HPAでの表記] [Cell Ontology ID] [Cell Ontologyでのラベル]`
 - `hpa_tissue_uberon.tsv`
   - 組織名と Uberon ID (`UBERON_XXXXXXX`) との対応表。現在のスクリプトでは未使用（Uberon 版を出力したい場合の参考データ）。
 - `hpa_tissue.tsv`, `hpa_cell.tsv`
@@ -54,7 +58,7 @@ gawk -f scripts/rdfize_hpa_tisspec.awk -v col=19 \
 
 # 細胞特異的発現（cell specificity）
 gawk -f scripts/rdfize_hpa_tisspec.awk -v col=23 \
-    input/hpa_cell_caloha.tsv proteinatlas.tsv > output/hpa_cell_specificity.ttl
+    input/hpa_cell_cl.tsv proteinatlas.tsv > output/hpa_cell_specificity.ttl
 ```
 
 - `col=19`: 組織特異的発現を変換する場合
@@ -68,14 +72,13 @@ gawk -f scripts/rdfize_hpa_tisspec.awk -v col=23 \
 
 ```turtle
 @prefix ensembl: <http://identifiers.org/ensembl/> .
-@prefix refexo: <http://purl.jp/bio/01/refexo#> .
-@prefix caloha: <http://purl.obolibrary.org/obo/caloha.obo#> .
+@prefix hpao: <http://med2rdf.org/hpa/ontology#> .
 
-ensembl:ENSG00000000003 a refexo:HPA_ts_evaluated_gene .
-ensembl:ENSG00000000003 refexo:isPositivelySpecificTo caloha:TS-0892 .
+ensembl:ENSG00000000005 a hpao:HPA_target_gene .
+ensembl:ENSG00000000005 hpao:isPositivelySpecificTo hpao:HPAT_000001 .
 ```
 
-- `refexo:HPA_ts_evaluated_gene`: HPA によって特異性が評価された遺伝子であることを示すクラス。`proteinatlas.tsv` に含まれるすべての遺伝子に付与されます。
-- `refexo:isPositivelySpecificTo`: その遺伝子が特異的に発現している組織／細胞種（CALOHA ID）を示すプロパティ。該当する組織・細胞がない遺伝子には出力されません。
+- `hpao:HPA_target_gene`: HPA によって発現量が測定された遺伝子であることを示すクラス。`proteinatlas.tsv` に含まれるすべての遺伝子に付与されます。
+- `hpao:isPositivelySpecificTo`: その遺伝子が特異的に発現している組織／細胞種を示すプロパティ。該当する組織・細胞がない遺伝子には出力されません。
 
 出力は主語ごとにまとめられていない素朴な Turtle（トリプルの羅列）です。整形したい場合は `riot`（Apache Jena）や `rapper`（Raptor RDF Syntax Library）などのツールで整形してください。
