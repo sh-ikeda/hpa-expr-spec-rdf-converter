@@ -1,39 +1,39 @@
-adipose tissue	Adipose tissue	TS-0013
-adrenal gland	Adrenal gland	TS-0016
-blood	Blood	TS-0079
-blood vessel	Blood vessel	TS-0080
-bone marrow	Bone marrow	TS-0087
-brain	Brain	TS-0095
-breast	Breast	TS-2083
-cervix	Uterine cervix	TS-0134
-choroid plexus	Choroid plexus	TS-0145
-ductus deferens	Vas deferens	TS-1105
-endometrium 1	Endometrium	TS-0276
-epididymis	Epididymis	TS-0285
-esophagus	Esophagus	TS-0700
-fallopian tube	Oviduct	TS-0732
-gallbladder	Gall bladder	TS-0394
-intestine	Intestine	TS-0490
-kidney	Kidney	TS-0510
-liver	Liver	TS-0564
-lung	Lung	TS-0568
-lymphoid tissue	Lymphoid tissue	TS-0584
-ovary	Ovary	TS-0730
-pancreas	Pancreas	TS-0736
-parathyroid gland	Parathyroid	TS-0745
-pituitary gland	Pituitary gland	TS-0798
-placenta	Placenta	TS-0799
-prostate	Prostate	TS-0828
-retina	Retina	TS-0865
-salivary gland	Salivary gland	TS-0892
-seminal vesicle	Seminal vesicle	TS-0919
-skeletal muscle	Skeletal muscle organ	TS-2615
-skin 1	Skin	TS-0934
-stomach 1	Stomach	TS-0980
-testis	Testis	TS-1030
-thyroid gland	Thyroid	TS-1047
-tongue	Tongue	TS-1050
-urinary bladder	Urinary bladder	TS-1090
-vagina	Vagina	TS-1103
-heart muscle	Heart muscle tissue	TS-0440
-smooth muscle	Smooth muscle tissue	TS-0943
+HPAT_000001	adipose tissue	TS-0013	Adipose tissue
+HPAT_000002	adrenal gland	TS-0016	Adrenal gland
+HPAT_000003	blood	TS-0079	Blood
+HPAT_000004	blood vessel	TS-0080	Blood vessel
+HPAT_000005	bone marrow	TS-0087	Bone marrow
+HPAT_000006	brain	TS-0095	Brain
+HPAT_000007	breast	TS-2083	Breast
+HPAT_000008	cervix	TS-0134	Uterine cervix
+HPAT_000009	choroid plexus	TS-0145	Choroid plexus
+HPAT_000010	ductus deferens	TS-1105	Vas deferens
+HPAT_000011	endometrium 1	TS-0276	Endometrium
+HPAT_000012	epididymis	TS-0285	Epididymis
+HPAT_000013	esophagus	TS-0700	Esophagus
+HPAT_000014	fallopian tube	TS-0732	Oviduct
+HPAT_000015	gallbladder	TS-0394	Gall bladder
+HPAT_000016	intestine	TS-0490	Intestine
+HPAT_000017	kidney	TS-0510	Kidney
+HPAT_000018	liver	TS-0564	Liver
+HPAT_000019	lung	TS-0568	Lung
+HPAT_000020	lymphoid tissue	TS-0584	Lymphoid tissue
+HPAT_000021	ovary	TS-0730	Ovary
+HPAT_000022	pancreas	TS-0736	Pancreas
+HPAT_000023	parathyroid gland	TS-0745	Parathyroid
+HPAT_000024	pituitary gland	TS-0798	Pituitary gland
+HPAT_000025	placenta	TS-0799	Placenta
+HPAT_000026	prostate	TS-0828	Prostate
+HPAT_000027	retina	TS-0865	Retina
+HPAT_000028	salivary gland	TS-0892	Salivary gland
+HPAT_000029	seminal vesicle	TS-0919	Seminal vesicle
+HPAT_000030	skeletal muscle	TS-2615	Skeletal muscle organ
+HPAT_000031	skin 1	TS-0934	Skin
+HPAT_000032	stomach 1	TS-0980	Stomach
+HPAT_000033	testis	TS-1030	Testis
+HPAT_000034	thyroid gland	TS-1047	Thyroid
+HPAT_000035	tongue	TS-1050	Tongue
+HPAT_000036	urinary bladder	TS-1090	Urinary bladder
+HPAT_000037	vagina	TS-1103	Vagina
+HPAT_000038	heart muscle	TS-0440	Heart muscle tissue
+HPAT_000039	smooth muscle	TS-0943	Smooth muscle tissue
