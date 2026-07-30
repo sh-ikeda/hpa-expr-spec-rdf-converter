@@ -1,0 +1,164 @@
+@prefix hpao: <http://med2rdf.org/hpa/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix caloha: <http://purl.obolibrary.org/obo/caloha.obo#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+hpao:HPAT_000001 a owl:Class ;
+    dcterms:identifier "HPAT_000001" ;
+    rdfs:label "adipose tissue" .
+
+hpao:HPAT_000002 a owl:Class ;
+    dcterms:identifier "HPAT_000002" ;
+    rdfs:label "adrenal gland" .
+
+hpao:HPAT_000003 a owl:Class ;
+    dcterms:identifier "HPAT_000003" ;
+    rdfs:label "blood" .
+
+hpao:HPAT_000004 a owl:Class ;
+    dcterms:identifier "HPAT_000004" ;
+    rdfs:label "blood vessel" .
+
+hpao:HPAT_000005 a owl:Class ;
+    dcterms:identifier "HPAT_000005" ;
+    rdfs:label "bone marrow" .
+
+hpao:HPAT_000006 a owl:Class ;
+    dcterms:identifier "HPAT_000006" ;
+    rdfs:label "brain" .
+
+hpao:HPAT_000007 a owl:Class ;
+    dcterms:identifier "HPAT_000007" ;
+    rdfs:label "breast" .
+
+hpao:HPAT_000008 a owl:Class ;
+    dcterms:identifier "HPAT_000008" ;
+    rdfs:label "cervix" .
+
+hpao:HPAT_000009 a owl:Class ;
+    dcterms:identifier "HPAT_000009" ;
+    rdfs:label "choroid plexus" .
+
+hpao:HPAT_000010 a owl:Class ;
+    dcterms:identifier "HPAT_000010" ;
+    rdfs:label "ductus deferens" .
+
+hpao:HPAT_000011 a owl:Class ;
+    dcterms:identifier "HPAT_000011" ;
+    rdfs:label "endometrium 1" .
+
+hpao:HPAT_000012 a owl:Class ;
+    dcterms:identifier "HPAT_000012" ;
+    rdfs:label "epididymis" .
+
+hpao:HPAT_000013 a owl:Class ;
+    dcterms:identifier "HPAT_000013" ;
+    rdfs:label "esophagus" .
+
+hpao:HPAT_000014 a owl:Class ;
+    dcterms:identifier "HPAT_000014" ;
+    rdfs:label "fallopian tube" .
+
+hpao:HPAT_000015 a owl:Class ;
+    dcterms:identifier "HPAT_000015" ;
+    rdfs:label "gallbladder" .
+
+hpao:HPAT_000016 a owl:Class ;
+    dcterms:identifier "HPAT_000016" ;
+    rdfs:label "intestine" .
+
+hpao:HPAT_000017 a owl:Class ;
+    dcterms:identifier "HPAT_000017" ;
+    rdfs:label "kidney" .
+
+hpao:HPAT_000018 a owl:Class ;
+    dcterms:identifier "HPAT_000018" ;
+    rdfs:label "liver" .
+
+hpao:HPAT_000019 a owl:Class ;
+    dcterms:identifier "HPAT_000019" ;
+    rdfs:label "lung" .
+
+hpao:HPAT_000020 a owl:Class ;
+    dcterms:identifier "HPAT_000020" ;
+    rdfs:label "lymphoid tissue" .
+
+hpao:HPAT_000021 a owl:Class ;
+    dcterms:identifier "HPAT_000021" ;
+    rdfs:label "ovary" .
+
+hpao:HPAT_000022 a owl:Class ;
+    dcterms:identifier "HPAT_000022" ;
+    rdfs:label "pancreas" .
+
+hpao:HPAT_000023 a owl:Class ;
+    dcterms:identifier "HPAT_000023" ;
+    rdfs:label "parathyroid gland" .
+
+hpao:HPAT_000024 a owl:Class ;
+    dcterms:identifier "HPAT_000024" ;
+    rdfs:label "pituitary gland" .
+
+hpao:HPAT_000025 a owl:Class ;
+    dcterms:identifier "HPAT_000025" ;
+    rdfs:label "placenta" .
+
+hpao:HPAT_000026 a owl:Class ;
+    dcterms:identifier "HPAT_000026" ;
+    rdfs:label "prostate" .
+
+hpao:HPAT_000027 a owl:Class ;
+    dcterms:identifier "HPAT_000027" ;
+    rdfs:label "retina" .
+
+hpao:HPAT_000028 a owl:Class ;
+    dcterms:identifier "HPAT_000028" ;
+    rdfs:label "salivary gland" .
+
+hpao:HPAT_000029 a owl:Class ;
+    dcterms:identifier "HPAT_000029" ;
+    rdfs:label "seminal vesicle" .
+
+hpao:HPAT_000030 a owl:Class ;
+    dcterms:identifier "HPAT_000030" ;
+    rdfs:label "skeletal muscle" .
+
+hpao:HPAT_000031 a owl:Class ;
+    dcterms:identifier "HPAT_000031" ;
+    rdfs:label "skin 1" .
+
+hpao:HPAT_000032 a owl:Class ;
+    dcterms:identifier "HPAT_000032" ;
+    rdfs:label "stomach 1" .
+
+hpao:HPAT_000033 a owl:Class ;
+    dcterms:identifier "HPAT_000033" ;
+    rdfs:label "testis" .
+
+hpao:HPAT_000034 a owl:Class ;
+    dcterms:identifier "HPAT_000034" ;
+    rdfs:label "thyroid gland" .
+
+hpao:HPAT_000035 a owl:Class ;
+    dcterms:identifier "HPAT_000035" ;
+    rdfs:label "tongue" .
+
+hpao:HPAT_000036 a owl:Class ;
+    dcterms:identifier "HPAT_000036" ;
+    rdfs:label "urinary bladder" .
+
+hpao:HPAT_000037 a owl:Class ;
+    dcterms:identifier "HPAT_000037" ;
+    rdfs:label "vagina" .
+
+hpao:HPAT_000038 a owl:Class ;
+    dcterms:identifier "HPAT_000038" ;
+    rdfs:label "heart muscle" .
+
+hpao:HPAT_000039 a owl:Class ;
+    dcterms:identifier "HPAT_000039" ;
+    rdfs:label "smooth muscle" .
+

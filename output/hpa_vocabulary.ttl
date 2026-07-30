@@ -1,0 +1,24 @@
+@prefix hpao: <http://med2rdf.org/hpa/ontology#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+
+<http://med2rdf.org/hpa/ontology#>
+    a owl:Ontology ;
+    rdfs:label "HPA Vocabulary" .
+
+## Classes ##
+
+hpao:HPA_target_gene
+    a owl:Class ;
+    rdfs:label "HPA target gene" ;
+    dcterms:description "A gene whose exprerssion level has been quantified by HPA." .
+
+## Object Properties ##
+
+hpao:isPositivelySpecificTo
+    a owl:ObjectProperty ;
+    rdfs:label "is positively specific to" ;
+    dcterms:description "Indicates that the expression of a gene or protein is specifically enriched in the given tissue." .
