@@ -113,43 +113,42 @@ HPAO_000112	Prostatic club cells
 HPAO_000113	Prostatic glandular cells		
 HPAO_000114	Prostatic hillock cells		
 HPAO_000115	Proximal tubule cells		
-HPAO_000116	RNA single cell type specific nCPM		
-HPAO_000117	Renal collecting duct intercalated cells		
-HPAO_000118	Renal collecting duct principal cells		
-HPAO_000119	Renal connecting tubule cells		
-HPAO_000120	Respiratory basal cells	CL_0002633	respiratory basal cell
-HPAO_000121	Respiratory ciliated cells	CL_4030034	respiratory tract multiciliated cell
-HPAO_000122	Respiratory deuterosomal cells	CL_4033044	deuterosomal cell
-HPAO_000123	Respiratory ionocytes	CL_0017000	pulmonary ionocyte
-HPAO_000124	Respiratory secretory cells	CL_0008055	respiratory tract secretory epithelial cell
-HPAO_000125	Retinal amacrine cells	CL_0000561	amacrine cell
-HPAO_000126	Retinal bipolar cells	CL_0000748	retinal bipolar neuron
-HPAO_000127	Retinal ganglion cells	CL_0000740	retinal ganglion cell
-HPAO_000128	Retinal horizontal cells	CL_0000745	retina horizontal cell
-HPAO_000129	Retinal pigment epithelial cells	CL_0002586	retinal pigment epithelial cell
-HPAO_000130	Rod photoreceptor cells	CL_0000604	retinal rod cell
-HPAO_000131	Salivary acinar cells	CL_0002623	acinar cell of salivary gland
-HPAO_000132	Salivary basal cells		
-HPAO_000133	Salivary duct cells		
-HPAO_000134	Salivary ionocytes	CL_0020065	Salivary ionocytes
-HPAO_000135	Salivary myoepithelial cells	CL_0020066	myoepithelial cell of salivary gland
-HPAO_000136	Schwann cells	CL_0002573	Schwann cell
-HPAO_000137	Sertoli cells	CL_0000216	Sertoli cell
-HPAO_000138	Smooth muscle cells	CL_0000192	smooth muscle cell
-HPAO_000139	Somatotrophs	CL_0002312	somatotroph
-HPAO_000140	Submucosal glandular cells		
-HPAO_000141	Suprabasal keratinocytes	CL_4033013	suprabasal keratinocyte
-HPAO_000142	Syncytiotrophoblasts	UBERON_0000371	syncytiotrophoblast
-HPAO_000143	T-cells	CL_0000084	T cell
-HPAO_000144	Thymic myoid cells		
-HPAO_000145	Thymocytes	CL_0000893	thymocyte
-HPAO_000146	Thyrotrophs	CL_0000476	thyrotroph
-HPAO_000147	Transitional alveolar cells		
-HPAO_000148	Tuft cells	CL_0002204	tuft cell
-HPAO_000149	Undifferentiated spermatogonia		
-HPAO_000150	Urothelial cells	CL_0000731	urothelial cell
-HPAO_000151	Vascular endothelial cells	CL_0002139	endothelial cell of vascular tree
-HPAO_000152	Vascular smooth muscle cells	CL_0000359	vascular associated smooth muscle cell
-HPAO_000153	cDC	CL_0000990	conventional dendritic cell
-HPAO_000154	monocytes	CL_0000576	monocyte
-HPAO_000155	pDCs	CL_0000784	plasmacytoid dendritic cell
+HPAO_000116	Renal collecting duct intercalated cells		
+HPAO_000117	Renal collecting duct principal cells		
+HPAO_000118	Renal connecting tubule cells		
+HPAO_000119	Respiratory basal cells	CL_0002633	respiratory basal cell
+HPAO_000120	Respiratory ciliated cells	CL_4030034	respiratory tract multiciliated cell
+HPAO_000121	Respiratory deuterosomal cells	CL_4033044	deuterosomal cell
+HPAO_000122	Respiratory ionocytes	CL_0017000	pulmonary ionocyte
+HPAO_000123	Respiratory secretory cells	CL_0008055	respiratory tract secretory epithelial cell
+HPAO_000124	Retinal amacrine cells	CL_0000561	amacrine cell
+HPAO_000125	Retinal bipolar cells	CL_0000748	retinal bipolar neuron
+HPAO_000126	Retinal ganglion cells	CL_0000740	retinal ganglion cell
+HPAO_000127	Retinal horizontal cells	CL_0000745	retina horizontal cell
+HPAO_000128	Retinal pigment epithelial cells	CL_0002586	retinal pigment epithelial cell
+HPAO_000129	Rod photoreceptor cells	CL_0000604	retinal rod cell
+HPAO_000130	Salivary acinar cells	CL_0002623	acinar cell of salivary gland
+HPAO_000131	Salivary basal cells		
+HPAO_000132	Salivary duct cells		
+HPAO_000133	Salivary ionocytes	CL_0020065	Salivary ionocytes
+HPAO_000134	Salivary myoepithelial cells	CL_0020066	myoepithelial cell of salivary gland
+HPAO_000135	Schwann cells	CL_0002573	Schwann cell
+HPAO_000136	Sertoli cells	CL_0000216	Sertoli cell
+HPAO_000137	Smooth muscle cells	CL_0000192	smooth muscle cell
+HPAO_000138	Somatotrophs	CL_0002312	somatotroph
+HPAO_000139	Submucosal glandular cells		
+HPAO_000140	Suprabasal keratinocytes	CL_4033013	suprabasal keratinocyte
+HPAO_000141	Syncytiotrophoblasts	UBERON_0000371	syncytiotrophoblast
+HPAO_000142	T-cells	CL_0000084	T cell
+HPAO_000143	Thymic myoid cells		
+HPAO_000144	Thymocytes	CL_0000893	thymocyte
+HPAO_000145	Thyrotrophs	CL_0000476	thyrotroph
+HPAO_000146	Transitional alveolar cells		
+HPAO_000147	Tuft cells	CL_0002204	tuft cell
+HPAO_000148	Undifferentiated spermatogonia		
+HPAO_000149	Urothelial cells	CL_0000731	urothelial cell
+HPAO_000150	Vascular endothelial cells	CL_0002139	endothelial cell of vascular tree
+HPAO_000151	Vascular smooth muscle cells	CL_0000359	vascular associated smooth muscle cell
+HPAO_000152	cDC	CL_0000990	conventional dendritic cell
+HPAO_000153	monocytes	CL_0000576	monocyte
+HPAO_000154	pDCs	CL_0000784	plasmacytoid dendritic cell
