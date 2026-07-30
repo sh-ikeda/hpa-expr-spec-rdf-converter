@@ -1,154 +1,154 @@
-HPAO_000001	Adipocytes	CL_0000136	adipocyte
-HPAO_000002	Adrenal cortex cells	CL_0002097	cortical cell of adrenal gland
-HPAO_000003	Adrenal medulla cells		
-HPAO_000004	Alveolar cells type 1	CL_0002062	pulmonary alveolar type 1 cell
-HPAO_000005	Alveolar cells type 2	CL_0002063	pulmonary alveolar type 2 cell
-HPAO_000006	Astrocytes	CL_0000127	astrocyte
-HPAO_000007	B-cells	CL_0000236	B cell
-HPAO_000008	Basal keratinocytes	CL_0002187	basal cell of epidermis
-HPAO_000009	Basal prostatic cells		
-HPAO_000010	Bergmann glia	CL_0000644	Bergmann glial cell
-HPAO_000011	Brain excitatory neurons		
-HPAO_000012	Brain inhibitory neurons		
-HPAO_000013	Breast hormone-responsive cells		
-HPAO_000014	Breast lactating cells		
-HPAO_000015	Breast myoepithelial cells		
-HPAO_000016	Breast secretory cells		
-HPAO_000017	Cardiomyocytes	CL_0000746	cardiac muscle cell
-HPAO_000018	Cholangiocytes	CL_1000488	cholangiocyte
-HPAO_000019	Choroid plexus epithelial cells	CL_0000706	choroid plexus epithelial cell
-HPAO_000020	Colonocytes	CL_1000347	colonocyte
-HPAO_000021	Cone photoreceptor cells	CL_0000573	retinal cone cell
-HPAO_000022	Conjunctival goblet cells	CL_2000084	conjunctiva goblet cell
-HPAO_000023	Corticotrophs	CL_0002309	corticotroph
-HPAO_000024	Cytotrophoblasts		
-HPAO_000025	Decidual stromal cells	CL_2000002	decidual cell
-HPAO_000026	Differentiating spermatogonia		
-HPAO_000027	Distal convoluted tubule cells	CL_1000849	kidney distal convoluted tubule epithelial cell
-HPAO_000028	Early primary spermatocytes		
-HPAO_000029	Early spermatids	CL_4030036	early spermatid
-HPAO_000030	Endometrial ciliated cells	CL_4030040	endometrial multiciliated epithelial cell
-HPAO_000031	Endometrial glandular cells	CL_0009084	glandular epithelial cell of endometrium
-HPAO_000032	Endometrial luminal cells	CL_4052050	luminal epithelial cell of endometrium
-HPAO_000033	Endometrial secretory cells		
-HPAO_000034	Endometrial stromal cells	CL_0002255	stromal cell of endometrium
-HPAO_000035	Enteric stem cells		
-HPAO_000036	Enteric transient amplifying cells		
-HPAO_000037	Enterocytes	CL_0000584	enterocyte
-HPAO_000038	Ependymal cells	CL_0000065	ependymal cell
-HPAO_000039	Epicardial cells		
-HPAO_000040	Epididymal basal cells		
-HPAO_000041	Epididymal clear cells		
-HPAO_000042	Epididymal efferent duct absorptive cells		
-HPAO_000043	Epididymal efferent duct ciliated cells		
-HPAO_000044	Epididymal principal cells		
-HPAO_000045	Erythrocyte progenitors		
-HPAO_000046	Erythrocytes	CL_0000232	erythrocyte
-HPAO_000047	Esophageal apical cells		
-HPAO_000048	Esophageal basal cells		
-HPAO_000049	Esophageal suprabasal cells		
-HPAO_000050	Extravillous trophoblasts	CL_0008036	extravillous trophoblast
-HPAO_000051	Fallopian secretory cells	CL_4030006	fallopian tube secretory epithelial cell
-HPAO_000052	Fallopian tube ciliated cells	CL_4030007	fallopian tube multiciliated epithelial cell
-HPAO_000053	Fibro-adipogenic progenitors		
-HPAO_000054	Fibroblasts	CL_0000057	fibroblast
-HPAO_000055	Foveolar cells	CL_0002179	foveolar cell of stomach
-HPAO_000056	Gastric chief cells	CL_0000155	peptic cell
-HPAO_000057	Gastric progenitor cells		
-HPAO_000058	Goblet cells	CL_0000160	goblet cell
-HPAO_000059	Gonadotrophs	CL_0000437	gonadtroph
-HPAO_000060	Granulosa cells	CL_0000501	granulosa cell
-HPAO_000061	Hematopoietic stem cells	CL_0000037	hematopoietic stem cell
-HPAO_000062	Hepatic stellate cells	CL_0000632	hepatic stellate cell
-HPAO_000063	Hepatocytes	CL_0000182	hepatocyte
-HPAO_000064	Hofbauer cells	CL_3000001	Hofbauer cell
-HPAO_000065	Innate lymphoid cells	CL_0001065	innate lymphoid cell
-HPAO_000066	Kupffer cells	CL_0000091	Kupffer cell
-HPAO_000067	Lacrimal acinar cells		
-HPAO_000068	Lactotrophs	CL_0002311	mammotroph
-HPAO_000069	Late primary spermatocytes		
-HPAO_000070	Late spermatids	CL_4030037	late spermatid
-HPAO_000071	Leydig cells	CL_0000178	Leydig cell
-HPAO_000072	Loop of henle epithelial cells	CL_1000909	kidney loop of Henle epithelial cell
-HPAO_000073	Lymphatic endothelial cells	CL_0002138	endothelial cell of lymphatic vessel
-HPAO_000074	Macrophages	CL_0000394	plasmatocyte
-HPAO_000075	Mast cells	CL_0000097	mast cell
-HPAO_000076	Medullary thymic epithelial cells	CL_0002365	medullary thymic epithelial cell
-HPAO_000077	Megakaryocyte progenitors		
-HPAO_000078	Megakaryocyte-Erythroid progenitors	CL_0000050	megakaryocyte-erythroid progenitor cell
-HPAO_000079	Megakaryocytes	CL_0000556	megakaryocyte
-HPAO_000080	Melanocytes	CL_0000148	melanocyte
-HPAO_000081	Mesothelial cells	CL_0000077	mesothelial cell
-HPAO_000082	Microglia	CL_0000129	microglial cell
-HPAO_000083	Migrating cytotrophoblasts		
-HPAO_000084	Monocyte progenitors		
-HPAO_000085	Mucous neck cells	CL_0002181	mucous neck cell of gastric gland
-HPAO_000086	Myonuclei		
-HPAO_000087	Myosatellite cells		
-HPAO_000088	Müller glia	CL_0000636	Mueller cell
-HPAO_000089	NK-cells	CL_0000623	natural killer cell
-HPAO_000090	Neuroendocrine cells	CL_0000165	neuroendocrine cell
-HPAO_000091	Neutrophil progenitors	CL_0000834	neutrophil progenitor cell
-HPAO_000092	Neutrophils	CL_0000775	neutrophil
-HPAO_000093	Ocular epithelial cells		
-HPAO_000094	Oligodendrocyte progenitor cells		
-HPAO_000095	Oligodendrocytes	CL_0000128	oligodendrocyte
-HPAO_000096	Oocytes	CL_0000023	oocyte
-HPAO_000097	Other brain neurons		
-HPAO_000098	Ovarian stromal cells	CL_0002132	stromal cell of ovary
-HPAO_000099	Pancreatic acinar cells	CL_0002064	pancreatic acinar cell
-HPAO_000100	Pancreatic duct cells	CL_0002079	pancreatic ductal cell
-HPAO_000101	Pancreatic islet cells		
-HPAO_000102	Paneth cells	CL_0000510	paneth cell
-HPAO_000103	Papillary tip epithelial cells		
-HPAO_000104	Parietal cells	CL_0000162	parietal cell
-HPAO_000105	Pericytes	CL_0000669	pericyte
-HPAO_000106	Peritubular myoid cells	CL_0002481	peritubular myoid cell
-HPAO_000107	Pituicytes/FSCs		
-HPAO_000108	Pituitary stem cells		
-HPAO_000109	Plasma cells	CL_0000786	plasma cell
-HPAO_000110	Platelets	CL_0000233	platelet
-HPAO_000111	Podocytes	CL_0000653	podocyte
-HPAO_000112	Prostatic club cells		
-HPAO_000113	Prostatic glandular cells		
-HPAO_000114	Prostatic hillock cells		
-HPAO_000115	Proximal tubule cells		
-HPAO_000116	Renal collecting duct intercalated cells		
-HPAO_000117	Renal collecting duct principal cells		
-HPAO_000118	Renal connecting tubule cells		
-HPAO_000119	Respiratory basal cells	CL_0002633	respiratory basal cell
-HPAO_000120	Respiratory ciliated cells	CL_4030034	respiratory tract multiciliated cell
-HPAO_000121	Respiratory deuterosomal cells	CL_4033044	deuterosomal cell
-HPAO_000122	Respiratory ionocytes	CL_0017000	pulmonary ionocyte
-HPAO_000123	Respiratory secretory cells	CL_0008055	respiratory tract secretory epithelial cell
-HPAO_000124	Retinal amacrine cells	CL_0000561	amacrine cell
-HPAO_000125	Retinal bipolar cells	CL_0000748	retinal bipolar neuron
-HPAO_000126	Retinal ganglion cells	CL_0000740	retinal ganglion cell
-HPAO_000127	Retinal horizontal cells	CL_0000745	retina horizontal cell
-HPAO_000128	Retinal pigment epithelial cells	CL_0002586	retinal pigment epithelial cell
-HPAO_000129	Rod photoreceptor cells	CL_0000604	retinal rod cell
-HPAO_000130	Salivary acinar cells	CL_0002623	acinar cell of salivary gland
-HPAO_000131	Salivary basal cells		
-HPAO_000132	Salivary duct cells		
-HPAO_000133	Salivary ionocytes	CL_0020065	Salivary ionocytes
-HPAO_000134	Salivary myoepithelial cells	CL_0020066	myoepithelial cell of salivary gland
-HPAO_000135	Schwann cells	CL_0002573	Schwann cell
-HPAO_000136	Sertoli cells	CL_0000216	Sertoli cell
-HPAO_000137	Smooth muscle cells	CL_0000192	smooth muscle cell
-HPAO_000138	Somatotrophs	CL_0002312	somatotroph
-HPAO_000139	Submucosal glandular cells		
-HPAO_000140	Suprabasal keratinocytes	CL_4033013	suprabasal keratinocyte
-HPAO_000141	Syncytiotrophoblasts	UBERON_0000371	syncytiotrophoblast
-HPAO_000142	T-cells	CL_0000084	T cell
-HPAO_000143	Thymic myoid cells		
-HPAO_000144	Thymocytes	CL_0000893	thymocyte
-HPAO_000145	Thyrotrophs	CL_0000476	thyrotroph
-HPAO_000146	Transitional alveolar cells		
-HPAO_000147	Tuft cells	CL_0002204	tuft cell
-HPAO_000148	Undifferentiated spermatogonia		
-HPAO_000149	Urothelial cells	CL_0000731	urothelial cell
-HPAO_000150	Vascular endothelial cells	CL_0002139	endothelial cell of vascular tree
-HPAO_000151	Vascular smooth muscle cells	CL_0000359	vascular associated smooth muscle cell
-HPAO_000152	cDC	CL_0000990	conventional dendritic cell
-HPAO_000153	monocytes	CL_0000576	monocyte
-HPAO_000154	pDCs	CL_0000784	plasmacytoid dendritic cell
+HPAC_000001	Adipocytes	CL_0000136	adipocyte
+HPAC_000002	Adrenal cortex cells	CL_0002097	cortical cell of adrenal gland
+HPAC_000003	Adrenal medulla cells		
+HPAC_000004	Alveolar cells type 1	CL_0002062	pulmonary alveolar type 1 cell
+HPAC_000005	Alveolar cells type 2	CL_0002063	pulmonary alveolar type 2 cell
+HPAC_000006	Astrocytes	CL_0000127	astrocyte
+HPAC_000007	B-cells	CL_0000236	B cell
+HPAC_000008	Basal keratinocytes	CL_0002187	basal cell of epidermis
+HPAC_000009	Basal prostatic cells		
+HPAC_000010	Bergmann glia	CL_0000644	Bergmann glial cell
+HPAC_000011	Brain excitatory neurons		
+HPAC_000012	Brain inhibitory neurons		
+HPAC_000013	Breast hormone-responsive cells		
+HPAC_000014	Breast lactating cells		
+HPAC_000015	Breast myoepithelial cells		
+HPAC_000016	Breast secretory cells		
+HPAC_000017	Cardiomyocytes	CL_0000746	cardiac muscle cell
+HPAC_000018	Cholangiocytes	CL_1000488	cholangiocyte
+HPAC_000019	Choroid plexus epithelial cells	CL_0000706	choroid plexus epithelial cell
+HPAC_000020	Colonocytes	CL_1000347	colonocyte
+HPAC_000021	Cone photoreceptor cells	CL_0000573	retinal cone cell
+HPAC_000022	Conjunctival goblet cells	CL_2000084	conjunctiva goblet cell
+HPAC_000023	Corticotrophs	CL_0002309	corticotroph
+HPAC_000024	Cytotrophoblasts		
+HPAC_000025	Decidual stromal cells	CL_2000002	decidual cell
+HPAC_000026	Differentiating spermatogonia		
+HPAC_000027	Distal convoluted tubule cells	CL_1000849	kidney distal convoluted tubule epithelial cell
+HPAC_000028	Early primary spermatocytes		
+HPAC_000029	Early spermatids	CL_4030036	early spermatid
+HPAC_000030	Endometrial ciliated cells	CL_4030040	endometrial multiciliated epithelial cell
+HPAC_000031	Endometrial glandular cells	CL_0009084	glandular epithelial cell of endometrium
+HPAC_000032	Endometrial luminal cells	CL_4052050	luminal epithelial cell of endometrium
+HPAC_000033	Endometrial secretory cells		
+HPAC_000034	Endometrial stromal cells	CL_0002255	stromal cell of endometrium
+HPAC_000035	Enteric stem cells		
+HPAC_000036	Enteric transient amplifying cells		
+HPAC_000037	Enterocytes	CL_0000584	enterocyte
+HPAC_000038	Ependymal cells	CL_0000065	ependymal cell
+HPAC_000039	Epicardial cells		
+HPAC_000040	Epididymal basal cells		
+HPAC_000041	Epididymal clear cells		
+HPAC_000042	Epididymal efferent duct absorptive cells		
+HPAC_000043	Epididymal efferent duct ciliated cells		
+HPAC_000044	Epididymal principal cells		
+HPAC_000045	Erythrocyte progenitors		
+HPAC_000046	Erythrocytes	CL_0000232	erythrocyte
+HPAC_000047	Esophageal apical cells		
+HPAC_000048	Esophageal basal cells		
+HPAC_000049	Esophageal suprabasal cells		
+HPAC_000050	Extravillous trophoblasts	CL_0008036	extravillous trophoblast
+HPAC_000051	Fallopian secretory cells	CL_4030006	fallopian tube secretory epithelial cell
+HPAC_000052	Fallopian tube ciliated cells	CL_4030007	fallopian tube multiciliated epithelial cell
+HPAC_000053	Fibro-adipogenic progenitors		
+HPAC_000054	Fibroblasts	CL_0000057	fibroblast
+HPAC_000055	Foveolar cells	CL_0002179	foveolar cell of stomach
+HPAC_000056	Gastric chief cells	CL_0000155	peptic cell
+HPAC_000057	Gastric progenitor cells		
+HPAC_000058	Goblet cells	CL_0000160	goblet cell
+HPAC_000059	Gonadotrophs	CL_0000437	gonadtroph
+HPAC_000060	Granulosa cells	CL_0000501	granulosa cell
+HPAC_000061	Hematopoietic stem cells	CL_0000037	hematopoietic stem cell
+HPAC_000062	Hepatic stellate cells	CL_0000632	hepatic stellate cell
+HPAC_000063	Hepatocytes	CL_0000182	hepatocyte
+HPAC_000064	Hofbauer cells	CL_3000001	Hofbauer cell
+HPAC_000065	Innate lymphoid cells	CL_0001065	innate lymphoid cell
+HPAC_000066	Kupffer cells	CL_0000091	Kupffer cell
+HPAC_000067	Lacrimal acinar cells		
+HPAC_000068	Lactotrophs	CL_0002311	mammotroph
+HPAC_000069	Late primary spermatocytes		
+HPAC_000070	Late spermatids	CL_4030037	late spermatid
+HPAC_000071	Leydig cells	CL_0000178	Leydig cell
+HPAC_000072	Loop of henle epithelial cells	CL_1000909	kidney loop of Henle epithelial cell
+HPAC_000073	Lymphatic endothelial cells	CL_0002138	endothelial cell of lymphatic vessel
+HPAC_000074	Macrophages	CL_0000394	plasmatocyte
+HPAC_000075	Mast cells	CL_0000097	mast cell
+HPAC_000076	Medullary thymic epithelial cells	CL_0002365	medullary thymic epithelial cell
+HPAC_000077	Megakaryocyte progenitors		
+HPAC_000078	Megakaryocyte-Erythroid progenitors	CL_0000050	megakaryocyte-erythroid progenitor cell
+HPAC_000079	Megakaryocytes	CL_0000556	megakaryocyte
+HPAC_000080	Melanocytes	CL_0000148	melanocyte
+HPAC_000081	Mesothelial cells	CL_0000077	mesothelial cell
+HPAC_000082	Microglia	CL_0000129	microglial cell
+HPAC_000083	Migrating cytotrophoblasts		
+HPAC_000084	Monocyte progenitors		
+HPAC_000085	Mucous neck cells	CL_0002181	mucous neck cell of gastric gland
+HPAC_000086	Myonuclei		
+HPAC_000087	Myosatellite cells		
+HPAC_000088	Müller glia	CL_0000636	Mueller cell
+HPAC_000089	NK-cells	CL_0000623	natural killer cell
+HPAC_000090	Neuroendocrine cells	CL_0000165	neuroendocrine cell
+HPAC_000091	Neutrophil progenitors	CL_0000834	neutrophil progenitor cell
+HPAC_000092	Neutrophils	CL_0000775	neutrophil
+HPAC_000093	Ocular epithelial cells		
+HPAC_000094	Oligodendrocyte progenitor cells		
+HPAC_000095	Oligodendrocytes	CL_0000128	oligodendrocyte
+HPAC_000096	Oocytes	CL_0000023	oocyte
+HPAC_000097	Other brain neurons		
+HPAC_000098	Ovarian stromal cells	CL_0002132	stromal cell of ovary
+HPAC_000099	Pancreatic acinar cells	CL_0002064	pancreatic acinar cell
+HPAC_000100	Pancreatic duct cells	CL_0002079	pancreatic ductal cell
+HPAC_000101	Pancreatic islet cells		
+HPAC_000102	Paneth cells	CL_0000510	paneth cell
+HPAC_000103	Papillary tip epithelial cells		
+HPAC_000104	Parietal cells	CL_0000162	parietal cell
+HPAC_000105	Pericytes	CL_0000669	pericyte
+HPAC_000106	Peritubular myoid cells	CL_0002481	peritubular myoid cell
+HPAC_000107	Pituicytes/FSCs		
+HPAC_000108	Pituitary stem cells		
+HPAC_000109	Plasma cells	CL_0000786	plasma cell
+HPAC_000110	Platelets	CL_0000233	platelet
+HPAC_000111	Podocytes	CL_0000653	podocyte
+HPAC_000112	Prostatic club cells		
+HPAC_000113	Prostatic glandular cells		
+HPAC_000114	Prostatic hillock cells		
+HPAC_000115	Proximal tubule cells		
+HPAC_000116	Renal collecting duct intercalated cells		
+HPAC_000117	Renal collecting duct principal cells		
+HPAC_000118	Renal connecting tubule cells		
+HPAC_000119	Respiratory basal cells	CL_0002633	respiratory basal cell
+HPAC_000120	Respiratory ciliated cells	CL_4030034	respiratory tract multiciliated cell
+HPAC_000121	Respiratory deuterosomal cells	CL_4033044	deuterosomal cell
+HPAC_000122	Respiratory ionocytes	CL_0017000	pulmonary ionocyte
+HPAC_000123	Respiratory secretory cells	CL_0008055	respiratory tract secretory epithelial cell
+HPAC_000124	Retinal amacrine cells	CL_0000561	amacrine cell
+HPAC_000125	Retinal bipolar cells	CL_0000748	retinal bipolar neuron
+HPAC_000126	Retinal ganglion cells	CL_0000740	retinal ganglion cell
+HPAC_000127	Retinal horizontal cells	CL_0000745	retina horizontal cell
+HPAC_000128	Retinal pigment epithelial cells	CL_0002586	retinal pigment epithelial cell
+HPAC_000129	Rod photoreceptor cells	CL_0000604	retinal rod cell
+HPAC_000130	Salivary acinar cells	CL_0002623	acinar cell of salivary gland
+HPAC_000131	Salivary basal cells		
+HPAC_000132	Salivary duct cells		
+HPAC_000133	Salivary ionocytes	CL_0020065	Salivary ionocytes
+HPAC_000134	Salivary myoepithelial cells	CL_0020066	myoepithelial cell of salivary gland
+HPAC_000135	Schwann cells	CL_0002573	Schwann cell
+HPAC_000136	Sertoli cells	CL_0000216	Sertoli cell
+HPAC_000137	Smooth muscle cells	CL_0000192	smooth muscle cell
+HPAC_000138	Somatotrophs	CL_0002312	somatotroph
+HPAC_000139	Submucosal glandular cells		
+HPAC_000140	Suprabasal keratinocytes	CL_4033013	suprabasal keratinocyte
+HPAC_000141	Syncytiotrophoblasts	UBERON_0000371	syncytiotrophoblast
+HPAC_000142	T-cells	CL_0000084	T cell
+HPAC_000143	Thymic myoid cells		
+HPAC_000144	Thymocytes	CL_0000893	thymocyte
+HPAC_000145	Thyrotrophs	CL_0000476	thyrotroph
+HPAC_000146	Transitional alveolar cells		
+HPAC_000147	Tuft cells	CL_0002204	tuft cell
+HPAC_000148	Undifferentiated spermatogonia		
+HPAC_000149	Urothelial cells	CL_0000731	urothelial cell
+HPAC_000150	Vascular endothelial cells	CL_0002139	endothelial cell of vascular tree
+HPAC_000151	Vascular smooth muscle cells	CL_0000359	vascular associated smooth muscle cell
+HPAC_000152	cDC	CL_0000990	conventional dendritic cell
+HPAC_000153	monocytes	CL_0000576	monocyte
+HPAC_000154	pDCs	CL_0000784	plasmacytoid dendritic cell
