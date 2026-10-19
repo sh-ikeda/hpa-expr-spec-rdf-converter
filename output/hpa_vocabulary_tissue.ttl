@@ -8,157 +8,196 @@
 
 hpao:HPAT_000001 a owl:Class ;
     dcterms:identifier "HPAT_000001" ;
+    skos:closeMatch caloha:TS-0013 ;
     rdfs:label "adipose tissue" .
 
 hpao:HPAT_000002 a owl:Class ;
     dcterms:identifier "HPAT_000002" ;
+    skos:closeMatch caloha:TS-0016 ;
     rdfs:label "adrenal gland" .
 
 hpao:HPAT_000003 a owl:Class ;
     dcterms:identifier "HPAT_000003" ;
+    skos:closeMatch caloha:TS-0079 ;
     rdfs:label "blood" .
 
 hpao:HPAT_000004 a owl:Class ;
     dcterms:identifier "HPAT_000004" ;
+    skos:closeMatch caloha:TS-0080 ;
     rdfs:label "blood vessel" .
 
 hpao:HPAT_000005 a owl:Class ;
     dcterms:identifier "HPAT_000005" ;
+    skos:closeMatch caloha:TS-0087 ;
     rdfs:label "bone marrow" .
 
 hpao:HPAT_000006 a owl:Class ;
     dcterms:identifier "HPAT_000006" ;
+    skos:closeMatch caloha:TS-0095 ;
     rdfs:label "brain" .
 
 hpao:HPAT_000007 a owl:Class ;
     dcterms:identifier "HPAT_000007" ;
+    skos:closeMatch caloha:TS-2083 ;
     rdfs:label "breast" .
 
 hpao:HPAT_000008 a owl:Class ;
     dcterms:identifier "HPAT_000008" ;
+    skos:closeMatch caloha:TS-0134 ;
     rdfs:label "cervix" .
 
 hpao:HPAT_000009 a owl:Class ;
     dcterms:identifier "HPAT_000009" ;
+    skos:closeMatch caloha:TS-0145 ;
     rdfs:label "choroid plexus" .
 
 hpao:HPAT_000010 a owl:Class ;
     dcterms:identifier "HPAT_000010" ;
+    skos:closeMatch caloha:TS-1105 ;
     rdfs:label "ductus deferens" .
 
 hpao:HPAT_000011 a owl:Class ;
     dcterms:identifier "HPAT_000011" ;
+    skos:closeMatch caloha:TS-0276 ;
     rdfs:label "endometrium 1" .
 
 hpao:HPAT_000012 a owl:Class ;
     dcterms:identifier "HPAT_000012" ;
+    skos:closeMatch caloha:TS-0285 ;
     rdfs:label "epididymis" .
 
 hpao:HPAT_000013 a owl:Class ;
     dcterms:identifier "HPAT_000013" ;
+    skos:closeMatch caloha:TS-0700 ;
     rdfs:label "esophagus" .
 
 hpao:HPAT_000014 a owl:Class ;
     dcterms:identifier "HPAT_000014" ;
+    skos:closeMatch caloha:TS-0732 ;
     rdfs:label "fallopian tube" .
 
 hpao:HPAT_000015 a owl:Class ;
     dcterms:identifier "HPAT_000015" ;
+    skos:closeMatch caloha:TS-0394 ;
     rdfs:label "gallbladder" .
 
 hpao:HPAT_000016 a owl:Class ;
     dcterms:identifier "HPAT_000016" ;
+    skos:closeMatch caloha:TS-0490 ;
     rdfs:label "intestine" .
 
 hpao:HPAT_000017 a owl:Class ;
     dcterms:identifier "HPAT_000017" ;
+    skos:closeMatch caloha:TS-0510 ;
     rdfs:label "kidney" .
 
 hpao:HPAT_000018 a owl:Class ;
     dcterms:identifier "HPAT_000018" ;
+    skos:closeMatch caloha:TS-0564 ;
     rdfs:label "liver" .
 
 hpao:HPAT_000019 a owl:Class ;
     dcterms:identifier "HPAT_000019" ;
+    skos:closeMatch caloha:TS-0568 ;
     rdfs:label "lung" .
 
 hpao:HPAT_000020 a owl:Class ;
     dcterms:identifier "HPAT_000020" ;
+    skos:closeMatch caloha:TS-0584 ;
     rdfs:label "lymphoid tissue" .
 
 hpao:HPAT_000021 a owl:Class ;
     dcterms:identifier "HPAT_000021" ;
+    skos:closeMatch caloha:TS-0730 ;
     rdfs:label "ovary" .
 
 hpao:HPAT_000022 a owl:Class ;
     dcterms:identifier "HPAT_000022" ;
+    skos:closeMatch caloha:TS-0736 ;
     rdfs:label "pancreas" .
 
 hpao:HPAT_000023 a owl:Class ;
     dcterms:identifier "HPAT_000023" ;
+    skos:closeMatch caloha:TS-0745 ;
     rdfs:label "parathyroid gland" .
 
 hpao:HPAT_000024 a owl:Class ;
     dcterms:identifier "HPAT_000024" ;
+    skos:closeMatch caloha:TS-0798 ;
     rdfs:label "pituitary gland" .
 
 hpao:HPAT_000025 a owl:Class ;
     dcterms:identifier "HPAT_000025" ;
+    skos:closeMatch caloha:TS-0799 ;
     rdfs:label "placenta" .
 
 hpao:HPAT_000026 a owl:Class ;
     dcterms:identifier "HPAT_000026" ;
+    skos:closeMatch caloha:TS-0828 ;
     rdfs:label "prostate" .
 
 hpao:HPAT_000027 a owl:Class ;
     dcterms:identifier "HPAT_000027" ;
+    skos:closeMatch caloha:TS-0865 ;
     rdfs:label "retina" .
 
 hpao:HPAT_000028 a owl:Class ;
     dcterms:identifier "HPAT_000028" ;
+    skos:closeMatch caloha:TS-0892 ;
     rdfs:label "salivary gland" .
 
 hpao:HPAT_000029 a owl:Class ;
     dcterms:identifier "HPAT_000029" ;
+    skos:closeMatch caloha:TS-0919 ;
     rdfs:label "seminal vesicle" .
 
 hpao:HPAT_000030 a owl:Class ;
     dcterms:identifier "HPAT_000030" ;
+    skos:closeMatch caloha:TS-2615 ;
     rdfs:label "skeletal muscle" .
 
 hpao:HPAT_000031 a owl:Class ;
     dcterms:identifier "HPAT_000031" ;
+    skos:closeMatch caloha:TS-0934 ;
     rdfs:label "skin 1" .
 
 hpao:HPAT_000032 a owl:Class ;
     dcterms:identifier "HPAT_000032" ;
+    skos:closeMatch caloha:TS-0980 ;
     rdfs:label "stomach 1" .
 
 hpao:HPAT_000033 a owl:Class ;
     dcterms:identifier "HPAT_000033" ;
+    skos:closeMatch caloha:TS-1030 ;
     rdfs:label "testis" .
 
 hpao:HPAT_000034 a owl:Class ;
     dcterms:identifier "HPAT_000034" ;
+    skos:closeMatch caloha:TS-1047 ;
     rdfs:label "thyroid gland" .
 
 hpao:HPAT_000035 a owl:Class ;
     dcterms:identifier "HPAT_000035" ;
+    skos:closeMatch caloha:TS-1050 ;
     rdfs:label "tongue" .
 
 hpao:HPAT_000036 a owl:Class ;
     dcterms:identifier "HPAT_000036" ;
+    skos:closeMatch caloha:TS-1090 ;
     rdfs:label "urinary bladder" .
 
 hpao:HPAT_000037 a owl:Class ;
     dcterms:identifier "HPAT_000037" ;
+    skos:closeMatch caloha:TS-1103 ;
     rdfs:label "vagina" .
 
 hpao:HPAT_000038 a owl:Class ;
     dcterms:identifier "HPAT_000038" ;
+    skos:closeMatch caloha:TS-0440 ;
     rdfs:label "heart muscle" .
 
 hpao:HPAT_000039 a owl:Class ;
     dcterms:identifier "HPAT_000039" ;
+    skos:closeMatch caloha:TS-0943 ;
     rdfs:label "smooth muscle" .
 
