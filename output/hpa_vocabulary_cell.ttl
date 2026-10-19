@@ -723,3 +723,154 @@ hpao:HPAC_000154 a owl:Class ;
     skos:closeMatch obo:CL_0000784 ;
     rdfs:label "pDCs" .
 
+hpao:HPAC_000155 a owl:Class ;
+    dcterms:identifier "HPAC_000155" ;
+    skos:closeMatch obo:CL_0000622 ;
+    rdfs:label "Acinar cells" .
+
+hpao:HPAC_000156 a owl:Class ;
+    dcterms:identifier "HPAC_000156" ;
+    rdfs:label "Adrenal endocrine cells" .
+
+hpao:HPAC_000157 a owl:Class ;
+    dcterms:identifier "HPAC_000157" ;
+    rdfs:label "Alveolar cells" .
+
+hpao:HPAC_000158 a owl:Class ;
+    dcterms:identifier "HPAC_000158" ;
+    rdfs:label "Apical squamous epithelial cells" .
+
+hpao:HPAC_000159 a owl:Class ;
+    dcterms:identifier "HPAC_000159" ;
+    rdfs:label "Barrier epithelial cells" .
+
+hpao:HPAC_000160 a owl:Class ;
+    dcterms:identifier "HPAC_000160" ;
+    skos:closeMatch obo:CL_0000646 ;
+    rdfs:label "Basal cells" .
+
+hpao:HPAC_000161 a owl:Class ;
+    dcterms:identifier "HPAC_000161" ;
+    skos:closeMatch obo:CL_0000064 ;
+    rdfs:label "Ciliated cells" .
+
+hpao:HPAC_000162 a owl:Class ;
+    dcterms:identifier "HPAC_000162" ;
+    skos:closeMatch obo:CL_0000068 ;
+    rdfs:label "Ductal cells" .
+
+hpao:HPAC_000163 a owl:Class ;
+    dcterms:identifier "HPAC_000163" ;
+    skos:closeMatch obo:CL_0000115 ;
+    rdfs:label "Endothelial cells" .
+
+hpao:HPAC_000164 a owl:Class ;
+    dcterms:identifier "HPAC_000164" ;
+    skos:closeMatch obo:CL_0000164 ;
+    rdfs:label "Enteroendocrine cells" .
+
+hpao:HPAC_000165 a owl:Class ;
+    dcterms:identifier "HPAC_000165" ;
+    rdfs:label "Gastric glandular cells" .
+
+hpao:HPAC_000166 a owl:Class ;
+    dcterms:identifier "HPAC_000166" ;
+    rdfs:label "Glandular cells" .
+
+hpao:HPAC_000167 a owl:Class ;
+    dcterms:identifier "HPAC_000167" ;
+    skos:closeMatch obo:CL_0000125 ;
+    rdfs:label "Glial cells" .
+
+hpao:HPAC_000168 a owl:Class ;
+    dcterms:identifier "HPAC_000168" ;
+    skos:closeMatch obo:CL_0005006 ;
+    rdfs:label "Ionocytes" .
+
+hpao:HPAC_000169 a owl:Class ;
+    dcterms:identifier "HPAC_000169" ;
+    rdfs:label "Luminal cells" .
+
+hpao:HPAC_000170 a owl:Class ;
+    dcterms:identifier "HPAC_000170" ;
+    skos:closeMatch obo:CL_0000113 ;
+    rdfs:label "Mononuclear phagocytes" .
+
+hpao:HPAC_000171 a owl:Class ;
+    dcterms:identifier "HPAC_000171" ;
+    skos:closeMatch obo:CL_0008034 ;
+    rdfs:label "Mural cells" .
+
+hpao:HPAC_000172 a owl:Class ;
+    dcterms:identifier "HPAC_000172" ;
+    skos:closeMatch obo:CL_0000187 ;
+    rdfs:label "Myocytes" .
+
+hpao:HPAC_000173 a owl:Class ;
+    dcterms:identifier "HPAC_000173" ;
+    skos:closeMatch obo:CL_0002319 ;
+    rdfs:label "Neuronal cells" .
+
+hpao:HPAC_000174 a owl:Class ;
+    dcterms:identifier "HPAC_000174" ;
+    skos:closeMatch obo:CL_0000147 ;
+    rdfs:label "Pigment cells" .
+
+hpao:HPAC_000175 a owl:Class ;
+    dcterms:identifier "HPAC_000175" ;
+    rdfs:label "Pituitary endocrine cells" .
+
+hpao:HPAC_000176 a owl:Class ;
+    dcterms:identifier "HPAC_000176" ;
+    rdfs:label "Proliferating cells" .
+
+hpao:HPAC_000177 a owl:Class ;
+    dcterms:identifier "HPAC_000177" ;
+    rdfs:label "Renal nephron cells" .
+
+hpao:HPAC_000178 a owl:Class ;
+    dcterms:identifier "HPAC_000178" ;
+    rdfs:label "Reproductive supporting cells" .
+
+hpao:HPAC_000179 a owl:Class ;
+    dcterms:identifier "HPAC_000179" ;
+    skos:closeMatch obo:CL_0000151 ;
+    rdfs:label "Secretory cells" .
+
+hpao:HPAC_000180 a owl:Class ;
+    dcterms:identifier "HPAC_000180" ;
+    rdfs:label "Secretory gland support" .
+
+hpao:HPAC_000181 a owl:Class ;
+    dcterms:identifier "HPAC_000181" ;
+    rdfs:label "Spermatogenic cell types" .
+
+hpao:HPAC_000182 a owl:Class ;
+    dcterms:identifier "HPAC_000182" ;
+    rdfs:label "Stellate cells" .
+
+hpao:HPAC_000183 a owl:Class ;
+    dcterms:identifier "HPAC_000183" ;
+    skos:closeMatch obo:CL_0000034 ;
+    rdfs:label "Stem cells" .
+
+hpao:HPAC_000184 a owl:Class ;
+    dcterms:identifier "HPAC_000184" ;
+    skos:closeMatch obo:CL_0000499 ;
+    rdfs:label "Stromal cells" .
+
+hpao:HPAC_000185 a owl:Class ;
+    dcterms:identifier "HPAC_000185" ;
+    skos:closeMatch obo:CL_7770004 ;
+    rdfs:label "Suprabasal cells" .
+
+hpao:HPAC_000186 a owl:Class ;
+    dcterms:identifier "HPAC_000186" ;
+    skos:closeMatch obo:CL_0000351 ;
+    rdfs:label "Trophoblast cells" .
+
+hpao:HPAC_000187 a owl:Class ;
+    dcterms:identifier "HPAC_000187" ;
+    skos:closeMatch obo:CL_0000451 ;
+    rdfs:label "dendritic cells" .
+
